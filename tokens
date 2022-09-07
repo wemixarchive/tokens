@@ -5,7 +5,7 @@
       "name": "WEMIX",
       "symbol": "WEMIX",
       "decimal": 18,
-      "address": "0x0000000000000000000000000000000000000000",
+      "address": "0x1a26368e3e8c2EC37dbDb3bfC82a43C807654981",
       "required": true,
       "icon": "https://wallet.test.wemix.com/tokens/icon/symbol.png",
       "description": {
