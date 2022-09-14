@@ -5,7 +5,7 @@
       "name": "WEMIX",
       "symbol": "WEMIX",
       "decimal": 18,
-      "address": "0x1a26368e3e8c2EC37dbDb3bfC82a43C807654981",
+      "address": "0x4Db018Eff1e317dA03D281a92294bBAEAB9b1b78",
       "required": true,
       "icon": "https://wallet.test.wemix.com/tokens/icon/symbol.png",
       "description": {
@@ -27,7 +27,7 @@
       "name": "WEMIX$",
       "symbol": "WEMIX$",
       "decimal": 18,
-      "address": "0x4f02E794AFF0d7b19Ca0F0f79CeB7Cf7fcF765B2",
+      "address": "0x8F0Cdd5A0Ae4A1325B84FAf00B9364310Ab797C3",
       "required": true,
       "icon": "https://wallet.test.wemix.com/tokens/icon/symbol.png",
       "description": {
@@ -47,7 +47,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimal": 18,
-      "address": "0x7c720E3327C8C636bae2a77c425Cc7dF36C6C8e7",
+      "address": "0x34963D10e298A59902548ed21b51dBA40CB1e994",
       "required": true,
       "icon": "https://wallet.test.wemix.com/tokens/icon/symbol.png",
       "description": {
