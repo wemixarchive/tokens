@@ -1,5 +1,5 @@
 {
-  "updated_at": 1664964102,
+  "updated_at": 1665292382,
   "tokens": [
     {
       "name": "WEMIX",
@@ -13,6 +13,7 @@
         "ko": "WEMIX는 고성능 EVM 호환 오픈소스 프로토콜입니다. SPoA(스테이킹 기반 권한증명) 컨센서스 알고리즘을 기반으로 작동하며, 이 알고리즘은 자격이 충분한 글로벌 파트너에 의해 운영되는 40개의 탈중앙화 권위 노드 및 온체인 커뮤니티 DAO가 보장합니다. 플랫폼 중심의 서비스 지향적인, 튼튼하고 효율적인 퍼블릭 블록체인으로 기획됐으며, 커뮤니티 구성원이 만들고 전 세계에서 이용할 수 있는 혁신적인 프로젝트와 앱의 보금자리입니다."
       },
       "whitepaper": "https://docs.wemix.com",
+      "news": "https://medium.com/@WEMIX-PR",
       "news_rss": "https://medium.com/feed/@WEMIX-PR",
       "channels": {
         "site": "https://www.wemix.com",
@@ -35,6 +36,7 @@
         "ko": "WEMIX$(위믹스달러)는 WEMIX-Chain에 발행되는 스테이블 코인으로 WEMIX.Fi, NILE, WEMIX PLAY등 위믹스 생태계의 다양한 플랫폼 및 경제에 활용될 수 있는 기준 통화입니다."
       },
       "whitepaper": "https://docs.wemix.com/",
+      "news": "https://medium.com/@WEMIX-PR",
       "news_rss": "https://medium.com/feed/@WEMIX-PR",
       "channels": {
         "telegram": "https://t.me/WEMIX_ANNouncement",
@@ -55,6 +57,7 @@
         "ko": "USD 코인(USDC로 알려져 있음)은 1:1의 비율로 미국 달러에 연동이 되어 있는 스테이블코인입니다. 현재 유통되고 있는 해당 암호화폐의 모든 단위는 보유고에 있는 현금과 단기 미국 국채가 혼합된 1달러에 의해 지원을 받는다고 보면 됩니다. 이 자산의 뒤에 있는 센터 컨소시엄(Centre Consortium)은 USDC가 규제 금융 기관들에 의해 발행된다고 말합니다.\n\n이 스테이블코인은 지난 2018년 9월 제한적으로 출시되었습니다. 간단히 말하면, USD 코인의 만트라는 \"디지털 시대를 위한 디지털 화폐\"이며, 스테이블코인은 무현금 거래가 보편화되고 있는 세상을 위해 고안된 것입니다."
       },
       "whitepaper": "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf",
+      "news": "https://medium.com/@WEMIX-PR",
       "news_rss": "https://medium.com/feed/@WEMIX-PR",
       "channels": {
         "site": "https://www.circle.com/en/usdc",
