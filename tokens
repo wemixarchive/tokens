@@ -1,5 +1,5 @@
 {
-  "updated_at": 1665557071,
+  "updated_at": 1665648543,
   "tokens": [
     {
       "name": "WEMIX",
@@ -13,11 +13,11 @@
         "ko": "위믹스 코인은 위믹스 생태계의 네이티브 코인으로써 위믹스 메인넷의 거래의 수단이자 가스비의 지불 수단으로 쓰입니다.\n\n위믹스3.0에서는 1초에 1개의 블록이 생성되며, Permanent Minting Reward(PMR) 프로토콜에 따라 거버넌스 파트너(40%), 에코펀드(25%), 에코시스템 유지비용(25%), 스테이킹 보상(10%)으로 각각 분배되게 됩니다."
       },
       "whitepaper": "https://docs.wemix.com",
-      "news": "https://medium.com/@WEMIX-PR",
-      "news_rss": "https://medium.com/feed/@WEMIX-PR",
+      "news": "https://medium.com/wemix-communication/tagged/wemix-coin-news",
+      "news_rss": "https://medium.com/feed/wemix-communication/tagged/wemix-coin-news",
       "channels": {
         "site": "https://www.wemix.com/",
-        "medium": "https://medium.com/wemix-communication",
+        "medium": "https://medium.com/wemix-communication/tagged/wemix-coin-news",
         "telegram": "https://t.me/WEMIX_ANNouncement",
         "twitter": "https://twitter.com/WemixNetwork",
         "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
@@ -36,10 +36,10 @@
         "ko": "WEMIX$(위믹스달러)는 위믹스3.0 메가에코시스템 내 거래와 탈중앙화 금융에서 활용되는 단위화폐이며 준비금을 보관하는 Treasury, WEMIX$ 발행과 소각이 이루어지는 MINT 그리고 가격을 안정적으로 유지하는 DIOS로 운영됩니다.\n\nWEMIX$는 USDC를 100% 담보로 하며, DIOS 프로토콜은 생태계의 확장과 축소에 따라 WEMIX$의 발행량과 USDC 보유량을 조절해 디페깅(depegging)을 방지하고 WEMIX$의 가치를 일정하게 유지합니다."
       },
       "whitepaper": "https://docs.wemix.com/",
-      "news": "https://medium.com/@WEMIX-PR",
-      "news_rss": "https://medium.com/feed/@WEMIX-PR",
+      "news": "https://medium.com/wemix-communication/tagged/wemix-dollar-news",
+      "news_rss": "https://medium.com/feed/wemix-communication/tagged/wemix-dollar-news",
       "channels": {
-        "medium": "https://medium.com/wemix-communication",
+        "medium": "https://medium.com/wemix-communication/tagged/wemix-dollar-news",
         "telegram": "https://t.me/WEMIX_ANNouncement",
         "twitter": "https://twitter.com/WemixNetwork",
         "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
@@ -58,14 +58,11 @@
         "ko": "WEMIX$(위믹스달러)는 위믹스3.0 메가에코시스템 내 거래와 탈중앙화 금융에서 활용되는 단위화폐이며 준비금을 보관하는 Treasury, WEMIX$ 발행과 소각이 이루어지는 MINT 그리고 가격을 안정적으로 유지하는 DIOS로 운영됩니다.\n\nWEMIX$는 USDC를 100% 담보로 하며, DIOS 프로토콜은 생태계의 확장과 축소에 따라 WEMIX$의 발행량과 USDC 보유량을 조절해 디페깅(depegging)을 방지하고 WEMIX$의 가치를 일정하게 유지합니다."
       },
       "whitepaper": "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf",
-      "news": "https://medium.com/@WEMIX-PR",
-      "news_rss": "https://medium.com/feed/@WEMIX-PR",
       "channels": {
-        "medium": "https://medium.com/wemix-communication",
-        "telegram": "https://t.me/WEMIX_ANNouncement",
-        "twitter": "https://twitter.com/WemixNetwork",
-        "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
-        "facebook": "https://www.facebook.com/WEMIXBlockchain"
+        "site": "https://www.circle.com/en/usdc",
+        "twitter": "https://twitter.com/circlepay",
+        "youtube" : "https://www.youtube.com/c/Circlecryptofinance",
+        "discord": "https://discord.com/invite/Q7bKN5y"
       }
     }
   ]
