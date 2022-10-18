@@ -1,8 +1,9 @@
 {
-  "updated_at": 1666080525,
+  "updated_at": 1666083671,
   "tokens": [
     {
       "name": "WEMIX",
+      "display_name": "WEMIX",
       "symbol": "WEMIX",
       "decimal": 18,
       "address": "0x0a95a2fc11957BBF2B826Bee00d0492d209c103F",
@@ -26,6 +27,7 @@
     },
     {
       "name": "WEMIX$",
+      "display_name": "WEMIX$",
       "symbol": "WEMIX$",
       "decimal": 18,
       "address": "0x311b312b7F1c109728aba5e63AEe35C81A276342",
@@ -47,7 +49,8 @@
       }
     },
     {
-      "name": "USD Coin",
+      "name": "USDC",
+      "display_name": "USD Coin",
       "symbol": "USDC",
       "decimal": 18,
       "address": "0xBEC61661a1Cd78c5B917e3451d55f4dD899164AB",
