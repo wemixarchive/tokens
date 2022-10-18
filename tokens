@@ -1,5 +1,5 @@
 {
-  "updated_at": 1666083671,
+  "updated_at": 1666117183,
   "tokens": [
     {
       "name": "WEMIX",
@@ -67,6 +67,19 @@
         "youtube" : "https://www.youtube.com/c/Circlecryptofinance",
         "discord": "https://discord.com/invite/Q7bKN5y"
       }
+    },
+    {
+      "name": "KLAY",
+      "display_name": "KLAY",
+      "symbol": "KLAY",
+      "decimal": 18,
+      "address": "0x6591363685BC30849df4F622e533483aCE873dBf",
+      "required": false,
+      "icon": "https://wallet.test.wemix.com/app/images/icon_klay.png",
+      "description": {
+        "en": "klay en",
+        "ko": "klay ko"
+      },
     }
   ]
 }
