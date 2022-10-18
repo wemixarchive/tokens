@@ -6,7 +6,7 @@
       "display_name": "WEMIX",
       "symbol": "WEMIX",
       "decimal": 18,
-      "address": "0x0a95a2fc11957BBF2B826Bee00d0492d209c103F",
+      "address": "0x244c72AB61f11dD44Bfa4AaF11e2EFD89ca789fe",
       "required": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wemix.png",
       "description": {
@@ -30,7 +30,7 @@
       "display_name": "WEMIX$",
       "symbol": "WEMIX$",
       "decimal": 18,
-      "address": "0x311b312b7F1c109728aba5e63AEe35C81A276342",
+      "address": "0x96bcCa44Ba016c16bd11C8c38dca6fE0a99BfB28",
       "required": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wemix_dollar.png",
       "description": {
@@ -53,7 +53,7 @@
       "display_name": "USD Coin",
       "symbol": "USDC",
       "decimal": 18,
-      "address": "0xBEC61661a1Cd78c5B917e3451d55f4dD899164AB",
+      "address": "0xD5e3CcE1b6499846cD957EC374466c28D6D2CF7E",
       "required": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_usdc.png",
       "description": {
