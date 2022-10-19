@@ -1,5 +1,5 @@
 {
-  "updated_at": 1666144959,
+  "updated_at": 1666162746,
   "tokens": [
     {
       "name": "WEMIX",
@@ -70,7 +70,7 @@
     },
     {
       "name": "KLAY",
-      "display_name": "KLAY",
+      "display_name": "Klaytn",
       "symbol": "KLAY",
       "decimal": 18,
       "address": "0x6591363685BC30849df4F622e533483aCE873dBf",
