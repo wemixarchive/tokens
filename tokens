@@ -78,8 +78,16 @@
       "required": false,
       "icon": "https://wallet.test.wemix.com/app/images/icon_klay.png",
       "description": {
-        "en": "klay en",
-        "ko": "klay ko"
+        "en": "KLAY was launched in June of 2019 and it is the native token of Klaytn, a public blockchain developed by Ground X, a subsidiary of Kakao.\n10 billion KLAY were issued at genesis and it uses a Proof of Stake consensus mechanism known as IBFT (Istanbul Byzantine fault tolerance).",
+        "ko": "KLAY는 카카오 자회사 그라운드X에서 개발해 2019년 6월에 출시된 퍼블릭 블록체인 Klaytn의 네이티브 토큰입니다.\n런칭과 함께 10억 개가 발행됐으며, IBFT (Istanbul Byzantine fault tolerance)를 기반으로 한 Proof of Stake 합의 알고리즘을 사용합니다."
+      },
+      "whitepaper": "https://docs.klaytn.foundation",
+      "channels": {
+        "site": "https://www.klaytn.foundation",
+        "telegram": "https://t.me/Klaytn_EN",
+        "twitter": "https://twitter.com/klaytn_official",
+        "facebook": "https://www.facebook.com/klaytn.official",
+        "discord": "https://discord.com/invite/hNcrS4BQrm"
       }
     }
   ]
