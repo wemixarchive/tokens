@@ -1,14 +1,14 @@
 {
-  "updated_at": 1666162746,
+  "updated_at": 1666349432,
   "tokens": [
     {
       "name": "WEMIX",
       "display_name": "WEMIX",
       "symbol": "WEMIX",
       "decimal": 18,
-      "address": "0x244c72AB61f11dD44Bfa4AaF11e2EFD89ca789fe",
+      "address": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
       "required": true,
-      "icon": "https://wallet.test.wemix.com/tokens/icon/symbol.png",
+      "icon": "https://walletapi.wemix.com/tokens/icon/symbol.png",
       "description": {
         "en": "WEMIX, native coin of WEMIX mega-ecosystem, is used as a medium of exchange and payment method for gas fees within WEMIX mainnet.\n\nIn WEMIX3.0, one block is created every second, and PMR (Permanent Minting Reward) is distributed respectively to NCP (40%), stakers (10%), eco fund (25%) and maintenance (25%).",
         "ko": "위믹스 코인은 위믹스 생태계의 네이티브 코인으로써 위믹스 메인넷의 거래의 수단이자 가스비의 지불 수단으로 쓰입니다.\n\n위믹스3.0에서는 1초에 1개의 블록이 생성되며, Permanent Minting Reward(PMR) 프로토콜에 따라 거버넌스 파트너(40%), 에코펀드(25%), 에코시스템 유지비용(25%), 스테이킹 보상(10%)으로 각각 분배되게 됩니다."
@@ -30,9 +30,9 @@
       "display_name": "WEMIX$",
       "symbol": "WEMIX$",
       "decimal": 18,
-      "address": "0x96bcCa44Ba016c16bd11C8c38dca6fE0a99BfB28",
+      "address": "0x53c0cAfFEB6D4f5A6a65aAE0a11a99d82DA852Ed",
       "required": true,
-      "icon": "https://wallet.test.wemix.com/tokens/icon/symbol.png",
+      "icon": "https://walletapi.wemix.com/tokens/icon/symbol.png",
       "description": {
         "en": "WEMIX$, key currency used for transactions and DeFi services within WEMIX3.0 mega-ecosystem, is operated through Treasury which securely stores USDC as collateral, MINT which authorizes minting and burning of WEMIX$ based on the total reserve in the Treasury and DIOS protocol which maintains the value of WEMIX$.\n\nWEMIX$ is 100% collateralized to USDC, and DIOS protocol controls the total supply of minted WEMIX$ based on the expansion and contraction of the ecosystem, thus guaranteeing price stability and preventing peg deviation.",
         "ko": "WEMIX$(위믹스달러)는 위믹스3.0 메가에코시스템 내 거래와 탈중앙화 금융에서 활용되는 단위화폐이며 준비금을 보관하는 Treasury, WEMIX$ 발행과 소각이 이루어지는 MINT 그리고 가격을 안정적으로 유지하는 DIOS로 운영됩니다.\n\nWEMIX$는 USDC를 100% 담보로 하며, DIOS 프로토콜은 생태계의 확장과 축소에 따라 WEMIX$의 발행량과 USDC 보유량을 조절해 디페깅(depegging)을 방지하고 WEMIX$의 가치를 일정하게 유지합니다."
@@ -52,8 +52,8 @@
       "name": "USDC",
       "display_name": "USD Coin",
       "symbol": "USDC",
-      "decimal": 18,
-      "address": "0xD5e3CcE1b6499846cD957EC374466c28D6D2CF7E",
+      "decimal": 6,
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
       "required": true,
       "icon": "https://wallet.test.wemix.com/tokens/icon/symbol.png",
       "description": {
@@ -73,9 +73,9 @@
       "display_name": "Klaytn",
       "symbol": "KLAY",
       "decimal": 18,
-      "address": "0x6591363685BC30849df4F622e533483aCE873dBf",
+      "address": "0x461d52769884ca6235b685ef2040f47d30c94eb5",
       "required": false,
-      "icon": "https://wallet.test.wemix.com/app/images/icon_klay.png",
+      "icon": "https://wallet.wemix.com/app/images/icon_klay.png",
       "description": {
         "en": "KLAY was launched in June of 2019 and it is the native token of Klaytn, a public blockchain developed by Ground X, a subsidiary of Kakao.\n10 billion KLAY were issued at genesis and it uses a Proof of Stake consensus mechanism known as IBFT (Istanbul Byzantine fault tolerance).",
         "ko": "KLAY는 카카오 자회사 그라운드X에서 개발해 2019년 6월에 출시된 퍼블릭 블록체인 Klaytn의 네이티브 토큰입니다.\n런칭과 함께 10억 개가 발행됐으며, IBFT (Istanbul Byzantine fault tolerance)를 기반으로 한 Proof of Stake 합의 알고리즘을 사용합니다."
