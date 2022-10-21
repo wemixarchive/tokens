@@ -73,7 +73,7 @@
       "display_name": "Klaytn",
       "symbol": "KLAY",
       "decimal": 18,
-      "address": "0x73819c225C6aCe4d090d93d07bd0554cC17aC714",
+      "address": "0xA3d0dFEbc5C79C3D8b4B92f8e67baCe271b4Ac4F",
       "required": false,
       "icon": "https://wallet.test.wemix.com/app/images/icon_klay.png",
       "description": {
