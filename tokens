@@ -1,5 +1,5 @@
 {
-  "updated_at": 1666328529,
+  "updated_at": 1666360153,
   "tokens": [
     {
       "name": "WEMIX",
@@ -30,7 +30,7 @@
       "display_name": "WEMIX$",
       "symbol": "WEMIX$",
       "decimal": 18,
-      "address": "0x25cBC8a4C29054E6fF1762f9EdfCCae1631d478E",
+      "address": "0xC16E1081b7aE324Ca4088b942e351A26BC60c243",
       "required": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wemix_dollar.png",
       "description": {
@@ -52,8 +52,8 @@
       "name": "USDC",
       "display_name": "USD Coin",
       "symbol": "USDC",
-      "decimal": 18,
-      "address": "0xd630773296716f67d22c1d8e757F993Ce1F244c8",
+      "decimal": 6,
+      "address": "0x1D2B8659dE65525Ce1eE17e81119C7B267c6e06d",
       "required": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_usdc.png",
       "description": {
