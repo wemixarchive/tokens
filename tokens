@@ -1,5 +1,5 @@
 {
-  "updated_at": 1666349432,
+  "updated_at": 1666380243,
   "tokens": [
     {
       "name": "WEMIX",
@@ -8,7 +8,7 @@
       "decimal": 18,
       "address": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
       "required": true,
-      "icon": "https://walletapi.wemix.com/tokens/icon/symbol.png",
+      "icon": "https://walletapi.wemix.com/app/images/icon_wemix.png",
       "description": {
         "en": "WEMIX, native coin of WEMIX mega-ecosystem, is used as a medium of exchange and payment method for gas fees within WEMIX mainnet.\n\nIn WEMIX3.0, one block is created every second, and PMR (Permanent Minting Reward) is distributed respectively to NCP (40%), stakers (10%), eco fund (25%) and maintenance (25%).",
         "ko": "위믹스 코인은 위믹스 생태계의 네이티브 코인으로써 위믹스 메인넷의 거래의 수단이자 가스비의 지불 수단으로 쓰입니다.\n\n위믹스3.0에서는 1초에 1개의 블록이 생성되며, Permanent Minting Reward(PMR) 프로토콜에 따라 거버넌스 파트너(40%), 에코펀드(25%), 에코시스템 유지비용(25%), 스테이킹 보상(10%)으로 각각 분배되게 됩니다."
@@ -32,7 +32,7 @@
       "decimal": 18,
       "address": "0x53c0cAfFEB6D4f5A6a65aAE0a11a99d82DA852Ed",
       "required": true,
-      "icon": "https://walletapi.wemix.com/tokens/icon/symbol.png",
+      "icon": "https://walletapi.wemix.com/app/images/icon_wemix_dollar.png",
       "description": {
         "en": "WEMIX$, key currency used for transactions and DeFi services within WEMIX3.0 mega-ecosystem, is operated through Treasury which securely stores USDC as collateral, MINT which authorizes minting and burning of WEMIX$ based on the total reserve in the Treasury and DIOS protocol which maintains the value of WEMIX$.\n\nWEMIX$ is 100% collateralized to USDC, and DIOS protocol controls the total supply of minted WEMIX$ based on the expansion and contraction of the ecosystem, thus guaranteeing price stability and preventing peg deviation.",
         "ko": "WEMIX$(위믹스달러)는 위믹스3.0 메가에코시스템 내 거래와 탈중앙화 금융에서 활용되는 단위화폐이며 준비금을 보관하는 Treasury, WEMIX$ 발행과 소각이 이루어지는 MINT 그리고 가격을 안정적으로 유지하는 DIOS로 운영됩니다.\n\nWEMIX$는 USDC를 100% 담보로 하며, DIOS 프로토콜은 생태계의 확장과 축소에 따라 WEMIX$의 발행량과 USDC 보유량을 조절해 디페깅(depegging)을 방지하고 WEMIX$의 가치를 일정하게 유지합니다."
@@ -55,7 +55,7 @@
       "decimal": 6,
       "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
       "required": true,
-      "icon": "https://wallet.test.wemix.com/tokens/icon/symbol.png",
+      "icon": "https://walletapi.wemix.com/app/images/icon_usdc.png",
       "description": {
         "en": "Launched in 2018 by Circle, USDC is a stablecoin with its value pegged to the US dollar at the ratio of 1:1, and the price peg between USDC and USD is maintained by Circle's reserve which consists of cash and short-dated treasuries.\nAs Circle's financial statements are audited by the Securities and Exchange Commission, Circle/USDC abides by and is strictly under the financial regulations of the United States government.",
         "ko": "USDC는 2018년 Circle이 출시한 스테이블코인으로, 코인의 가치가 미국 달러와 1:1 비율로 연동되어 있으며, USDC와 미국 달러의 가치연동은 Circle이 보유한 현금과 단기 미국 국채를 포함하는 준비금에 의해 유지됩니다.\nCircle의 재무재표는 미국 증권의원회의 감사를 받는 등 USDC는 미국 금융법을 준수하며 운영되고 있습니다."
