@@ -30,7 +30,7 @@
       "display_name": "WEMIX$",
       "symbol": "WEMIX$",
       "decimal": 18,
-      "address": "0x96bcCa44Ba016c16bd11C8c38dca6fE0a99BfB28",
+      "address": "0x25cBC8a4C29054E6fF1762f9EdfCCae1631d478E",
       "required": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wemix_dollar.png",
       "description": {
@@ -53,7 +53,7 @@
       "display_name": "USD Coin",
       "symbol": "USDC",
       "decimal": 18,
-      "address": "0xD5e3CcE1b6499846cD957EC374466c28D6D2CF7E",
+      "address": "0xd630773296716f67d22c1d8e757F993Ce1F244c8",
       "required": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_usdc.png",
       "description": {
@@ -73,7 +73,7 @@
       "display_name": "Klaytn",
       "symbol": "KLAY",
       "decimal": 18,
-      "address": "0x6591363685BC30849df4F622e533483aCE873dBf",
+      "address": "0x73819c225C6aCe4d090d93d07bd0554cC17aC714",
       "required": false,
       "icon": "https://wallet.test.wemix.com/app/images/icon_klay.png",
       "description": {
