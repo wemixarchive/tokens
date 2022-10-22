@@ -1,5 +1,5 @@
 {
-  "updated_at": 1666430764,
+  "updated_at": 1666444890,
   "tokens": [
     {
       "name": "WEMIX",
@@ -30,7 +30,7 @@
       "display_name": "WEMIX$",
       "symbol": "WEMIX$",
       "decimal": 18,
-      "address": "0x53c0cAfFEB6D4f5A6a65aAE0a11a99d82DA852Ed",
+      "address": "0x8E81fCc2d4A3bAa0eE9044E0D7E36F59C9BbA9c1",
       "required": true,
       "icon": "https://walletapi.wemix.com/app/images/icon_wemix_dollar.png",
       "description": {
