@@ -1,5 +1,5 @@
 {
-  "updated_at": 1666430764,
+  "updated_at": 1666604912,
   "tokens": [
     {
       "name": "WEMIX",
@@ -30,7 +30,7 @@
       "display_name": "WEMIX$",
       "symbol": "WEMIX$",
       "decimal": 18,
-      "address": "0xC16E1081b7aE324Ca4088b942e351A26BC60c243",
+      "address": "0xe6655CCda10e28e23Eb067C85ec1A8F1A39847Fd",
       "required": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wemix_dollar.png",
       "description": {
@@ -73,7 +73,7 @@
       "display_name": "Klaytn",
       "symbol": "KLAY",
       "decimal": 18,
-      "address": "0xA3d0dFEbc5C79C3D8b4B92f8e67baCe271b4Ac4F",
+      "address": "0x53455405946657d7D77D22D552120e60d9aeC218",
       "required": false,
       "icon": "https://wallet.test.wemix.com/app/images/icon_klay.png",
       "description": {
