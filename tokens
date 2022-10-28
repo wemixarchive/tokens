@@ -11,7 +11,7 @@
       "icon": "https://walletapi.wemix.com/app/images/icon_wemix.png",
       "description": {
         "en": "WEMIX, native coin of WEMIX mega-ecosystem, is used as a medium of exchange and payment method for gas fees within WEMIX mainnet.\n\nIn WEMIX3.0, one block is created every second, and PMR (Permanent Minting Reward) is distributed respectively to NCP (40%), stakers (10%), eco fund (25%) and maintenance (25%).",
-        "ko": "위믹스 코인은 위믹스 생태계의 네이티브 코인으로써 위믹스 메인넷의 거래의 수단이자 가스비의 지불 수단으로 쓰입니다.\n\n위믹스3.0에서는 1초에 1개의 블록이 생성되며, Permanent Minting Reward(PMR) 프로토콜에 따라 거버넌스 파트너(40%), 에코펀드(25%), 에코시스템 유지비용(25%), 스테이킹 보상(10%)으로 각각 분배되게 됩니다."
+        "ko": "위믹스 코인은 위믹스 생태계의 네이티브 코인으로서 위믹스 메인넷의 거래의 수단이자 가스비의 지불 수단으로 쓰입니다.\n\n위믹스3.0에서는 1초에 1개의 블록이 생성되며, Permanent Minting Reward(PMR) 프로토콜에 따라 거버넌스 파트너(40%), 에코펀드(25%), 에코시스템 유지비용(25%), 스테이킹 보상(10%)으로 각각 분배되게 됩니다."
       },
       "whitepaper": "https://docs.wemix.com",
       "news": "https://medium.com/wemix-communication/tagged/wemix-coin-news",
