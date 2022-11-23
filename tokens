@@ -1,5 +1,5 @@
 {
-  "updated_at": 1669190651,
+  "updated_at": 1669191862,
   "tokens": [
     {
       "name": "WEMIX",
@@ -91,22 +91,18 @@
     },
     {
       "name": "stWEMIX",
-      "display_name": "Liquid Staking WEMIX",
+      "display_name": "stWEMIX",
       "symbol": "stWEMIX",
       "decimal": 18,
       "address": "0x04B6a0A1169D3a40F764Cee12dC030463FaE1f53",
       "required": false,
       "icon": "https://wallet.test.wemix.com/app/images/icon_stwemix.png",
       "description": {
-        "en": "en",
-        "ko": "ko"
+        "en": "stWEMIX is the tokenized form of staked WEMIX, designed to function as a liquidity token, giving users the access to any other liquidity purposes such as trading, yield farming and borrowing. Users receive stWEMIX for every WEMIX staked in 'Liquid Staking', and the staked WEMIX is deposited to the Grand Staking Contract to earn accrued staking rewards. Users can instantly trade stWEMIX with different cryptocurrencies in the market or unstake the assets when 'Phase 2' of the WEMIX Governance is implemented.",
+        "ko": "스테이크 위믹스 토큰은 WEMIX.Fi의 네이티브 토큰으로써, 스테이킹 프로그램에 예치된 자산의 증명과 유동화가 가능하며 스왑, 풀, 대출 서비스의 거래 수단으로 사용됩니다. 리퀴드 스테이킹 프로그램에 WEMIX를 예치하면 상응하는 stWEMIX를 받게 되며, 예치된 자산은 '그랜드 스테이킹 컨트랙트'에 저장되어 스테이킹 리워드를 얻습니다. stWEMIX는 시장에서 다른 코인과 거래가 가능하며 출금은 위믹스 거버넌스 Phase 2 활성화 시 가능합니다."
       },
-      "whitepaper": "https://docs.wemix.com",
-      "news": "https://medium.com/wemix-communication/tagged/wemix-coin-news",
-      "news_rss": "https://medium.com/feed/wemix-communication/tagged/wemix-coin-news",
       "channels": {
-        "site": "https://www.wemix.com/",
-        "medium": "https://medium.com/wemix-communication/tagged/wemix-coin-news",
+        "medium": "https://medium.com/wemix-communication",
         "telegram": "https://t.me/WEMIX_ANNouncement",
         "twitter": "https://twitter.com/WemixNetwork",
         "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
