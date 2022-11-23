@@ -88,6 +88,30 @@
         "facebook": "https://www.facebook.com/klaytn.official",
         "discord": "https://discord.com/invite/hNcrS4BQrm"
       }
+    },
+    {
+      "name": "stWEMIX",
+      "display_name": "Liquid Staking WEMIX",
+      "symbol": "stWEMIX",
+      "decimal": 18,
+      "address": "0x04B6a0A1169D3a40F764Cee12dC030463FaE1f53",
+      "required": false,
+      "icon": "https://wallet.test.wemix.com/app/images/icon_stwemix.png",
+      "description": {
+        "en": "en",
+        "ko": "ko"
+      },
+      "whitepaper": "https://docs.wemix.com",
+      "news": "https://medium.com/wemix-communication/tagged/wemix-coin-news",
+      "news_rss": "https://medium.com/feed/wemix-communication/tagged/wemix-coin-news",
+      "channels": {
+        "site": "https://www.wemix.com/",
+        "medium": "https://medium.com/wemix-communication/tagged/wemix-coin-news",
+        "telegram": "https://t.me/WEMIX_ANNouncement",
+        "twitter": "https://twitter.com/WemixNetwork",
+        "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
+        "facebook": "https://www.facebook.com/WEMIXBlockchain/"
+      }
     }
   ]
 }
