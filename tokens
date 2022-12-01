@@ -1,5 +1,5 @@
 {
-  "updated_at": 1669284890,
+  "updated_at": 1669884032,
   "tokens": [
     {
       "name": "WEMIX",
@@ -8,6 +8,7 @@
       "decimal": 18,
       "address": "0x244c72AB61f11dD44Bfa4AaF11e2EFD89ca789fe",
       "required": true,
+      "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wemix.png",
       "description": {
         "en": "WEMIX, native coin of WEMIX mega-ecosystem, is used as a medium of exchange and payment method for gas fees within WEMIX mainnet.\n\nIn WEMIX3.0, one block is created every second, and PMR (Permanent Minting Reward) is distributed respectively to NCP (40%), stakers (10%), eco fund (25%) and maintenance (25%).",
@@ -32,6 +33,7 @@
       "decimal": 18,
       "address": "0xAe81b9fFCde5Ab7673dD4B2f5c648a5579430B17",
       "required": true,
+      "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wemix_dollar.png",
       "description": {
         "en": "WEMIX$, key currency used for transactions and DeFi services within WEMIX3.0 mega-ecosystem, is operated through Treasury which securely stores USDC as collateral, MINT which authorizes minting and burning of WEMIX$ based on the total reserve in the Treasury and DIOS protocol which maintains the value of WEMIX$.\n\nWEMIX$ is 100% collateralized to USDC, and DIOS protocol controls the total supply of minted WEMIX$ based on the expansion and contraction of the ecosystem, thus guaranteeing price stability and preventing peg deviation.",
@@ -55,6 +57,7 @@
       "decimal": 6,
       "address": "0x5bdB668DE9C160746c40c0528961a4ffc6231a59",
       "required": true,
+      "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_usdc.png",
       "description": {
         "en": "Launched in 2018 by Circle, USDC is a stablecoin with its value pegged to the US dollar at the ratio of 1:1, and the price peg between USDC and USD is maintained by Circle's reserve which consists of cash and short-dated treasuries.\nAs Circle's financial statements are audited by the Securities and Exchange Commission, Circle/USDC abides by and is strictly under the financial regulations of the United States government.",
@@ -75,6 +78,7 @@
       "decimal": 18,
       "address": "0x53455405946657d7D77D22D552120e60d9aeC218",
       "required": false,
+      "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_klay.png",
       "description": {
         "en": "KLAY was launched in June of 2019 and it is the native token of Klaytn, a public blockchain developed by Ground X, a subsidiary of Kakao.\n10 billion KLAY were issued at genesis and it uses a Proof of Stake consensus mechanism known as IBFT (Istanbul Byzantine fault tolerance).",
@@ -96,6 +100,7 @@
       "decimal": 18,
       "address": "0x04B6a0A1169D3a40F764Cee12dC030463FaE1f53",
       "required": false,
+      "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_stwemix.png",
       "description": {
         "en": "stWEMIX is the tokenized form of staked WEMIX, designed to function as a liquidity token that gives users the access to any other liquidity purposes such as trading, yield farming and borrowing. Users receive stWEMIX for every WEMIX staked in 'Liquid Staking', and the staked WEMIX is deposited to the Grand Staking Contract to earn accrued staking rewards. Users can instantly trade stWEMIX with different cryptocurrencies in the market or unstake the assets when 'Phase 2' of the WEMIX Governance is implemented.",
@@ -116,6 +121,7 @@
       "decimal": 18,
       "address": "0x2905A2afFC4a6410dfF9E2Ff25369BE7E1823aCF",
       "required": false,
+      "listing": false,
       "icon": "",
       "description": {
         "en": "en",
@@ -131,6 +137,7 @@
       "decimal": 18,
       "address": "0x7CcBD0B728c4c488642800FE1FD6C8280864Cd33",
       "required": false,
+      "listing": false,
       "icon": "",
       "description": {
         "en": "en",
@@ -146,6 +153,7 @@
       "decimal": 18,
       "address": "0x4b7eE7B9429105f0dfdeDF6aC3171ceA149A3650",
       "required": false,
+      "listing": false,
       "icon": "",
       "description": {
         "en": "en",
@@ -161,6 +169,7 @@
       "decimal": 18,
       "address": "0xd601ffA7D8c61806DC32f656688cB953A3Daf103",
       "required": false,
+      "listing": false,
       "icon": "",
       "description": {
         "en": "en",
@@ -176,6 +185,7 @@
       "decimal": 18,
       "address": "0x22fc20a37efb6b1e8b1e4c0Ed23d50144FF632A6",
       "required": false,
+      "listing": false,
       "icon": "",
       "description": {
         "en": "en",
@@ -191,6 +201,7 @@
       "decimal": 18,
       "address": "0xBaC493c43926d58cd6C1217DEF3C91671A830C4e",
       "required": false,
+      "listing": false,
       "icon": "",
       "description": {
         "en": "en",
@@ -206,6 +217,7 @@
       "decimal": 18,
       "address": "0xdb8C9cCFCb3b0B315355465a70f1D848688636a7",
       "required": false,
+      "listing": false,
       "icon": "",
       "description": {
         "en": "en",
@@ -221,6 +233,7 @@
       "decimal": 18,
       "address": "0x409D26587F83dCB7A459441255B9CC603e80c305",
       "required": false,
+      "listing": false,
       "icon": "",
       "description": {
         "en": "en",
