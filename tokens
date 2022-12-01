@@ -108,6 +108,126 @@
         "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
         "facebook": "https://www.facebook.com/WEMIXBlockchain/"
       }
+    },
+    {
+      "name": "ZionToken",
+      "display_name": "ZionToken",
+      "symbol": "ZIT",
+      "decimal": 18,
+      "address": "0x2905A2afFC4a6410dfF9E2Ff25369BE7E1823aCF",
+      "required": false,
+      "icon": "",
+      "description": {
+        "en": "en",
+        "ko": "ko"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "SampleToken",
+      "display_name": "SampleToken",
+      "symbol": "STC",
+      "decimal": 18,
+      "address": "0x7CcBD0B728c4c488642800FE1FD6C8280864Cd33",
+      "required": false,
+      "icon": "",
+      "description": {
+        "en": "en",
+        "ko": "ko"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "AIERC20",
+      "display_name": "AIERC20",
+      "symbol": "AIERC",
+      "decimal": 18,
+      "address": "0x4b7eE7B9429105f0dfdeDF6aC3171ceA149A3650",
+      "required": false,
+      "icon": "",
+      "description": {
+        "en": "en",
+        "ko": "ko"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "AERC20",
+      "display_name": "AERC20",
+      "symbol": "AERC",
+      "decimal": 18,
+      "address": "0xd601ffA7D8c61806DC32f656688cB953A3Daf103",
+      "required": false,
+      "icon": "",
+      "description": {
+        "en": "en",
+        "ko": "ko"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "MyContractTestToken",
+      "display_name": "MyContractTestToken",
+      "symbol": "TT",
+      "decimal": 18,
+      "address": "0x22fc20a37efb6b1e8b1e4c0Ed23d50144FF632A6",
+      "required": false,
+      "icon": "",
+      "description": {
+        "en": "en",
+        "ko": "ko"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "Test02 Token",
+      "display_name": "Test02 Token",
+      "symbol": "Test",
+      "decimal": 18,
+      "address": "0xBaC493c43926d58cd6C1217DEF3C91671A830C4e",
+      "required": false,
+      "icon": "",
+      "description": {
+        "en": "en",
+        "ko": "ko"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "TIPOToken",
+      "display_name": "TIPO",
+      "symbol": "TIPO",
+      "decimal": 18,
+      "address": "0xdb8C9cCFCb3b0B315355465a70f1D848688636a7",
+      "required": false,
+      "icon": "",
+      "description": {
+        "en": "en",
+        "ko": "ko"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "NGLE Token",
+      "display_name": "NGLE Token",
+      "symbol": "NGLE",
+      "decimal": 18,
+      "address": "0x409D26587F83dCB7A459441255B9CC603e80c305",
+      "required": false,
+      "icon": "",
+      "description": {
+        "en": "en",
+        "ko": "ko"
+      },
+      "channels": {
+      }
     }
   ]
 }
