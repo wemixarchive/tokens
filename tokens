@@ -1,5 +1,5 @@
 {
-  "updated_at": 1670225149,
+  "updated_at": 1670227969,
   "tokens": [
     {
       "name": "WEMIX",
@@ -56,7 +56,7 @@
       "symbol": "USDC",
       "decimal": 6,
       "address": "0x5bdB668DE9C160746c40c0528961a4ffc6231a59",
-      "required": true,
+      "required": false,
       "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_usdc.png",
       "description": {
