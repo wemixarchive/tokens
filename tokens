@@ -8,6 +8,7 @@
       "decimal": 18,
       "address": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
       "required": true,
+      "listing": true,
       "icon": "https://walletapi.wemix.com/app/images/icon_wemix.png",
       "description": {
         "en": "WEMIX, native coin of WEMIX mega-ecosystem, is used as a medium of exchange and payment method for gas fees within WEMIX mainnet.\n\nIn WEMIX3.0, one block is created every second, and PMR (Permanent Minting Reward) is distributed respectively to NCP (40%), stakers (10%), eco fund (25%) and maintenance (25%).",
@@ -32,6 +33,7 @@
       "decimal": 18,
       "address": "0x8E81fCc2d4A3bAa0eE9044E0D7E36F59C9BbA9c1",
       "required": true,
+      "listing": true,
       "icon": "https://walletapi.wemix.com/app/images/icon_wemix_dollar.png",
       "description": {
         "en": "WEMIX$, key currency used for transactions and DeFi services within WEMIX3.0 mega-ecosystem, is operated through Treasury which securely stores USDC as collateral, MINT which authorizes minting and burning of WEMIX$ based on the total reserve in the Treasury and DIOS protocol which maintains the value of WEMIX$.\n\nWEMIX$ is 100% collateralized to USDC, and DIOS protocol controls the total supply of minted WEMIX$ based on the expansion and contraction of the ecosystem, thus guaranteeing price stability and preventing peg deviation.",
@@ -54,7 +56,8 @@
       "symbol": "USDC",
       "decimal": 6,
       "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-      "required": true,
+      "required": false,
+      "listing": true,
       "icon": "https://walletapi.wemix.com/app/images/icon_usdc.png",
       "description": {
         "en": "Launched in 2018 by Circle, USDC is a stablecoin with its value pegged to the US dollar at the ratio of 1:1, and the price peg between USDC and USD is maintained by Circle's reserve which consists of cash and short-dated treasuries.\nAs Circle's financial statements are audited by the Securities and Exchange Commission, Circle/USDC abides by and is strictly under the financial regulations of the United States government.",
@@ -75,6 +78,7 @@
       "decimal": 18,
       "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
       "required": false,
+      "listing": true,
       "icon": "https://walletapi.wemix.com/app/images/icon_klay.png",
       "description": {
         "en": "KLAY was launched in June of 2019 and it is the native token of Klaytn, a public blockchain developed by Ground X, a subsidiary of Kakao.\n10 billion KLAY were issued at genesis and it uses a Proof of Stake consensus mechanism known as IBFT (Istanbul Byzantine fault tolerance).",
@@ -88,6 +92,29 @@
         "facebook": "https://www.facebook.com/klaytn.official",
         "discord": "https://discord.com/invite/hNcrS4BQrm"
       }
+    },
+    {
+      "name": "stWEMIX",
+      "display_name": "Staked WEMIX",
+      "symbol": "stWEMIX",
+      "decimal": 18,
+      "address": "0x9B377bd7Db130E8bD2f3641E0E161cB613DA93De",
+      "required": false,
+      "listing": true,
+      "icon": "https://wallet.test.wemix.com/app/images/icon_stwemix.png",
+      "description": {
+        "en": "stWEMIX is the tokenized form of staked WEMIX, designed to function as a liquidity token that gives users the access to any other liquidity purposes such as trading, yield farming and borrowing. Users receive stWEMIX for every WEMIX staked in 'Liquid Staking', and the staked WEMIX is deposited to the Grand Staking Contract to earn accrued staking rewards. Users can instantly trade stWEMIX with different cryptocurrencies in the market or unstake the assets when 'Phase 2' of the WEMIX Governance is implemented.",
+        "ko": "스테이크 위믹스(stWEMIX) 토큰은 WEMIX.Fi의 네이티브 토큰으로써, 스테이킹 프로그램에 예치된 자산의 증명과 유동화가 가능하며 스왑, 풀, 대출 서비스의 거래 수단으로 사용됩니다. 리퀴드 스테이킹 프로그램에 WEMIX를 예치하면 상응하는 stWEMIX를 받게 되며, 예치된 자산은 '그랜드 스테이킹 컨트랙트'에 저장되어 스테이킹 리워드를 얻습니다. stWEMIX는 시장에서 다른 코인과 거래가 가능하며 출금은 위믹스 거버넌스 Phase 2 활성화 시 가능합니다."
+      },
+      "whitepaper": "https://docs.wemix.com/v/wemixfi-ko/services/staking/liquid-staking",
+      "channels": {
+        "medium": "https://medium.com/wemix-communication",
+        "telegram": "https://t.me/WEMIX_ANNouncement",
+        "twitter": "https://twitter.com/WemixNetwork",
+        "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
+        "facebook": "https://www.facebook.com/WEMIXBlockchain/"
+      }
     }
+
   ]
 }
