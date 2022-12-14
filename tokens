@@ -1,5 +1,5 @@
 {
-  "updated_at": 1670462033,
+  "updated_at": 1670985049,
   "tokens": [
     {
       "name": "WEMIX",
@@ -101,7 +101,7 @@
       "address": "0x9B377bd7Db130E8bD2f3641E0E161cB613DA93De",
       "required": false,
       "listing": true,
-      "icon": "https://wallet.test.wemix.com/app/images/icon_stwemix.png",
+      "icon": "https://walletapi.wemix.com/app/images/icon_stwemix.png",
       "description": {
         "en": "stWEMIX is the tokenized form of staked WEMIX, designed to function as a liquidity token that gives users the access to any other liquidity purposes such as trading, yield farming and borrowing. Users receive stWEMIX for every WEMIX staked in 'Liquid Staking', and the staked WEMIX is deposited to the Grand Staking Contract to earn accrued staking rewards. Users can instantly trade stWEMIX with different cryptocurrencies in the market or unstake the assets when 'Phase 2' of the WEMIX Governance is implemented.",
         "ko": "스테이크 위믹스(stWEMIX) 토큰은 WEMIX.Fi의 네이티브 토큰으로서, 스테이킹 프로그램에 예치된 자산의 증명과 유동화가 가능하며 스왑, 풀, 대출 서비스의 거래 수단으로 사용됩니다. 리퀴드 스테이킹 프로그램에 WEMIX를 예치하면 상응하는 stWEMIX를 받게 되며, 예치된 자산은 '그랜드 스테이킹 컨트랙트'에 저장되어 스테이킹 리워드를 얻습니다. stWEMIX는 시장에서 다른 코인과 거래가 가능하며 출금은 위믹스 거버넌스 Phase 2 활성화 시 가능합니다."
@@ -114,7 +114,29 @@
         "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
         "facebook": "https://www.facebook.com/WEMIXBlockchain/"
       }
+    },
+    {
+      "name": "wRFT",
+      "display_name": "Wrapped REFLECT",
+      "symbol": "wRFT",
+      "decimal": 18,
+      "address": "0x2B58644b9f210ebB8fBF4C27066f9d1d97B03CBc",
+      "required": false,
+      "listing": true,
+      "icon": "https://walletapi.wemix.com/app/images/icon_wrft.png",
+      "description": {
+        "en": "REFLECT is a synthetic token designed with the clear purpose of unifying individual game tokens to facilitate an inter-game economy within the WEMIX PLAY gaming ecosystem.\nRFT functions as a catalyst that influences the trade volume for all REFLECT Alliance game tokens by implementing a unique RFT minting procedure which requires an equivalent number of game tokens to be deposited into the Fusion Center, a process also known as Fusion.\nIn addition, RFT is a new form of game token Airdrop, where holders of RFT automatically become eligible to claim brand new tokens of games that onboard WEMIX PLAY in the future.\nRFT fuses elements of Gaming and Finance to create a brand new GameFi utility token devised to impact the macroeconomy of the gaming ecosystem by merging the microeconomy of individual games on WEMIX PLAY.\nRFT will become the foundation in the evolution of tokenomics for future games by demonstrating the importance of interconnected game economy and its influence towards collective growth.",
+        "ko": "REFLECT(RFT)는 위믹스플레이 생태계 내 인터게임 이코노미 활성화를 위해 개별 게임 토큰의 통합을 목적으로 설계된 합성 토큰입니다.\nRFT는 Fusion이라는 프로세스를 통해 Fusion Center에 각 게임에 대한 동일한 수의 게임 토큰이 예치되어야 하는 고유한 민팅 절차를 구현함으로써 REFRECT Alliance 게임 토큰의 거래를 촉진시킵니다.\n\nRFT는 위믹스 플레이에 온보딩하는 새로운 게임의 토큰을 홀더들이 자동적으로 얻을 수 있는 자격을 부여하는 형태의 게임 토큰 에어드롭인 동시에\n게임과 경제적 요소의 융합을 통해 위믹스플레이 내 게임들의 경제를 통합하여 게이밍 생태계 전반에 영향을 미칠 수 있도록 고안된 새로운 GameFi 유틸리티 토큰입니다."
+      },
+      "whitepaper": "https://wemixplay.com/reflect/about",
+      "channels": {
+        "site": "https://wemixplay.com/reflect/fusion",
+        "medium": "https://medium.com/wemix-play",
+        "telegram": "https://t.me/WEMIX_ANNouncement",
+        "twitter": "https://twitter.com/WemixNetwork",
+        "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
+        "facebook": "https://www.facebook.com/WEMIXBlockchain/"
+      }
     }
-
   ]
 }
