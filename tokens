@@ -1,5 +1,5 @@
 {
-  "updated_at": 1672737724,
+  "updated_at": 1672987141,
   "tokens": [
     {
       "name": "WEMIX",
@@ -148,14 +148,15 @@
       "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_tipo.png",
       "description": {
-        "en": "TIPO is a utility token of Tangled, a live video chat platform where users can socially interact with others.\nTime spent by the users socializing and connecting with other people can be rewarded with TIPOs; that in turn can be exchanged into fiat currencies or converted into Time that is an essential resource for communicating within the Tangled application.",
-        "ko": "TIPO는 라이브 비디오 챗 플랫폼 “Tangled”의 유틸리티 토큰입니다.\n사용자들은 Tangled 에서 참여한 시간만큼 TIPO를 획득하며, 이를 현금화하거나 앱 내 활동에 필요한 포인트로 변환할 수 있습니다."
+        "en": "TIPO is the utility token that powers the Web3 Live Chat SocialFi platform Tangled, a unique and revolutionary space where users can earn tangible rewards from their social exchanges. Users can acquire TIPO by exchanging their TIME points, which is earned through various social interactions within the app, such as live video chats and game plays. TIME Points are pegged 1:1 with seconds, which means user rewards are directly proportional to participation. The higher the participation, the greater their contribution to Tangled’s ecosystem, which means the greater the reward. As such, TIPO is a novel SocialFi token designed to allow users to enjoy status and influence within Tangled’s ecosystem based on their contributions.",
+        "ko": "TIPO는 Web3 소셜 라이브 채팅 플랫폼 Tangled의 유틸리티 토큰입니다. Tangled는 개인 간 교류와 소통이 실질적인 가치로 이어지는 공간입니다. 사용자들은 대화, 플레이 등 다양한 인터렉션을 통해 다른 사람들과 교류하며 TIME Point를 획득하고 이를 TIPO로 바꿀 수 있습니다. TIME Point는 고정적으로 현실의 1초와 연동되므로, 사용자들은 Tangled의 생태계에 기여한만큼 TIPO 홀더가 되고, 기여도가 높을수록 생태계 전반에 더 큰 영향력을 가지게 됩니다. 이렇듯 TIPO는 참여자가 기여도에 따라 소셜 생태계 내의 지위와 영향력을 누릴 수 있도록 설계된 SocialFi 토큰입니다."
       },
       "whitepaper": "https://static.tangled.at/whitepaper.pdf",
       "channels": {
         "site": "https://tangled.im",
-        "telegram": "https://t.me/tangled_community",
+        "telegram": "https://t.me/Tangled_announcement",
         "twitter": "https://twitter.com/tangled_nft",
+        "youtube": "https://www.youtube.com/@tangledofficial8038"
         "discord": "https://discord.com/invite/tUNwSykFGb"
       }
     }
