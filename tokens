@@ -1,5 +1,5 @@
 {
-  "updated_at": 1674091893,
+  "updated_at": 1674092611,
   "tokens": [
     {
       "name": "WEMIX",
@@ -155,7 +155,8 @@
       "channels": {
         "site": "https://ethereum.org/en/",
         "twitter": "https://twitter.com/ethdotorg",
-        "youtube" : "https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g"
+        "youtube" : "https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g",
+        "discord" : "https://discord.com/invite/CetY6Y4"
       }
     },
     {
