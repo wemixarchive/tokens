@@ -249,7 +249,7 @@
       "display_name": "Kleva Token",
       "symbol": "KLEVA",
       "decimal": 18,
-      "address": "0x4aF286b2BF66AE46dA121fFeB46c2a3BbE05DD97",
+      "address": "0xE8C5201f0f4bdde271ACC9F14057CB4fe0DBA616",
       "required": false,
       "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_kleva.png",
