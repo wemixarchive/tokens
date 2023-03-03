@@ -1,5 +1,5 @@
 {
-  "updated_at": 1674125217,
+  "updated_at": 1677817546,
   "tokens": [
     {
       "name": "WEMIX",
@@ -243,6 +243,28 @@
         "twitter": "https://twitter.com/tangled_nft",
         "youtube": "https://www.youtube.com/@tangledofficial8038",
         "discord": "https://discord.com/invite/tUNwSykFGb"
+      }
+    },
+    {
+      "name": "KLEVA",
+      "display_name": "Kleva Token",
+      "symbol": "KLEVA",
+      "decimal": 18,
+      "address": "0xe6801928061CDbE32AC5AD0634427E140EFd05F9",
+      "required": false,
+      "listing": true,
+      "icon": "https://walletapi.wemix.com/app/images/icon_kleva.png",
+      "description": {
+        "en": "KLEVA Protocol is the first DeFi protocol in Klaytn to specialize in Leveraged Yield Farming. We take advantage of the liquidity layers in Decentralized Exchanges and act as the amplifier for these exchanges. By integrating with farms, we trigger an inflow of liquidity to both exchanges and our protocol, leading to a higher TVL for the entire Ecosystem.\nMoreover, farmers can maximize their yields and lenders can earn passive income by lending their assets to farmers. In short, we accelerate the growth of the entire Ecosystem by taking advantage of current DeFi protocols and opening a gateway to a bigger economy - bringing wider opportunities for all participants.",
+        "ko": "KLEVA는 레버리지 투자를 핵심 서비스로 제공하는 디파이 (DeFi) 프로토콜입니다. 레버리지 투자자들은 KLEVA에 예치된 자산을 대여하여 확대된 규모로 투자를 진행하고 이자를 지불합니다. 투자자와 예치자가 서로의 수익에 도움을 주고받는 선순환 구조의 구축과 확장을 통해 이용자의 수익을 극대화하는 것이 프로토콜의 목표입니다.\nKLEVA는 Klaytn 디파이 생태계에서 레버리지 이자 농사를 위한 가장 경쟁력 있는 예치 프로토콜이 되는 것을 목표로 합니다. 현재 Ethereum, Binance Smart Chain, 및 Solana와 같은 Layer-1 블록체인들과 비교할 때 Klaytn의 디파이 생태계는 더 큰 성장이 필요하며 성장의 결과는 Klaytn 네트워크의 이용자들 프로토콜들에 유의미한 도움이 된다고 생각합니다. KLEVA은 레버리지 투자 서비스로서 네트워크 내 DEX의 페어 예치 풀을 활용하며 동시에 대상 풀의 유동성 증가에도 기여할 수 있습니다. 또한 레버리지 투자가 부담스러운 이용자에게는 예치/스테이킹을 통해 안정적으로 그리고 대여가 활성화됨에 따라 더 큰 수익을 확보할 수 있는 기회를 제공하는 예치 프로토콜이기도 합니다. 이와 같이 네트워크 내 DeFi 서비스들과 다양한 성향의 이용자들에게 투자 기회를 제공하여 KLEVA만이 아닌 생태계 전체의 성장을 견인하겠다는 비전을 품고 이를 달성해 나가려 합니다."
+      },
+      "whitepaper": "https://docs.kleva.io/",
+      "channels": {
+        "site": "https://kleva.io/",
+        "medium": "https://medium.com/@KLEVA_Protocol_official",
+        "telegram": "https://t.me/klevaprotocol_official",
+        "twitter": "https://twitter.com/KLEVA_Protocol",
+        "youtube": "https://www.youtube.com/@KLEVAProtocol"
       }
     }
   ]
