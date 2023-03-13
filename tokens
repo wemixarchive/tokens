@@ -1,5 +1,5 @@
 {
-  "updated_at": 1677817546,
+  "updated_at": 1678673016,
   "tokens": [
     {
       "name": "WEMIX",
@@ -34,7 +34,7 @@
       "address": "0x8E81fCc2d4A3bAa0eE9044E0D7E36F59C9BbA9c1",
       "required": true,
       "listing": true,
-      "icon": "https://walletapi.wemix.com/app/images/icon_wemix_dollar.png",
+      "icon": "https://walletapi.wemix.com/app/images/icon_wemix_dollar_1.png",
       "description": {
         "en": "WEMIX$, key currency used for transactions and DeFi services within WEMIX3.0 mega-ecosystem, is operated through Treasury which securely stores USDC as collateral, MINT which authorizes minting and burning of WEMIX$ based on the total reserve in the Treasury and DIOS protocol which maintains the value of WEMIX$.\n\nWEMIX$ is 100% collateralized to USDC, and DIOS protocol controls the total supply of minted WEMIX$ based on the expansion and contraction of the ecosystem, thus guaranteeing price stability and preventing peg deviation.",
         "ko": "WEMIX$(위믹스달러)는 위믹스3.0 메가에코시스템 내 거래와 탈중앙화 금융에서 활용되는 단위화폐이며 준비금을 보관하는 Treasury, WEMIX$ 발행과 소각이 이루어지는 MINT 그리고 가격을 안정적으로 유지하는 DIOS로 운영됩니다.\n\nWEMIX$는 USDC를 100% 담보로 하며, DIOS 프로토콜은 생태계의 확장과 축소에 따라 WEMIX$의 발행량과 USDC 보유량을 조절해 디페깅(depegging)을 방지하고 WEMIX$의 가치를 일정하게 유지합니다."
