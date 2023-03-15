@@ -1,5 +1,5 @@
 {
-  "updated_at": 1678776124,
+  "updated_at": 1678847514,
   "tokens": [
     {
       "name": "WEMIX",
@@ -267,11 +267,11 @@
       }
     },
     {
-      "name": "GDC2023",
-      "display_name": "GDC 2023",
-      "symbol": "GDC2023",
+      "name": "Game Developer's Token",
+      "display_name": "Game Developer's Token",
+      "symbol": "GDT",
       "decimal": 0,
-      "address": "0x10fb3fE5fC41fA2CA491183bB7e6a8fbaC1a649D",
+      "address": "0x679f8965c8F52577aAB71C6B759c358A7dE24F51",
       "required": false,
       "listing": false,
       "icon": "https://wallet.test.wemix.com/app/images/icon_gdc2023.png",
