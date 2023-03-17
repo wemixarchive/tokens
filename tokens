@@ -1,5 +1,5 @@
 {
-  "updated_at": 1678929801,
+  "updated_at": 1679032175,
   "tokens": [
     {
       "name": "WEMIX",
@@ -274,14 +274,14 @@
       "address": "0x679f8965c8F52577aAB71C6B759c358A7dE24F51",
       "required": false,
       "listing": false,
-      "icon": "https://wallet.test.wemix.com/app/images/icon_gdc2023.png",
+      "icon": "https://wallet.test.wemix.com/app/images/icon_gdt.png",
       "view_type": "event",
       "description": {
         "en": "Game Developer’s Token(GDT) is a community token that allows blockchain game developers and blockchain game transformation experts from the WEMIX ecosystem to communicate and exchange information. You can receive GDT in various game conferences such as GDC(Game Developers Conference) 2023, Token2049, and KBW, where WEMADE will participate as a partner. GDT holders will have access to exclusive community channels in Papyrus where they can communicate and exchange ideas with blockchain game experts.",
         "ko": "Game Developer’s Token(GDT)은 블록체인 게임 개발자들과 WEMIX 생태계의 블록체인 게임 트랜스포메이션 전문가들이 서로 소통할 수 있도록 해 주는 커뮤니티 토큰으로, GDC(Game Developers Conference) 2023, Token2049, KBW 등 WEMADE가 파트너사로 참여하게 될 다양한 게임 컨퍼런스에서 획득하실 수 있습니다. GDT 홀더들에게는 PAPYRUS 내 특별한 커뮤니티 채널에 입장할 수 있는 권한이 부여되며, 해당 커뮤니티를 통해 블록체인 게임 전문가들과 소통하실 수 있습니다."
       },
       "channels": {
-        "site": "https://wallet.test.wemix.com/"
+        "site": "https://www.papyrus.im/communitytoken"
       }
     }
   ]
