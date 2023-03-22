@@ -1,5 +1,5 @@
 {
-  "updated_at": 1679032175,
+  "updated_at": 1679462228,
   "tokens": [
     {
       "name": "WEMIX",
@@ -279,6 +279,24 @@
       "description": {
         "en": "Game Developer’s Token(GDT) is a community token that allows blockchain game developers and blockchain game transformation experts from the WEMIX ecosystem to communicate and exchange information. You can receive GDT in various game conferences such as GDC(Game Developers Conference) 2023, Token2049, and KBW, where WEMADE will participate as a partner. GDT holders will have access to exclusive community channels in Papyrus where they can communicate and exchange ideas with blockchain game experts.",
         "ko": "Game Developer’s Token(GDT)은 블록체인 게임 개발자들과 WEMIX 생태계의 블록체인 게임 트랜스포메이션 전문가들이 서로 소통할 수 있도록 해 주는 커뮤니티 토큰으로, GDC(Game Developers Conference) 2023, Token2049, KBW 등 WEMADE가 파트너사로 참여하게 될 다양한 게임 컨퍼런스에서 획득하실 수 있습니다. GDT 홀더들에게는 PAPYRUS 내 특별한 커뮤니티 채널에 입장할 수 있는 권한이 부여되며, 해당 커뮤니티를 통해 블록체인 게임 전문가들과 소통하실 수 있습니다."
+      },
+      "channels": {
+        "site": "https://www.papyrus.im/communitytoken"
+      }
+    },
+    {
+      "name": "Ari Project Token",
+      "display_name": "Ari Project Token",
+      "symbol": "APT",
+      "decimal": 0,
+      "address": "0x994fc601ff872FF9b55504CCC91b209B50C02e89",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/icon_apt.png",
+      "view_type": "event",
+      "description": {
+        "en": "Official Ari Project Token (APT) channel. Any member who holds a APT token can participate.'Ari Project' reinterprets beauty through virtual characters in various costumes and performances. 'Ari Project Token' is a community token designed for Ari NFT holders to come together and communicate in PAPYRUS.",
+        "ko": "APT의 공식 채널입니다. APT(Ari Project Token)를 보유한 멤버라면 누구나 참여할 수 있습니다. 아리 프로젝트 (Ari Project)는 아름다운 가상의 인물을 다양한 코스튬과 연출로 재해석해 나가는 NFT 프로젝트이며, APT(Ari Project Token)는 아리 프로젝트의 NFT를 보유한 분들이 PAPYRUS에 모여 소통할 수 있도록 해 주는 커뮤니티 토큰입니다."
       },
       "channels": {
         "site": "https://www.papyrus.im/communitytoken"
