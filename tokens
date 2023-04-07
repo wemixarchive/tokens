@@ -1,5 +1,5 @@
 {
-  "updated_at": 1679558992,
+  "updated_at": 1680845297,
   "tokens": [
     {
       "name": "WEMIX",
@@ -302,6 +302,29 @@
       "channels": {
         "site": "https://www.papyrus.im/communitytoken"
       }
+    },
+    {
+      "name": "FRC",
+      "display_name": "FORCE",
+      "symbol": "FRC",
+      "decimal": 18,
+      "address": "0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE0",
+      "required": false,
+      "listing": true,
+      "icon": "https://walletapi.wemix.com/app/images/icon_frc.png",
+      "description": {
+        "en": "$FORCE is the utility token of SNKRZ, a blockchain social fitness platform and the first Move-to-Earn service in Korea, where users can earn tokens by walking or running with their own shoe NFTs. User workouts are converted to Workout Points, and users who contribute more to the SNKRZ platform receive more $FORCE tokens. The tokens can be used to level up SNKRZ shoes or purchase various items. Enjoy your preferred workouts such as running, cycling, hiking, and more on the SNKRZ platform. However, it should be noted that it is not only the first Move-to-Earn service in Korea, but rather a blockchain Move-to-Earn service.",
+        "ko": "$FORCE는 국내 최초의 무브 투 언 서비스로 나만의 SNKRZ 를 신고 걷거나 달릴 때 토큰을 얻을 수 있는 블록체인 소셜 피트니스 플랫폼의 유틸리티 토큰입니다. 유저의 운동(workout)은 Workout Point로 환산되어 스니커즈 플랫폼에 높은 기여도를 가질 수록 더 많은 $FORCE를 분배 받습니다. 분배 받은 $FORCE는 스니커즈 신발의 레벨 업, 아이템 구매 등 다양한곳에 필요합니다. 스니커즈 랜드 위에서 러닝, 사이클링, 하이킹 등 내가 원하는 운동을 즐겨보세요."
+      },
+      "whitepaper": "https://thesnkrz.gitbook.io/en",
+      "channels": {
+        "site": "https://www.thesnkrz.com",
+        "medium": "https://medium.com/@thesnkrz",
+        "twitter": "https://twitter.com/theSNKRZ",
+        "youtube": "https://www.youtube.com/@thesnkrz",
+        "discord": "https://discord.com/invite/thesnkrz"
+      }
     }
+
   ]
 }
