@@ -39,8 +39,8 @@
           "ko": "https://xangle.io/project/WEMIX-V2/key-info"
         },
         "messari": {
-          "en": "https://messari.io/asset/wemix-token",
-          "ko": "https://messari.io/asset/wemix-token"
+          "en": "https://messari.io/asset/wemix",
+          "ko": "https://messari.io/asset/wemix"
         }
       }
     },
