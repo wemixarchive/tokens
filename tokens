@@ -1,5 +1,5 @@
 {
-  "updated_at": 1681096594,
+  "updated_at": 1681270256,
   "tokens": [
     {
       "name": "WEMIX",
@@ -424,6 +424,51 @@
       },
       "channels": {
         "site": "https://www.papyrus.im/communitytoken"
+      }
+    },
+    {
+      "name": "TST1",
+      "display_name": "TEST1",
+      "symbol": "TST1",
+      "decimal": 18,
+      "address": "0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE1",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/icon_tst1.png",
+      "description": {
+        "en": "TEST 1 no listing",
+        "ko": "TEST 1 no listing"
+      },
+      "whitepaper": "https://thesnkrz.gitbook.io/en",
+      "channels": {
+        "site": "https://www.thesnkrz.com",
+        "medium": "https://medium.com/@thesnkrz",
+        "twitter": "https://twitter.com/theSNKRZ",
+        "youtube": "https://www.youtube.com/@thesnkrz",
+        "discord": "https://discord.com/invite/thesnkrz"
+      }
+    },
+    {
+      "name": "TST2",
+      "display_name": "TEST2",
+      "symbol": "TST2",
+      "decimal": 18,
+      "address": "0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE7",
+      "required": false,
+      "listing": false,
+      "view_type": "nosend",
+      "icon": "https://wallet.test.wemix.com/app/images/icon_tst2.png",
+      "description": {
+        "en": "TEST 2 no send",
+        "ko": "TEST 2 no send"
+      },
+      "whitepaper": "https://thesnkrz.gitbook.io/en",
+      "channels": {
+        "site": "https://www.thesnkrz.com",
+        "medium": "https://medium.com/@thesnkrz",
+        "twitter": "https://twitter.com/theSNKRZ",
+        "youtube": "https://www.youtube.com/@thesnkrz",
+        "discord": "https://discord.com/invite/thesnkrz"
       }
     }
   ]
