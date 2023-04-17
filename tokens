@@ -24,6 +24,24 @@
         "twitter": "https://twitter.com/WemixNetwork",
         "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
         "facebook": "https://www.facebook.com/WEMIXBlockchain/"
+      },
+      "market_info": {
+        "coingecko": {
+          "en": "https://www.coingecko.com/en/coins/wemix",
+          "ko": "https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/wemix"
+        },
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/wemix/",
+          "ko": "https://coinmarketcap.com/ko/currencies/wemix/"
+        },
+        "xangle": {
+          "en": "https://xangle.io/en/project/WEMIX-V2/key-info",
+          "ko": "https://xangle.io/project/WEMIX-V2/key-info"
+        },
+        "messari": {
+          "en": "https://messari.io/asset/wemix",
+          "ko": "https://messari.io/asset/wemix"
+        }
       }
     },
     {
@@ -48,6 +66,12 @@
         "twitter": "https://twitter.com/WemixNetwork",
         "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
         "facebook": "https://www.facebook.com/WEMIXBlockchain"
+      },
+      "market_info": {
+        "coingecko": {
+          "en": "https://www.coingecko.com/en/coins/wemix-dollar",
+          "ko": "https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/wemix-dollar"
+        }
       }
     },
     {
@@ -88,6 +112,12 @@
       "whitepaper": "https://bitcoin.org/en/bitcoin-paper",
       "channels": {
         "site": "https://bitcoin.org/en/"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/bitcoin/",
+          "ko": "https://coinmarketcap.com/ko/currencies/bitcoin/"
+        }
       }
     },
     {
@@ -109,6 +139,12 @@
         "twitter": "https://twitter.com/ethdotorg",
         "youtube" : "https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g",
         "discord" : "https://discord.com/invite/CetY6Y4"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/ethereum/",
+          "ko": "https://coinmarketcap.com/ko/currencies/ethereum/"
+        }
       }
     },
     {
@@ -130,6 +166,12 @@
         "telegram": "https://t.me/OfficialTether",
         "twitter": "https://twitter.com/tether_to",
         "facebook": "https://www.facebook.com/tether.to"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/tether/",
+          "ko": "https://coinmarketcap.com/ko/currencies/tether/"
+        }
       }
     },
     {
@@ -151,6 +193,12 @@
         "twitter": "https://twitter.com/circle",
         "youtube" : "https://www.youtube.com/c/Circlecryptofinance",
         "discord": "https://discord.com/invite/Q7bKN5y"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/usd-coin/",
+          "ko": "https://coinmarketcap.com/ko/currencies/usd-coin/"
+        }
       }
     },
     {
@@ -175,6 +223,12 @@
         "youtube" : "https://www.youtube.com/channel/UCfYw6dhiwGBJQY_-Jcs8ozw",
         "facebook": "https://www.facebook.com/binance/",
         "discord": "https://discord.com/invite/binanceofficial"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/bnb/",
+          "ko": "https://coinmarketcap.com/ko/currencies/bnb/"
+        }
       }
     },
     {
@@ -197,6 +251,12 @@
         "twitter": "https://twitter.com/klaytn_official",
         "facebook": "https://www.facebook.com/klaytn.official",
         "discord": "https://discord.com/invite/hNcrS4BQrm"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/klaytn/",
+          "ko": "https://coinmarketcap.com/ko/currencies/klaytn/"
+        }
       }
     },
 
@@ -243,6 +303,12 @@
         "twitter": "https://twitter.com/tangled_nft",
         "youtube": "https://www.youtube.com/@tangledofficial8038",
         "discord": "https://discord.com/invite/tUNwSykFGb"
+      },
+      "market_info": {
+        "coingecko": {
+          "en": "https://www.coingecko.com/en/coins/tipo-token",
+          "ko": "https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/tipo-token"
+        }
       }
     },
     {
@@ -265,6 +331,24 @@
         "telegram": "https://t.me/klevaprotocol_official",
         "twitter": "https://twitter.com/KLEVA_Protocol",
         "youtube": "https://www.youtube.com/@KLEVAProtocol"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/kleva-protocol/",
+          "ko": "https://coinmarketcap.com/ko/currencies/kleva-protocol/"
+        },
+        "coingecko": {
+          "en": "https://www.coingecko.com/en/coins/kleva",
+          "ko": "https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/kleva"
+        },
+        "xangle": {
+          "en": "https://xangle.io/en/project/KLEVA/key-info",
+          "ko": "https://xangle.io/project/KLEVA/key-info"
+        },
+        "defillama": {
+          "en": "https://defillama.com/protocol/kleva-protocol",
+          "ko": "https://defillama.com/protocol/kleva-protocol"
+        }
       }
     },
     {
