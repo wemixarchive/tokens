@@ -110,6 +110,13 @@
       }
     }
   },
+  "symbol_rename": {
+    "Multichain": {
+      "BNB Chain": {
+        "WBTC": "BTCB"
+      }
+    }
+  },
   "chain": {
     "Klaytn": 8217,
     "Ethereum": 1,
