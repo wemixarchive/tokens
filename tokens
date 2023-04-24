@@ -1,5 +1,5 @@
 {
-  "updated_at": 1681270256,
+  "updated_at": 1682328126,
   "tokens": [
     {
       "name": "WEMIX",
@@ -427,48 +427,46 @@
       }
     },
     {
-      "name": "TST1",
-      "display_name": "TEST1",
-      "symbol": "TST1",
+      "name": "WDR",
+      "display_name": "WONDER",
+      "symbol": "WDR",
       "decimal": 18,
-      "address": "0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE1",
+      "address": "0x156822A339f5A2941D2Dd4E64ae669A92E2E75c7",
       "required": false,
       "listing": false,
-      "icon": "https://wallet.test.wemix.com/app/images/icon_tst1.png",
+      "icon": "https://wallet.test.wemix.com/app/images/icon_wonder.png",
       "description": {
-        "en": "TEST 1 no listing",
-        "ko": "TEST 1 no listing"
+        "en": "WONDER is a DAO Token of WONDER DAO, one of the Node Council Partners of WEMIX.\nWONDER Token is a utility token that can be used to issue Governance tokens, g.WONDER.",
+        "ko": "WONDER는 위믹스 생태계를 유지하는 노드 카운슬 파트너 중 하나인 WONDER DAO의 다오토큰입니다.\nWONDER 보유자는 DAO의 일원임을 증명하며, WONDER를 스테이킹해 거버넌스토큰 g.WONDER를 획득할 수 있습니다."
       },
-      "whitepaper": "https://thesnkrz.gitbook.io/en",
+      "whitepaper": "https://wonder-dao.gitbook.io/whitepaper-en/",
       "channels": {
-        "site": "https://www.thesnkrz.com",
-        "medium": "https://medium.com/@thesnkrz",
-        "twitter": "https://twitter.com/theSNKRZ",
-        "youtube": "https://www.youtube.com/@thesnkrz",
-        "discord": "https://discord.com/invite/thesnkrz"
+        "site": "https://www.nile.io/dao/wonder",
+        "medium": "https://medium.com/nile-official",
+        "twitter": "https://twitter.com/NILE_WM",
+        "discord": "https://discord.gg/78wzkvrsbj"
       }
     },
     {
-      "name": "TST2",
-      "display_name": "TEST2",
-      "symbol": "TST2",
+      "name": "g.WDR",
+      "display_name": "g.WONDER",
+      "symbol": "g.WDR",
       "decimal": 18,
-      "address": "0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE7",
+      "address": "0x889a96074A3267Bc61937a570df735E3D024b25D",
       "required": false,
       "listing": false,
       "view_type": "nosend",
-      "icon": "https://wallet.test.wemix.com/app/images/icon_tst2.png",
+      "icon": "https://wallet.test.wemix.com/app/images/icon_gwonder.png",
       "description": {
-        "en": "TEST 2 no send",
-        "ko": "TEST 2 no send"
+        "en": "g.WONDER is a Governance Token of WONDER DAO.\ng.WONDER can be used in making governance proposals or voting on proposals for the WONDER DAO Governance.",
+        "ko": "g.WONDER는 WONDER DAO의 거버넌스토큰입니다.\nWONDER DAO 거버넌스 프로그램을 통해 안건을 상정하거나, 투표하는데에 사용할 수 있습니다."
       },
-      "whitepaper": "https://thesnkrz.gitbook.io/en",
+      "whitepaper": "https://wonder-dao.gitbook.io/whitepaper-en/",
       "channels": {
-        "site": "https://www.thesnkrz.com",
-        "medium": "https://medium.com/@thesnkrz",
-        "twitter": "https://twitter.com/theSNKRZ",
-        "youtube": "https://www.youtube.com/@thesnkrz",
-        "discord": "https://discord.com/invite/thesnkrz"
+        "site": "https://www.nile.io/dao/wonder",
+        "medium": "https://medium.com/nile-official",
+        "twitter": "https://twitter.com/NILE_WM",
+        "discord": "https://discord.gg/78wzkvrsbj"
       }
     }
   ]
