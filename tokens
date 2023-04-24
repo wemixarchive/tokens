@@ -1,5 +1,5 @@
 {
-  "updated_at": 1682329056,
+  "updated_at": 1682329459,
   "tokens": [
     {
       "name": "WEMIX",
@@ -297,7 +297,7 @@
       },
       "whitepaper": "https://wonder-dao.gitbook.io/whitepaper-en/",
       "channels": {
-        "site": "https://www.nile.io/dao/wonder/station",
+        "site": "https://www.nile.io/dao/wonder/home",
         "medium": "https://medium.com/nile-official",
         "twitter": "https://twitter.com/NILE_WM",
         "discord": "https://discord.gg/78wzkvrsbj"
@@ -319,7 +319,7 @@
       },
       "whitepaper": "https://wonder-dao.gitbook.io/whitepaper-en/",
       "channels": {
-        "site": "https://www.nile.io/dao/wonder/station",
+        "site": "https://www.nile.io/dao/wonder/home",
         "medium": "https://medium.com/nile-official",
         "twitter": "https://twitter.com/NILE_WM",
         "discord": "https://discord.gg/78wzkvrsbj"
