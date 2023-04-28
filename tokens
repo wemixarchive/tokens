@@ -1,5 +1,5 @@
 {
-  "updated_at": 1682328654,
+  "updated_at": 1682647462,
   "tokens": [
     {
       "name": "WEMIX",
@@ -290,7 +290,7 @@
       "decimal": 18,
       "address": "0x0d01107f773a0754a3a4125d7b98e2ff707d7289",
       "required": false,
-      "listing": false,
+      "listing": true,
       "icon": "https://walletapi.wemix.com/app/images/icon_wonder.png",
       "description": {
         "en": "WONDER is a DAO Token of WONDER DAO, one of the Node Council Partners of WEMIX.\nWONDER Token is a utility token that can be used to issue Governance tokens, g.WONDER.",
