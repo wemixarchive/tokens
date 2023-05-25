@@ -1,5 +1,5 @@
 {
-  "updated_at": 1682401777,
+  "updated_at": 1682401778,
   "tokens": [
     {
       "name": "WEMIX",
@@ -283,7 +283,7 @@
       "display_name": "WONDER",
       "symbol": "WDR",
       "decimal": 18,
-      "address": "0x156822A339f5A2941D2Dd4E64ae669A92E2E75c7",
+      "address": "0xa3Bd10FeC1b09152d89F79D3Af68603efFe4F8C5",
       "required": false,
       "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wonder.png",
@@ -304,7 +304,7 @@
       "display_name": "g.WONDER",
       "symbol": "g.WDR",
       "decimal": 18,
-      "address": "0x889a96074A3267Bc61937a570df735E3D024b25D",
+      "address": "0x52c97655371dAc3c8ba602DcD3B93F71eA0786e6",
       "required": false,
       "listing": false,
       "view_type": "nosend",
