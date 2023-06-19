@@ -1,5 +1,5 @@
 {
-  "updated_at": 1686890488,
+  "updated_at": 1686890489,
   "tokens": [
     {
       "name": "WEMIX",
@@ -75,7 +75,7 @@
       "display_name": "Staked WEMIX",
       "symbol": "stWEMIX",
       "decimal": 18,
-      "address": "0x746663e9770e554b56Cc32a4A33680bFF0082Cff",
+      "address": "0xc53B1C26C992CAF4662A1B98954E641f323d8a55",
       "required": false,
       "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_stwemix.png",
