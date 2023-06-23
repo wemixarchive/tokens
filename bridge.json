@@ -12,7 +12,7 @@
           "bridges": ["WEMIX PLAY"]
         },
         "Klaytn": {
-          "bridges": ["Multichain", "WEMIX PLAY"]
+          "bridges": ["Multichain", "WEMIX PLAY", "Orbit chain"]
         },
         "TON": {
           "bridges": ["Orbit chain"]
