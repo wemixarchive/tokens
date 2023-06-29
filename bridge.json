@@ -3,7 +3,7 @@
     "WEMIX": {
       "networks": {
         "Ethereum": {
-          "bridges": ["Multichain"]
+          "bridges": []
         },
         "Polygon": {
           "bridges": ["Orbit chain"]
@@ -12,7 +12,7 @@
           "bridges": ["WEMIX PLAY"]
         },
         "Klaytn": {
-          "bridges": ["Multichain", "WEMIX PLAY", "Orbit chain"]
+          "bridges": ["WEMIX PLAY", "Orbit chain"]
         },
         "TON": {
           "bridges": ["Orbit chain"]
@@ -105,7 +105,7 @@
     "KLEVA": {
       "networks": {
         "Klaytn": {
-          "bridges": ["Multichain"]
+          "bridges": []
         }
       }
     }
