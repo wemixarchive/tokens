@@ -28,7 +28,7 @@
           "bridges": ["Orbit chain"]
         },
         "Klaytn": {
-          "bridges": ["Multichain"]
+          "bridges": []
         },
         "Play Chain": {
           "bridges": ["WEMIX PLAY"]
