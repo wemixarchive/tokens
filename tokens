@@ -1,5 +1,5 @@
 {
-  "updated_at": 1687937027,
+  "updated_at": 1687937028,
   "tokens": [
     {
       "name": "WEMIX",
@@ -418,7 +418,7 @@
       "decimal": 18,
       "address": "0x155Ae12Ff5331ac651FCA0711a9246e7F1A46Dc3",
       "required": false,
-      "listing": false,
+      "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wcd.png",
       "description": {
         "en": "Kurrency is a service where users can mint, deposit and swap WEMIX Crypto Dollar. Collateral-Backed Crypto Dollar, WCD is a cryptocurrency that minimizes price fluctuations and is designed to be used as US Dollar.",
