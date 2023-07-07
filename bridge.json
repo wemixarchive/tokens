@@ -29,6 +29,13 @@
         }
       }
     },
+    "oUSDC": {
+      "networks": {
+        "Ethereum": {
+          "bridges": ["Orbit chain"]
+        }
+      }
+    },
     "wRFT": {
       "networks": {
         "Play Chain": {
