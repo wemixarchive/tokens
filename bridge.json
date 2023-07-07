@@ -2,9 +2,6 @@
   "tokens": {
     "WEMIX": {
       "networks": {
-        "Ethereum": {
-          "bridges": []
-        },
         "Polygon": {
           "bridges": ["Orbit chain"]
         },
