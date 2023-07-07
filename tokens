@@ -1,5 +1,5 @@
 {
-  "updated_at": 1687937029,
+  "updated_at": 1687937030,
   "tokens": [
     {
       "name": "WEMIX",
@@ -470,7 +470,7 @@
     },
     {
       "name": "NDT",
-      "display_name": "NFT Developer’s Token",
+      "display_name": "NFT Developer’s Token2",
       "symbol": "NDT",
       "decimal": 0,
       "address": "0xb7693f1b19d4A2bD8f7271d570AecCAf615909db",
