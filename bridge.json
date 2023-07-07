@@ -38,60 +38,60 @@
     "WBTC": {
       "networks": {
         "Ethereum": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         },
         "BNB Chain": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         }
       }
     },
     "ETH": {
       "networks": {
         "Ethereum": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         },
         "BNB Chain": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         }
       }
     },
     "USDT": {
       "networks": {
         "Ethereum": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         },
         "BNB Chain": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         },
         "Polygon": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         }
       }
     },
     "USDC": {
       "networks": {
         "Ethereum": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         },
         "BNB Chain": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         },
         "Polygon": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         }
       }
     },
     "BNB": {
       "networks": {
         "BNB Chain": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         }
       }
     },
     "KLAY": {
       "networks": {
         "Klaytn": {
-          "bridges": ["Multichain"]
+          "bridges": [""]
         }
       }
     },
