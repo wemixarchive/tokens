@@ -1,5 +1,5 @@
 {
-  "updated_at": 1687937031,
+  "updated_at": 1687937032,
   "tokens": [
     {
       "name": "WEMIX",
@@ -197,6 +197,7 @@
         }
       }
     },
+    {
       "name": "oUSDC",
       "display_name": "USD Coin",
       "symbol": "oUSDC",
