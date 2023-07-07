@@ -1,5 +1,5 @@
 {
-  "updated_at": 1687937028,
+  "updated_at": 1687937029,
   "tokens": [
     {
       "name": "WEMIX",
@@ -93,9 +93,9 @@
       }
     },
     {
-      "name": "WBTC",
+      "name": "mWBTC",
       "display_name": "Wrapped BTC",
-      "symbol": "WBTC",
+      "symbol": "mWBTC",
       "decimal": 8,
       "address": "0x974D63275013fd863992e7245572E9aedB3319D5",
       "required": false,
@@ -117,9 +117,9 @@
       }
     },
     {
-      "name": "ETH",
+      "name": "mETH",
       "display_name": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "mETH",
       "decimal": 18,
       "address": "0xE19B799146276Fd8ba7Bf807347A33Ef7Fd49B4b",
       "required": false,
@@ -144,9 +144,9 @@
       }
     },
     {
-      "name": "USDT",
+      "name": "mUSDT",
       "display_name": "Tether USD",
-      "symbol": "USDT",
+      "symbol": "mUSDT",
       "decimal": 6,
       "address": "0x4e202313790ae15AE84A7E5716EbFbB358C43530",
       "required": false,
@@ -171,9 +171,9 @@
       }
     },
     {
-      "name": "USDC",
+      "name": "mUSDC",
       "display_name": "USD Coin",
-      "symbol": "USDC",
+      "symbol": "mUSDC",
       "decimal": 6,
       "address": "0x5bdB668DE9C160746c40c0528961a4ffc6231a59",
       "required": false,
@@ -198,9 +198,9 @@
       }
     },
     {
-      "name": "BNB",
+      "name": "mBNB",
       "display_name": "Binance",
-      "symbol": "BNB",
+      "symbol": "mBNB",
       "decimal": 18,
       "address": "0x9d88364cE61172D5398cD99c96b8D74899943fF4",
       "required": false,
@@ -228,9 +228,9 @@
       }
     },
     {
-      "name": "KLAY",
+      "name": "mKLAY",
       "display_name": "Klaytn",
-      "symbol": "KLAY",
+      "symbol": "mKLAY",
       "decimal": 18,
       "address": "0x53455405946657d7D77D22D552120e60d9aeC218",
       "required": false,
@@ -350,9 +350,9 @@
       }
     },
     {
-      "name": "KLEVA",
+      "name": "mKLEVA",
       "display_name": "Kleva Token",
-      "symbol": "KLEVA",
+      "symbol": "mKLEVA",
       "decimal": 18,
       "address": "0xE8C5201f0f4bdde271ACC9F14057CB4fe0DBA616",
       "required": false,
