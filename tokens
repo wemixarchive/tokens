@@ -93,9 +93,9 @@
       }
     },
     {
-      "name": "WBTC",
+      "name": "mWBTC",
       "display_name": "Wrapped BTC",
-      "symbol": "WBTC",
+      "symbol": "mWBTC",
       "decimal": 8,
       "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
       "required": false,
@@ -117,9 +117,9 @@
       }
     },
     {
-      "name": "ETH",
+      "name": "mETH",
       "display_name": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "mETH",
       "decimal": 18,
       "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
       "required": false,
@@ -144,9 +144,9 @@
       }
     },
     {
-      "name": "USDT",
+      "name": "mUSDT",
       "display_name": "Tether USD",
-      "symbol": "USDT",
+      "symbol": "mUSDT",
       "decimal": 6,
       "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
       "required": false,
@@ -171,9 +171,36 @@
       }
     },
     {
-      "name": "USDC",
+      "name": "oUSDC",
       "display_name": "USD Coin",
-      "symbol": "USDC",
+      "symbol": "oUSDC",
+      "decimal": 6,
+      "address": "0xE4c2b5db9de5da0A17ED7ec7176602ad99E52624",
+      "required": false,
+      "listing": true,
+      "icon": "https://walletapi.wemix.com/app/images/icon_usdc.png",
+      "description": {
+        "en": "Launched in 2018 by Circle, USDC is a stablecoin with its value pegged to the US dollar at the ratio of 1:1, and the price peg between USDC and USD is maintained by Circle's reserve which consists of cash and short-dated treasuries.\nAs Circle's financial statements are audited by the Securities and Exchange Commission, Circle/USDC abides by and is strictly under the financial regulations of the United States government.",
+        "ko": "USDC는 2018년 Circle이 출시한 스테이블코인으로, 코인의 가치가 미국 달러와 1:1 비율로 연동되어 있으며, USDC와 미국 달러의 가치연동은 Circle이 보유한 현금과 단기 미국 국채를 포함하는 준비금에 의해 유지됩니다.\nCircle의 재무재표는 미국 증권의원회의 감사를 받는 등 USDC는 미국 금융법을 준수하며 운영되고 있습니다."
+      },
+      "whitepaper": "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf",
+      "channels": {
+        "site": "https://www.circle.com/en/usdc",
+        "twitter": "https://twitter.com/circle",
+        "youtube" : "https://www.youtube.com/c/Circlecryptofinance",
+        "discord": "https://discord.com/invite/Q7bKN5y"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/usd-coin/",
+          "ko": "https://coinmarketcap.com/ko/currencies/usd-coin/"
+        }
+      }
+    },
+    {
+      "name": "mUSDC",
+      "display_name": "USD Coin",
+      "symbol": "mUSDC",
       "decimal": 6,
       "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
       "required": false,
@@ -198,9 +225,9 @@
       }
     },
     {
-      "name": "BNB",
+      "name": "mBNB",
       "display_name": "Binance",
-      "symbol": "BNB",
+      "symbol": "mBNB",
       "decimal": 18,
       "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
       "required": false,
@@ -228,9 +255,9 @@
       }
     },
     {
-      "name": "KLAY",
+      "name": "mKLAY",
       "display_name": "Klaytn",
-      "symbol": "KLAY",
+      "symbol": "mKLAY",
       "decimal": 18,
       "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
       "required": false,
@@ -351,9 +378,9 @@
       }
     },
     {
-      "name": "KLEVA",
+      "name": "mKLEVA",
       "display_name": "Kleva Token",
-      "symbol": "KLEVA",
+      "symbol": "mKLEVA",
       "decimal": 18,
       "address": "0xe6801928061CDbE32AC5AD0634427E140EFd05F9",
       "required": false,
