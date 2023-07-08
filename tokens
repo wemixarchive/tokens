@@ -1,5 +1,5 @@
 {
-  "updated_at": 1687927256,
+  "updated_at": 1688789336,
   "tokens": [
     {
       "name": "WEMIX",
@@ -179,6 +179,60 @@
       "required": false,
       "listing": true,
       "icon": "https://walletapi.wemix.com/app/images/icon_usdc.png",
+      "description": {
+        "en": "Launched in 2018 by Circle, USDC is a stablecoin with its value pegged to the US dollar at the ratio of 1:1, and the price peg between USDC and USD is maintained by Circle's reserve which consists of cash and short-dated treasuries.\nAs Circle's financial statements are audited by the Securities and Exchange Commission, Circle/USDC abides by and is strictly under the financial regulations of the United States government.",
+        "ko": "USDC는 2018년 Circle이 출시한 스테이블코인으로, 코인의 가치가 미국 달러와 1:1 비율로 연동되어 있으며, USDC와 미국 달러의 가치연동은 Circle이 보유한 현금과 단기 미국 국채를 포함하는 준비금에 의해 유지됩니다.\nCircle의 재무재표는 미국 증권의원회의 감사를 받는 등 USDC는 미국 금융법을 준수하며 운영되고 있습니다."
+      },
+      "whitepaper": "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf",
+      "channels": {
+        "site": "https://www.circle.com/en/usdc",
+        "twitter": "https://twitter.com/circle",
+        "youtube" : "https://www.youtube.com/c/Circlecryptofinance",
+        "discord": "https://discord.com/invite/Q7bKN5y"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/usd-coin/",
+          "ko": "https://coinmarketcap.com/ko/currencies/usd-coin/"
+        }
+      }
+    },
+    {
+      "name": "USDC",
+      "display_name": "USD Coin",
+      "symbol": "USDC",
+      "decimal": 6,
+      "address": "0xE4c2b5db9de5da0A17ED7ec7176602ad99E52624",
+      "required": false,
+      "listing": true,
+      "icon": "https://walletapi.wemix.com/app/images/icon_usdc.png",
+      "description": {
+        "en": "Launched in 2018 by Circle, USDC is a stablecoin with its value pegged to the US dollar at the ratio of 1:1, and the price peg between USDC and USD is maintained by Circle's reserve which consists of cash and short-dated treasuries.\nAs Circle's financial statements are audited by the Securities and Exchange Commission, Circle/USDC abides by and is strictly under the financial regulations of the United States government.",
+        "ko": "USDC는 2018년 Circle이 출시한 스테이블코인으로, 코인의 가치가 미국 달러와 1:1 비율로 연동되어 있으며, USDC와 미국 달러의 가치연동은 Circle이 보유한 현금과 단기 미국 국채를 포함하는 준비금에 의해 유지됩니다.\nCircle의 재무재표는 미국 증권의원회의 감사를 받는 등 USDC는 미국 금융법을 준수하며 운영되고 있습니다."
+      },
+      "whitepaper": "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf",
+      "channels": {
+        "site": "https://www.circle.com/en/usdc",
+        "twitter": "https://twitter.com/circle",
+        "youtube" : "https://www.youtube.com/c/Circlecryptofinance",
+        "discord": "https://discord.com/invite/Q7bKN5y"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/usd-coin/",
+          "ko": "https://coinmarketcap.com/ko/currencies/usd-coin/"
+        }
+      }
+    },
+    {
+      "name": "oUSDC",
+      "display_name": "USD Coin",
+      "symbol": "oUSDC",
+      "decimal": 6,
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "required": false,
+      "listing": true,
+      "icon": "https://walletapi.wemix.com/app/images/logo_oUSDC.png",
       "description": {
         "en": "Launched in 2018 by Circle, USDC is a stablecoin with its value pegged to the US dollar at the ratio of 1:1, and the price peg between USDC and USD is maintained by Circle's reserve which consists of cash and short-dated treasuries.\nAs Circle's financial statements are audited by the Securities and Exchange Commission, Circle/USDC abides by and is strictly under the financial regulations of the United States government.",
         "ko": "USDC는 2018년 Circle이 출시한 스테이블코인으로, 코인의 가치가 미국 달러와 1:1 비율로 연동되어 있으며, USDC와 미국 달러의 가치연동은 Circle이 보유한 현금과 단기 미국 국채를 포함하는 준비금에 의해 유지됩니다.\nCircle의 재무재표는 미국 증권의원회의 감사를 받는 등 USDC는 미국 금융법을 준수하며 운영되고 있습니다."
@@ -419,7 +473,7 @@
       "decimal": 18,
       "address": "0x2ec6Fc5c495aF0C439E17268d595286d5f897dD0",
       "required": false,
-      "listing": false,
+      "listing": true,
       "icon": "https://walletapi.wemix.com/app/images/icon_wcd.png",
       "description": {
         "en": "Kurrency is a service where users can mint, deposit and swap WEMIX Crypto Dollar. Collateral-Backed Crypto Dollar, WCD is a cryptocurrency that minimizes price fluctuations and is designed to be used as US Dollar.",
