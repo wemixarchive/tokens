@@ -1,5 +1,5 @@
 {
-  "updated_at": 1688789337,
+  "updated_at": 1688789338,
   "tokens": [
     {
       "name": "WEMIX",
@@ -202,7 +202,7 @@
       "display_name": "USD Coin",
       "symbol": "oUSDC",
       "decimal": 6,
-      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "address": "0xE4c2b5db9de5da0A17ED7ec7176602ad99E52624",
       "required": false,
       "listing": true,
       "icon": "https://walletapi.wemix.com/app/images/logo_oUSDC.png",
