@@ -2,6 +2,9 @@
   "tokens": {
     "WEMIX": {
       "networks": {
+        "Ethereum": {
+          "bridges": []
+        },
         "Polygon": {
           "bridges": ["Orbit chain"]
         },
@@ -24,8 +27,57 @@
         "TON": {
           "bridges": ["Orbit chain"]
         },
+        "Klaytn": {
+          "bridges": []
+        },
         "Play Chain": {
           "bridges": ["WEMIX PLAY"]
+        }
+      }
+    },
+    "mWBTC": {
+      "networks": {
+        "Ethereum": {
+          "bridges": [""]
+        },
+        "BNB Chain": {
+          "bridges": [""]
+        }
+      }
+    },
+    "mETH": {
+      "networks": {
+        "Ethereum": {
+          "bridges": [""]
+        },
+        "BNB Chain": {
+          "bridges": [""]
+        }
+      }
+    },
+    "mUSDT": {
+      "networks": {
+        "Ethereum": {
+          "bridges": [""]
+        },
+        "BNB Chain": {
+          "bridges": [""]
+        },
+        "Polygon": {
+          "bridges": [""]
+        }
+      }
+    },
+    "mUSDC": {
+      "networks": {
+        "Ethereum": {
+          "bridges": [""]
+        },
+        "BNB Chain": {
+          "bridges": [""]
+        },
+        "Polygon": {
+          "bridges": [""]
         }
       }
     },
@@ -36,10 +88,31 @@
         }
       }
     },
+    "mBNB": {
+      "networks": {
+        "BNB Chain": {
+          "bridges": [""]
+        }
+      }
+    },
+    "mKLAY": {
+      "networks": {
+        "Klaytn": {
+          "bridges": [""]
+        }
+      }
+    },
     "wRFT": {
       "networks": {
         "Play Chain": {
           "bridges": ["WEMIX PLAY"]
+        }
+      }
+    },
+    "mKLEVA": {
+      "networks": {
+        "Klaytn": {
+          "bridges": []
         }
       }
     }
