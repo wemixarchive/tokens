@@ -1,9 +1,10 @@
 {
-  "updated_at": 1687937037,
+  "updated_at": 1687937038,
   "tokens": [
     {
       "name": "WEMIX",
       "display_name": "WEMIX",
+      "display_fullname": "WEMIX",
       "symbol": "WEMIX",
       "decimal": 18,
       "address": "0x244c72AB61f11dD44Bfa4AaF11e2EFD89ca789fe",
@@ -43,6 +44,7 @@
     {
       "name": "WEMIX$",
       "display_name": "WEMIX$",
+      "display_fullname": "WEMIX",
       "symbol": "WEMIX$",
       "decimal": 18,
       "address": "0xAe81b9fFCde5Ab7673dD4B2f5c648a5579430B17",
@@ -73,6 +75,7 @@
     {
       "name": "stWEMIX",
       "display_name": "Staked WEMIX",
+      "display_fullname": "Staked WEMIX",
       "symbol": "stWEMIX",
       "decimal": 18,
       "address": "0xc53B1C26C992CAF4662A1B98954E641f323d8a55",
@@ -95,6 +98,7 @@
     {
       "name": "mWBTC",
       "display_name": "Wrapped BTC",
+      "display_fullname": "Multichain Bridge Wrapped BTC",
       "symbol": "mWBTC",
       "decimal": 8,
       "address": "0x974D63275013fd863992e7245572E9aedB3319D5",
@@ -119,6 +123,7 @@
     {
       "name": "mETH",
       "display_name": "Ethereum",
+      "display_fullname": "Multichain Bridge Ethereum",
       "symbol": "mETH",
       "decimal": 18,
       "address": "0xE19B799146276Fd8ba7Bf807347A33Ef7Fd49B4b",
@@ -146,6 +151,7 @@
     {
       "name": "mUSDT",
       "display_name": "Tether USD",
+      "display_fullname": "Multichain Bridge Tether USD",
       "symbol": "mUSDT",
       "decimal": 6,
       "address": "0x4e202313790ae15AE84A7E5716EbFbB358C43530",
@@ -173,6 +179,7 @@
     {
       "name": "mUSDC",
       "display_name": "USD Coin",
+      "display_fullname": "Multichain Bridge USD Coin",
       "symbol": "mUSDC",
       "decimal": 6,
       "address": "0x5bdB668DE9C160746c40c0528961a4ffc6231a59",
@@ -200,6 +207,7 @@
     {
       "name": "oUSDC",
       "display_name": "USD Coin",
+      "display_fullname": "Orbit Bridge USD Coin",
       "symbol": "oUSDC",
       "decimal": 6,
       "address": "0x3eFc2e351b64912168F15074a1e444E3272d64be",
@@ -227,6 +235,7 @@
     {
       "name": "mBNB",
       "display_name": "Binance",
+      "display_fullname": "Multichain Bridge Binance",
       "symbol": "mBNB",
       "decimal": 18,
       "address": "0x9d88364cE61172D5398cD99c96b8D74899943fF4",
@@ -257,6 +266,7 @@
     {
       "name": "mKLAY",
       "display_name": "Klaytn",
+      "display_fullname": "Multichain Bridge Klaytn",
       "symbol": "mKLAY",
       "decimal": 18,
       "address": "0x53455405946657d7D77D22D552120e60d9aeC218",
@@ -285,6 +295,7 @@
     {
       "name": "wRFT",
       "display_name": "Wrapped REFLECT",
+      "display_fullname": "Wrapped REFLECT",
       "symbol": "wRFT",
       "decimal": 18,
       "address": "0xA40b22C05Dd915BAeb83e4b633C59E37C6071d16",
@@ -308,6 +319,7 @@
     {
       "name": "WDR",
       "display_name": "WONDER",
+      "display_fullname": "WONDER",
       "symbol": "WDR",
       "decimal": 18,
       "address": "0xa3Bd10FeC1b09152d89F79D3Af68603efFe4F8C5",
@@ -329,6 +341,7 @@
     {
       "name": "g.WDR",
       "display_name": "g.WONDER",
+      "display_fullname": "g.WONDER",
       "symbol": "g.WDR",
       "decimal": 18,
       "address": "0x52c97655371dAc3c8ba602DcD3B93F71eA0786e6",
@@ -351,6 +364,7 @@
     {
       "name": "TIPO",
       "display_name": "TIPO Token",
+      "display_fullname": "TIPO Token",
       "symbol": "TIPO",
       "decimal": 18,
       "address": "0x4aF286b2BF66AE46dA121fFeB46c2a3BbE05DD97",
@@ -379,6 +393,7 @@
     {
       "name": "mKLEVA",
       "display_name": "Kleva Token",
+      "display_fullname": "Multichain Bridge Kleva Token",
       "symbol": "mKLEVA",
       "decimal": 18,
       "address": "0xE8C5201f0f4bdde271ACC9F14057CB4fe0DBA616",
@@ -419,6 +434,7 @@
     {
       "name": "FRC",
       "display_name": "FORCE",
+      "display_fullname": "FORCE",
       "symbol": "FRC",
       "decimal": 18,
       "address": "0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE0",
@@ -441,6 +457,7 @@
     {
       "name": "WCD",
       "display_name": "WEMIX Crypto Dollar",
+      "display_fullname": "WEMIX Crypto Dollar",
       "symbol": "WCD",
       "decimal": 18,
       "address": "0x155Ae12Ff5331ac651FCA0711a9246e7F1A46Dc3",
@@ -462,6 +479,7 @@
     {
       "name": "GDT",
       "display_name": "Game Developer's Token",
+      "display_fullname": "Game Developer's Token",
       "symbol": "GDT",
       "decimal": 0,
       "address": "0x679f8965c8F52577aAB71C6B759c358A7dE24F51",
@@ -480,6 +498,7 @@
     {
       "name": "APT",
       "display_name": "Ari Project Token",
+      "display_fullname": "Ari Project Token",
       "symbol": "APT",
       "decimal": 0,
       "address": "0x994fc601ff872FF9b55504CCC91b209B50C02e89",
@@ -497,7 +516,8 @@
     },
     {
       "name": "NDT",
-      "display_name": "NFT Developer’s Token2",
+      "display_name": "NFT Developer’s Token",
+      "display_fullname": "NFT Developer’s Token",
       "symbol": "NDT",
       "decimal": 0,
       "address": "0xb7693f1b19d4A2bD8f7271d570AecCAf615909db",
