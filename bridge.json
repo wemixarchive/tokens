@@ -33,6 +33,15 @@
       "networks": {
         "Ethereum": {
           "bridges": ["Orbit chain"]
+        },
+        "TON": {
+          "bridges": ["Orbit chain"]
+        },
+        "Polygon": {
+          "bridges": ["Orbit chain"]
+        },
+        "Klaytn": {
+          "bridges": ["Orbit chain"]
         }
       }
     },
