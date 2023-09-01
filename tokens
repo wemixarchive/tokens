@@ -477,7 +477,7 @@
         "en": "Kurrency is a service where users can mint, deposit and swap WEMIX Crypto Dollar. Collateral-Backed Crypto Dollar, WCD is a cryptocurrency that minimizes price fluctuations and is designed to be used as US Dollar.",
         "ko": "Kurrency는 크립토 담보 방식으로 WCD(WEMIX Crypto Dollar)를 발행하고 예치 및 교환할 수 있는 서비스입니다. 암호화폐를 담보로 발행되는 크립토달러, WCD는 가격 변동을 최소화한 암호화폐이며, 달러와 같은 역할을 하는 것을 목표로 합니다."
       },
-      "whitepaper": "https://docs.kurrency.io/introduction/intro",
+      "whitepaper": "https://docs.kurrency.io/",
       "channels": {
         "site": "https://kurrency.io",
         "medium": "https://medium.com/@Kurrency",
