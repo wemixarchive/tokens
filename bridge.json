@@ -48,7 +48,8 @@
     "wRFT": {
       "networks": {
         "Play Chain": {
-          "bridges": ["WEMIX PLAY"]
+          "bridges": ["WEMIX PLAY"],
+          "receive_pause": true
         }
       }
     }
