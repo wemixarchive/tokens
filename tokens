@@ -1,5 +1,5 @@
 {
-  "updated_at": 1700611283,
+  "updated_at": 1700611284,
   "tokens": [
     {
       "name": "WEMIX",
@@ -104,7 +104,7 @@
       "decimal": 8,
       "address": "0x974D63275013fd863992e7245572E9aedB3319D5",
       "required": false,
-      "listing": true,
+      "listing": false,
       "icon": "https://wallet.test.wemix.com/app/images/logo_mWBTC.png",
       "description": {
         "en": "Bitcoin is the first cryptocurrency created based on blockchain technology. Developed with C++ language, Bitcoin can be mined in a Proof of Work (PoW) method. Bitcoin, making its first appearance on October 31, 2008 by Satoshi Nagamoto, has a fixed total issuance volume, and a total of 21 million BTCs will be issued by 2140 after a phased half-life. Many of the altcoins that have been issued have their roots in Bitcoin.",
@@ -130,7 +130,7 @@
       "decimal": 18,
       "address": "0xE19B799146276Fd8ba7Bf807347A33Ef7Fd49B4b",
       "required": false,
-      "listing": true,
+      "listing": false,
       "icon": "https://wallet.test.wemix.com/app/images/logo_mETH.png",
       "description": {
         "en": "Developed by Vitalic Buterin, Ethereum is a platform that implements smart contract functions based on blockchain technology. The blockchain technology which was limitedly applied to cryptocurrency in the past expanded its horizon as Ethereum's smart contract enabled development and distribution of Decetralized apps (DApps). It adopted a new mining method by switching from the PoW mining method to the PoS method through a process called 'The Merge' in 2022. Ether is provided and used as Etherium platform native currency.",
@@ -246,7 +246,7 @@
       "decimal": 18,
       "address": "0x9d88364cE61172D5398cD99c96b8D74899943fF4",
       "required": false,
-      "listing": true,
+      "listing": false,
       "icon": "https://wallet.test.wemix.com/app/images/logo_mBNB.png",
       "description": {
         "en": "BNB, previously known as Binance coin, is a utility token created by Binance, the leading crypto exchange worldwide. Launched in 2017, BNB was initially based on the Ethereum network but in April of 2019, the tokens were swapped on a 1:1 ratio onto the newly launched Binance chain. Not only is BNB the native token and official cryptocurrency of Binance to settle transaction fees and participate in exclusive token sales, but it can be also used to pay for goods and services.",
