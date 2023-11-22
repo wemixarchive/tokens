@@ -1,5 +1,5 @@
 {
-  "updated_at": 1687937045,
+  "updated_at": 1700611283,
   "tokens": [
     {
       "name": "WEMIX",
@@ -278,7 +278,7 @@
       "decimal": 18,
       "address": "0x53455405946657d7D77D22D552120e60d9aeC218",
       "required": false,
-      "listing": true,
+      "listing": false,
       "icon": "https://wallet.test.wemix.com/app/images/logo_mKLAY.png",
       "description": {
         "en": "KLAY was launched in June of 2019 and it is the native token of Klaytn, a public blockchain developed by Ground X, a subsidiary of Kakao.\n10 billion KLAY were issued at genesis and it uses a Proof of Stake consensus mechanism known as IBFT (Istanbul Byzantine fault tolerance).",
