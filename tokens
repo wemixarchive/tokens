@@ -1,5 +1,5 @@
 {
-  "updated_at": 1702523391,
+  "updated_at": 1702954453,
   "tokens": [
     {
       "name": "WEMIX",
@@ -151,36 +151,6 @@
         }
       }
     },
-    {
-      "name": "mUSDT",
-      "display_name": "Tether USD",
-      "display_fullname": "Multichain Bridge Tether USD",
-      "symbol": "mUSDT",
-      "decimal": 6,
-      "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
-      "required": false,
-      "listing": true,
-      "icon": "https://walletapi.wemix.com/app/images/logo_mUSDT.png",
-      "description": {
-        "en": "Tether(USDT) is a fiat-collateralized cryptocurrency stablecoin pegged to the US dollar at a 1:1 ratio; issued by iFinex, a Hong-Kong based company that owns BitFinex crypto exchange. Tether was launched in 2014 as Realcoin, and it was the first stablecoin introduced in the market. Originally, it was issued on the Bitcoin blockchain via Omni Layer protocol and it currently supports Bitcoin, Ethereum, TRON, EOS, Algorand, Solana and OMG Network. As of January 2023, it has a market cap of $66B.",
-        "ko": "테더(Tether, USDT)는 미국 달러에 1:1 비율로 고정된 법정 담보 암호화폐 스테이블 코인으로, 비트파이넥스 암호화폐 거래소를 소유한 홍콩 소재 기업 아이파이넥스가 발행했습니다. 테더는 2014년 리얼코인으로 출시됐으며, 시장에 처음으로 선보인 스테이블코인입니다. 원래 옴니레이어 프로토콜을 통해 비트코인 블록체인에서 발행되었으며 현재 비트코인, 이더리움, TRON, EOS, 알고리즘, 솔라나, OMG 네트워크를 지원합니다."
-      },
-      "whitepaper": "https://assets.ctfassets.net/vyse88cgwfbl/5UWgHMvz071t2Cq5yTw5vi/c9798ea8db99311bf90ebe0810938b01/TetherWhitePaper.pdf",
-      "channels": {
-        "site": "https://tether.to/",
-        "telegram": "https://t.me/OfficialTether",
-        "twitter": "https://twitter.com/tether_to",
-        "facebook": "https://www.facebook.com/tether.to"
-      },
-      "market_info": {
-        "cmc": {
-          "en": "https://coinmarketcap.com/currencies/tether/",
-          "ko": "https://coinmarketcap.com/ko/currencies/tether/"
-        }
-      }
-    },
-
- 
     {
       "name": "REFLECT",
       "display_name": "REFLECT",
@@ -389,7 +359,63 @@
         "discord": "https://discord.com/invite/kurrency"
       }
     },
-   {
+    {
+      "name": "mUSDT",
+      "display_name": "Tether USD",
+      "display_fullname": "Multichain Bridge Tether USD",
+      "symbol": "mUSDT",
+      "decimal": 6,
+      "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+      "required": false,
+      "listing": true,
+      "icon": "https://walletapi.wemix.com/app/images/logo_mUSDT.png",
+      "description": {
+        "en": "Tether(USDT) is a fiat-collateralized cryptocurrency stablecoin pegged to the US dollar at a 1:1 ratio; issued by iFinex, a Hong-Kong based company that owns BitFinex crypto exchange. Tether was launched in 2014 as Realcoin, and it was the first stablecoin introduced in the market. Originally, it was issued on the Bitcoin blockchain via Omni Layer protocol and it currently supports Bitcoin, Ethereum, TRON, EOS, Algorand, Solana and OMG Network. As of January 2023, it has a market cap of $66B.",
+        "ko": "테더(Tether, USDT)는 미국 달러에 1:1 비율로 고정된 법정 담보 암호화폐 스테이블 코인으로, 비트파이넥스 암호화폐 거래소를 소유한 홍콩 소재 기업 아이파이넥스가 발행했습니다. 테더는 2014년 리얼코인으로 출시됐으며, 시장에 처음으로 선보인 스테이블코인입니다. 원래 옴니레이어 프로토콜을 통해 비트코인 블록체인에서 발행되었으며 현재 비트코인, 이더리움, TRON, EOS, 알고리즘, 솔라나, OMG 네트워크를 지원합니다."
+      },
+      "whitepaper": "https://assets.ctfassets.net/vyse88cgwfbl/5UWgHMvz071t2Cq5yTw5vi/c9798ea8db99311bf90ebe0810938b01/TetherWhitePaper.pdf",
+      "channels": {
+        "site": "https://tether.to/",
+        "telegram": "https://t.me/OfficialTether",
+        "twitter": "https://twitter.com/tether_to",
+        "facebook": "https://www.facebook.com/tether.to"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/tether/",
+          "ko": "https://coinmarketcap.com/ko/currencies/tether/"
+        }
+      }
+    },
+    {
+      "name": "mUSDT",
+      "display_name": "Tether USD",
+      "display_fullname": "Multichain Bridge Tether USD",
+      "symbol": "mUSDT",
+      "decimal": 6,
+      "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+      "required": false,
+      "listing": false,
+      "icon": "https://walletapi.wemix.com/app/images/logo_mUSDT.png",
+      "description": {
+        "en": "Tether(USDT) is a fiat-collateralized cryptocurrency stablecoin pegged to the US dollar at a 1:1 ratio; issued by iFinex, a Hong-Kong based company that owns BitFinex crypto exchange. Tether was launched in 2014 as Realcoin, and it was the first stablecoin introduced in the market. Originally, it was issued on the Bitcoin blockchain via Omni Layer protocol and it currently supports Bitcoin, Ethereum, TRON, EOS, Algorand, Solana and OMG Network. As of January 2023, it has a market cap of $66B.",
+        "ko": "테더(Tether, USDT)는 미국 달러에 1:1 비율로 고정된 법정 담보 암호화폐 스테이블 코인으로, 비트파이넥스 암호화폐 거래소를 소유한 홍콩 소재 기업 아이파이넥스가 발행했습니다. 테더는 2014년 리얼코인으로 출시됐으며, 시장에 처음으로 선보인 스테이블코인입니다. 원래 옴니레이어 프로토콜을 통해 비트코인 블록체인에서 발행되었으며 현재 비트코인, 이더리움, TRON, EOS, 알고리즘, 솔라나, OMG 네트워크를 지원합니다."
+      },
+      "whitepaper": "https://assets.ctfassets.net/vyse88cgwfbl/5UWgHMvz071t2Cq5yTw5vi/c9798ea8db99311bf90ebe0810938b01/TetherWhitePaper.pdf",
+      "channels": {
+        "site": "https://tether.to/",
+        "telegram": "https://t.me/OfficialTether",
+        "twitter": "https://twitter.com/tether_to",
+        "facebook": "https://www.facebook.com/tether.to"
+      },
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/tether/",
+          "ko": "https://coinmarketcap.com/ko/currencies/tether/"
+        }
+      }
+    },
+    {
       "name": "mWBTC",
       "display_name": "Wrapped BTC",
       "display_fullname": "Multichain Bridge Wrapped BTC",
