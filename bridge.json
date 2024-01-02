@@ -3,26 +3,26 @@
     "WEMIX": {
       "networks": {
         "Polygon": {
-          "bridges": ["Orbit chain"]
+          "bridges": []
         },
         "Play Chain": {
           "bridges": ["WEMIX PLAY"]
         },
         "Klaytn": {
-          "bridges": ["WEMIX PLAY", "Orbit chain"]
+          "bridges": []
         },
         "TON": {
-          "bridges": ["Orbit chain"]
+          "bridges": []
         }
       }
     },
     "WEMIX$": {
       "networks": {
         "BNB Chain": {
-          "bridges": ["Orbit chain"]
+          "bridges": []
         },
         "TON": {
-          "bridges": ["Orbit chain"]
+          "bridges": []
         },
         "Play Chain": {
           "bridges": ["WEMIX PLAY"]
@@ -32,16 +32,16 @@
     "oUSDC": {
       "networks": {
         "Ethereum": {
-          "bridges": ["Orbit chain"]
+          "bridges": []
         },
         "TON": {
-          "bridges": ["Orbit chain"]
+          "bridges": []
         },
         "Polygon": {
-          "bridges": ["Orbit chain"]
+          "bridges": []
         },
         "Klaytn": {
-          "bridges": ["Orbit chain"]
+          "bridges": []
         }
       }
     },
