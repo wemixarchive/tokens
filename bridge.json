@@ -9,7 +9,7 @@
           "bridges": ["WEMIX PLAY"]
         },
         "Klaytn": {
-          "bridges": ["WEMIX PLAY"]
+          "bridges": []
         },
         "TON": {
           "bridges": []
