@@ -2,48 +2,23 @@
   "tokens": {
     "WEMIX": {
       "networks": {
-        "Polygon": {
-          "bridges": ["Orbit chain"]
-        },
         "Play Chain": {
           "bridges": ["WEMIX PLAY"]
         },
         "Klaytn": {
-          "bridges": ["WEMIX PLAY", "Orbit chain"]
-        },
-        "TON": {
-          "bridges": ["Orbit chain"]
+          "bridges": ["WEMIX PLAY"]
         }
       }
     },
     "WEMIX$": {
       "networks": {
-        "BNB Chain": {
-          "bridges": ["Orbit chain"]
-        },
-        "TON": {
-          "bridges": ["Orbit chain"]
-        },
         "Play Chain": {
           "bridges": ["WEMIX PLAY"]
         }
       }
     },
     "oUSDC": {
-      "networks": {
-        "Ethereum": {
-          "bridges": ["Orbit chain"]
-        },
-        "TON": {
-          "bridges": ["Orbit chain"]
-        },
-        "Polygon": {
-          "bridges": ["Orbit chain"]
-        },
-        "Klaytn": {
-          "bridges": ["Orbit chain"]
-        }
-      }
+      "networks": {}
     },
     "wRFT": {
       "networks": {
