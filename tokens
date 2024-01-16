@@ -1,5 +1,5 @@
 {
-  "updated_at": 1702867124,
+  "updated_at": 1705392636,
   "tokens": [
     {
       "name": "WEMIX",
@@ -187,7 +187,7 @@
       "decimal": 18,
       "address": "0xA40b22C05Dd915BAeb83e4b633C59E37C6071d16",
       "required": false,
-      "listing": true,
+      "listing": false,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wrft.png",
       "description": {
         "en": "Wrapped REFLECT(wRFT) is a synthetic token designed with the purpose of facilitating the inter-game economy within the WEMIX PLAY ecosystem by unifying individual game tokens. wRFT is issued by wrapping the REFLECT token.\nAs the gaming ecosystem of WEMIX PLAY expanded to WEMIX3.0, REFLECT(RFT) is native on WEMIX3.0 and can be exchanged 1:1 at WEMIX.Fi Swap.",
@@ -286,7 +286,7 @@
       "decimal": 18,
       "address": "0xE8C5201f0f4bdde271ACC9F14057CB4fe0DBA616",
       "required": false,
-      "listing": true,
+      "listing": false,
       "icon": "https://wallet.test.wemix.com/app/images/logo_mKLEVA.png",
       "description": {
         "en": "KLEVA Protocol is the first DeFi protocol in Klaytn to specialize in Leveraged Yield Farming. We take advantage of the liquidity layers in Decentralized Exchanges and act as the amplifier for these exchanges. By integrating with farms, we trigger an inflow of liquidity to both exchanges and our protocol, leading to a higher TVL for the entire Ecosystem.\nMoreover, farmers can maximize their yields and lenders can earn passive income by lending their assets to farmers. In short, we accelerate the growth of the entire Ecosystem by taking advantage of current DeFi protocols and opening a gateway to a bigger economy - bringing wider opportunities for all participants.",
