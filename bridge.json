@@ -44,14 +44,6 @@
           "bridges": []
         }
       }
-    },
-    "wRFT": {
-      "networks": {
-        "Play Chain": {
-          "bridges": ["WEMIX PLAY"],
-          "receive_pause": true
-        }
-      }
     }
   },
   "symbol_rename": {
