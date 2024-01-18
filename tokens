@@ -1,5 +1,5 @@
 {
-  "updated_at": 1705464332,
+  "updated_at": 1705554000,
   "tokens": [
     {
       "name": "WEMIX",
@@ -15,10 +15,11 @@
         "en": "WEMIX, native coin of WEMIX mega-ecosystem, is used as a medium of exchange and payment method for gas fees within WEMIX mainnet.\n\nIn WEMIX3.0, one block is created every second, and PMR (Permanent Minting Reward) is distributed respectively to NCP (50%), eco fund (25%) and maintenance (25%).",
         "ko": "위믹스 코인은 위믹스 생태계의 네이티브 코인으로서 위믹스 메인넷의 거래의 수단이자 가스비의 지불 수단으로 쓰입니다.\n\n위믹스3.0에서는 1초에 1개의 블록이 생성되며, Permanent Minting Reward(PMR) 프로토콜에 따라 거버넌스 파트너(50%), 에코펀드(25%), 에코시스템 유지비용(25%)으로 각각 분배되게 됩니다."
       },
-      "whitepaper": "https://docs.wemix.com",
+      "whitepaper": "https://www.wemix.com/assets/download/WEMIX3.0_Whitepaper.pdf",
       "news": "https://medium.com/wemix-communication/tagged/wemix-coin-news",
       "news_rss": "https://medium.com/feed/wemix-communication/tagged/wemix-coin-news",
       "channels": {
+        "gitbook": "https://docs.wemix.com",
         "site": "https://www.wemix.com/",
         "medium": "https://medium.com/wemix-communication/tagged/wemix-coin-news",
         "telegram": "https://t.me/WEMIX_ANNouncement",
@@ -86,8 +87,9 @@
         "en": "stWEMIX is the tokenized form of staked WEMIX, designed to function as a liquidity token that gives users the access to any other liquidity purposes such as trading, yield farming and borrowing. Users receive stWEMIX for every WEMIX staked in 'Liquid Staking', and the staked WEMIX is deposited to the Grand Staking Contract to earn accrued staking rewards. Users can instantly trade stWEMIX with different cryptocurrencies in the market or unstake the assets when 'Phase 2' of the WEMIX Governance is implemented.",
         "ko": "스테이크 위믹스(stWEMIX) 토큰은 WEMIX.Fi의 네이티브 토큰으로서, 스테이킹 프로그램에 예치된 자산의 증명과 유동화가 가능하며 스왑, 풀, 대출 서비스의 거래 수단으로 사용됩니다. 리퀴드 스테이킹 프로그램에 WEMIX를 예치하면 상응하는 stWEMIX를 받게 되며, 예치된 자산은 '그랜드 스테이킹 컨트랙트'에 저장되어 스테이킹 리워드를 얻습니다. stWEMIX는 시장에서 다른 코인과 거래가 가능하며 출금은 위믹스 거버넌스 Phase 2 활성화 시 가능합니다."
       },
-      "whitepaper": "https://docs.wemix.com/v/wemixfi-ko/services/stwemix",
+      "whitepaper": "https://docs.wemix.com/v/wemixfi-en/services/stwemix",
       "channels": {
+        "gitbook": "https://docs.wemix.com/v/wemixfi-en/services/staking/liquid-staking",
         "medium": "https://medium.com/wemix-communication",
         "telegram": "https://t.me/WEMIX_ANNouncement",
         "twitter": "https://twitter.com/WemixNetwork",
@@ -165,7 +167,7 @@
         "en": "REFLECT is a synthetic token designed with the clear purpose of unifying individual game tokens to facilitate an inter-game economy within the WEMIX PLAY gaming ecosystem.\nREFLECT functions as a catalyst that influences the trade volume for all REFLECT Alliance game tokens by implementing a unique REFLECT minting procedure which requires an equivalent number of game tokens to be deposited into the Fusion Center, a process also known as Fusion.\nIn addition, REFLECT is a new form of game token Airdrop, where holders of REFLECT automatically become eligible to claim brand new tokens of games that onboard WEMIX PLAY in the future.\nREFLECT fuses elements of Gaming and Finance to create a brand new GameFi utility token devised to impact the macroeconomy of the gaming ecosystem by merging the microeconomy of individual games on WEMIX PLAY.\nREFLECT will become the foundation in the evolution of tokenomics for future games by demonstrating the importance of interconnected game economy and its influence towards collective growth.",
         "ko": "REFLECT(REFLECT)는 위믹스플레이 생태계 내 인터게임 이코노미 활성화를 위해 개별 게임 토큰의 통합을 목적으로 설계된 합성 토큰입니다.\nREFLECT는 Fusion이라는 프로세스를 통해 Fusion Center에 각 게임에 대한 동일한 수의 게임 토큰이 예치되어야 하는 고유한 민팅 절차를 구현함으로써 REFLECT Alliance 게임 토큰의 거래를 촉진시킵니다.\nREFLECT는 위믹스 플레이에 온보딩하는 새로운 게임의 토큰을 홀더들이 자동적으로 얻을 수 있는 자격을 부여하는 형태의 게임 토큰 에어드롭인 동시에 게임과 경제적 요소의 융합을 통해 위믹스플레이 내 게임들의 경제를 통합하여 게이밍 생태계 전반에 영향을 미칠 수 있도록 고안된 새로운 GameFi 유틸리티 토큰입니다."
       },
-      "whitepaper": "https://wemixplay.com/reflect/about",
+      "whitepaper": "https://wemixplay.com/en/gamefi/reflect/playbook",
       "channels": {
         "site": "https://wemixplay.com/reflect/fusion",
         "medium": "https://medium.com/wemix-play",
@@ -263,8 +265,9 @@
         "en": "$FORCE is the utility token of SNKRZ, a blockchain social fitness platform and the first Move-to-Earn service in Korea, where users can earn tokens by walking or running with their own shoe NFTs. User workouts are converted to Workout Points, and users who contribute more to the SNKRZ platform receive more $FORCE tokens. The tokens can be used to level up SNKRZ shoes or purchase various items. Enjoy your preferred workouts such as running, cycling, hiking, and more on the SNKRZ platform. However, it should be noted that it is not only the first Move-to-Earn service in Korea, but rather a blockchain Move-to-Earn service.",
         "ko": "$FORCE는 국내 최초의 무브 투 언 서비스로 나만의 SNKRZ 를 신고 걷거나 달릴 때 토큰을 얻을 수 있는 블록체인 소셜 피트니스 플랫폼의 유틸리티 토큰입니다. 유저의 운동(workout)은 Workout Point로 환산되어 스니커즈 플랫폼에 높은 기여도를 가질 수록 더 많은 $FORCE를 분배 받습니다. 분배 받은 $FORCE는 스니커즈 신발의 레벨 업, 아이템 구매 등 다양한곳에 필요합니다. 스니커즈 랜드 위에서 러닝, 사이클링, 하이킹 등 내가 원하는 운동을 즐겨보세요."
       },
-      "whitepaper": "https://thesnkrz.gitbook.io/en",
+      "whitepaper": "https://thesnkrz.gitbook.io/en/tokenomics/usdforce",
       "channels": {
+        "gitbook" : "https://thesnkrz.gitbook.io",
         "site": "https://www.thesnkrz.com",
         "medium": "https://medium.com/@thesnkrz",
         "twitter": "https://twitter.com/theSNKRZ",
@@ -288,6 +291,7 @@
       },
       "whitepaper": "https://docs.kurrency.io/",
       "channels": {
+        "gitbook": "https://docs.kurrency.io/v/wcd.en/introduction/intro",
         "site": "https://kurrency.io",
         "medium": "https://medium.com/@Kurrency",
         "twitter": "https://twitter.com/KurrencyFinance",
@@ -332,8 +336,9 @@
         "en": "KLEVA Protocol is the first DeFi protocol in Klaytn to specialize in Leveraged Yield Farming. We take advantage of the liquidity layers in Decentralized Exchanges and act as the amplifier for these exchanges. By integrating with farms, we trigger an inflow of liquidity to both exchanges and our protocol, leading to a higher TVL for the entire Ecosystem.\nMoreover, farmers can maximize their yields and lenders can earn passive income by lending their assets to farmers. In short, we accelerate the growth of the entire Ecosystem by taking advantage of current DeFi protocols and opening a gateway to a bigger economy - bringing wider opportunities for all participants.",
         "ko": "KLEVA는 레버리지 투자를 핵심 서비스로 제공하는 디파이 (DeFi) 프로토콜입니다. 레버리지 투자자들은 KLEVA에 예치된 자산을 대여하여 확대된 규모로 투자를 진행하고 이자를 지불합니다. 투자자와 예치자가 서로의 수익에 도움을 주고받는 선순환 구조의 구축과 확장을 통해 이용자의 수익을 극대화하는 것이 프로토콜의 목표입니다.\nKLEVA는 Klaytn 디파이 생태계에서 레버리지 이자 농사를 위한 가장 경쟁력 있는 예치 프로토콜이 되는 것을 목표로 합니다. 현재 Ethereum, Binance Smart Chain, 및 Solana와 같은 Layer-1 블록체인들과 비교할 때 Klaytn의 디파이 생태계는 더 큰 성장이 필요하며 성장의 결과는 Klaytn 네트워크의 이용자들 프로토콜들에 유의미한 도움이 된다고 생각합니다. KLEVA은 레버리지 투자 서비스로서 네트워크 내 DEX의 페어 예치 풀을 활용하며 동시에 대상 풀의 유동성 증가에도 기여할 수 있습니다. 또한 레버리지 투자가 부담스러운 이용자에게는 예치/스테이킹을 통해 안정적으로 그리고 대여가 활성화됨에 따라 더 큰 수익을 확보할 수 있는 기회를 제공하는 예치 프로토콜이기도 합니다. 이와 같이 네트워크 내 DeFi 서비스들과 다양한 성향의 이용자들에게 투자 기회를 제공하여 KLEVA만이 아닌 생태계 전체의 성장을 견인하겠다는 비전을 품고 이를 달성해 나가려 합니다."
       },
-      "whitepaper": "https://docs.kleva.io/",
+      "whitepaper": "https://docs.kleva.io/v/copy-of-english/tokenomics/kleva-token",
       "channels": {
+        "gitbook": "https://docs.kleva.io/v/copy-of-english/",
         "site": "https://kleva.io/",
         "medium": "https://medium.com/@KLEVA_Protocol_official",
         "telegram": "https://t.me/klevaprotocol_official",
