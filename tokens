@@ -262,6 +262,7 @@
       "address": "0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE0",
       "required": false,
       "listing": true,
+      "view_type": "nosend",
       "icon": "https://wallet.test.wemix.com/app/images/icon_frc.png",
       "description": {
         "en": "$FORCE is the utility token of SNKRZ, a blockchain social fitness platform and the first Move-to-Earn service in Korea, where users can earn tokens by walking or running with their own shoe NFTs. User workouts are converted to Workout Points, and users who contribute more to the SNKRZ platform receive more $FORCE tokens. The tokens can be used to level up SNKRZ shoes or purchase various items. Enjoy your preferred workouts such as running, cycling, hiking, and more on the SNKRZ platform. However, it should be noted that it is not only the first Move-to-Earn service in Korea, but rather a blockchain Move-to-Earn service.",
