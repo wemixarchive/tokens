@@ -1,5 +1,5 @@
 {
-  "updated_at": 1705392640,
+  "updated_at": 1707885284,
   "tokens": [
     {
       "name": "WEMIX",
@@ -98,33 +98,119 @@
       }
     },
     {
-      "name": "oUSDC",
-      "display_name": "USD Coin",
-      "display_fullname": "Orbit Bridge USD Coin",
-      "bridge": "orbitchain",
-      "symbol": "oUSDC",
-      "decimal": 6,
-      "address": "0x3eFc2e351b64912168F15074a1e444E3272d64be",
+      "name": "WCD",
+      "display_name": "WEMIX Crypto Dollar",
+      "display_fullname": "WEMIX Crypto Dollar",
+      "symbol": "WCD",
+      "decimal": 18,
+      "address": "0x155Ae12Ff5331ac651FCA0711a9246e7F1A46Dc3",
       "required": false,
       "listing": true,
-      "icon": "https://wallet.test.wemix.com/app/images/logo_oUSDC.png",
+      "icon": "https://wallet.test.wemix.com/app/images/icon_wcd.png",
       "description": {
-        "en": "Launched in 2018 by Circle, USDC is a stablecoin with its value pegged to the US dollar at the ratio of 1:1, and the price peg between USDC and USD is maintained by Circle's reserve which consists of cash and short-dated treasuries.\nAs Circle's financial statements are audited by the Securities and Exchange Commission, Circle/USDC abides by and is strictly under the financial regulations of the United States government.",
-        "ko": "USDC는 2018년 Circle이 출시한 스테이블코인으로, 코인의 가치가 미국 달러와 1:1 비율로 연동되어 있으며, USDC와 미국 달러의 가치연동은 Circle이 보유한 현금과 단기 미국 국채를 포함하는 준비금에 의해 유지됩니다.\nCircle의 재무재표는 미국 증권의원회의 감사를 받는 등 USDC는 미국 금융법을 준수하며 운영되고 있습니다."
+        "en": "Kurrency is a service where users can mint, deposit and swap WEMIX Crypto Dollar. Collateral-Backed Crypto Dollar, WCD is a cryptocurrency that minimizes price fluctuations and is designed to be used as US Dollar.",
+        "ko": "Kurrency는 크립토 담보 방식으로 WCD(WEMIX Crypto Dollar)를 발행하고 예치 및 교환할 수 있는 서비스입니다. 암호화폐를 담보로 발행되는 크립토달러, WCD는 가격 변동을 최소화한 암호화폐이며, 달러와 같은 역할을 하는 것을 목표로 합니다."
       },
-      "whitepaper": "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf",
       "channels": {
-        "site": "https://www.circle.com/en/usdc",
-        "twitter": "https://twitter.com/circle",
-        "youtube" : "https://www.youtube.com/c/Circlecryptofinance",
-        "discord": "https://discord.com/invite/buildoncircle"
-      },
-      "market_info": {
-        "cmc": {
-          "en": "https://coinmarketcap.com/currencies/usd-coin/",
-          "ko": "https://coinmarketcap.com/ko/currencies/usd-coin/"
-        }
+        "gitbook": "https://docs.kurrency.io/v/wcd.en/introduction/intro",
+        "site": "https://kurrency.io",
+        "medium": "https://medium.com/@Kurrency",
+        "twitter": "https://twitter.com/KurrencyFinance",
+        "discord": "https://discord.com/invite/kurrency"
       }
+    },
+    {
+      "name": "REFLECT",
+      "display_name": "REFLECT",
+      "display_fullname": "REFLECT",
+      "symbol": "REFLECT",
+      "decimal": 18,
+      "address": "0xd3e77E0Ef0CCe092F659a66e82dFfe72aA44Db90",
+      "required": false,
+      "listing": true,
+      "icon": "https://wallet.test.wemix.com/app/images/icon_rft.png",
+      "description": {
+        "en": "REFLECT is a synthetic token designed with the clear purpose of unifying individual game tokens to facilitate an inter-game economy within the WEMIX PLAY gaming ecosystem.\nREFLECT functions as a catalyst that influences the trade volume for all REFLECT Alliance game tokens by implementing a unique REFLECT minting procedure which requires an equivalent number of game tokens to be deposited into the Fusion Center, a process also known as Fusion.\nIn addition, REFLECT is a new form of game token Airdrop, where holders of REFLECT automatically become eligible to claim brand new tokens of games that onboard WEMIX PLAY in the future.\nREFLECT fuses elements of Gaming and Finance to create a brand new GameFi utility token devised to impact the macroeconomy of the gaming ecosystem by merging the microeconomy of individual games on WEMIX PLAY.\nREFLECT will become the foundation in the evolution of tokenomics for future games by demonstrating the importance of interconnected game economy and its influence towards collective growth.",
+        "ko": "REFLECT(REFLECT)는 위믹스플레이 생태계 내 인터게임 이코노미 활성화를 위해 개별 게임 토큰의 통합을 목적으로 설계된 합성 토큰입니다.\nREFLECT는 Fusion이라는 프로세스를 통해 Fusion Center에 각 게임에 대한 동일한 수의 게임 토큰이 예치되어야 하는 고유한 민팅 절차를 구현함으로써 REFLECT Alliance 게임 토큰의 거래를 촉진시킵니다.\nREFLECT는 위믹스 플레이에 온보딩하는 새로운 게임의 토큰을 홀더들이 자동적으로 얻을 수 있는 자격을 부여하는 형태의 게임 토큰 에어드롭인 동시에 게임과 경제적 요소의 융합을 통해 위믹스플레이 내 게임들의 경제를 통합하여 게이밍 생태계 전반에 영향을 미칠 수 있도록 고안된 새로운 GameFi 유틸리티 토큰입니다."
+      },
+      "whitepaper": "https://wemixplay.com/en/gamefi/reflect/playbook",
+      "channels": {
+        "site": "https://wemixplay.com/reflect/fusion",
+        "medium": "https://medium.com/wemix-play",
+        "telegram": "https://t.me/WEMIX_ANNouncement",
+        "twitter": "https://twitter.com/WemixNetwork",
+        "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
+        "facebook": "https://www.facebook.com/WEMIXBlockchain/"
+      }
+    },
+    {
+      "name": "FRC",
+      "display_name": "FORCE",
+      "display_fullname": "FORCE",
+      "symbol": "FRC",
+      "decimal": 18,
+      "address": "0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE0",
+      "required": false,
+      "listing": true,
+      "view_type": "nosend",
+      "icon": "https://wallet.test.wemix.com/app/images/icon_frc.png",
+      "description": {
+        "en": "$FORCE is the utility token of SNKRZ, a blockchain social fitness platform and the first Move-to-Earn service in Korea, where users can earn tokens by walking or running with their own shoe NFTs. User workouts are converted to Workout Points, and users who contribute more to the SNKRZ platform receive more $FORCE tokens. The tokens can be used to level up SNKRZ shoes or purchase various items. Enjoy your preferred workouts such as running, cycling, hiking, and more on the SNKRZ platform. However, it should be noted that it is not only the first Move-to-Earn service in Korea, but rather a blockchain Move-to-Earn service.",
+        "ko": "$FORCE는 국내 최초의 무브 투 언 서비스로 나만의 SNKRZ 를 신고 걷거나 달릴 때 토큰을 얻을 수 있는 블록체인 소셜 피트니스 플랫폼의 유틸리티 토큰입니다. 유저의 운동(workout)은 Workout Point로 환산되어 스니커즈 플랫폼에 높은 기여도를 가질 수록 더 많은 $FORCE를 분배 받습니다. 분배 받은 $FORCE는 스니커즈 신발의 레벨 업, 아이템 구매 등 다양한곳에 필요합니다. 스니커즈 랜드 위에서 러닝, 사이클링, 하이킹 등 내가 원하는 운동을 즐겨보세요."
+      },
+      "whitepaper": "https://thesnkrz.gitbook.io/en/tokenomics/usdforce",
+      "channels": {
+        "gitbook" : "https://thesnkrz.gitbook.io",
+        "site": "https://www.thesnkrz.com",
+        "medium": "https://medium.com/@thesnkrz",
+        "twitter": "https://twitter.com/theSNKRZ",
+        "youtube": "https://www.youtube.com/@thesnkrz",
+        "discord": "https://discord.com/invite/thesnkrz"
+      }
+    },
+    {
+      "name": "WDR",
+      "display_name": "WONDER",
+      "display_fullname": "WONDER",
+      "symbol": "WDR",
+      "decimal": 18,
+      "address": "0x34c53CdA2f1bdFc98db669C576C48B20EbA6f140",
+      "required": false,
+      "listing": true,
+      "icon": "https://wallet.test.wemix.com/app/images/icon_wonder.png",
+      "description": {
+        "en": "WONDER is a DAO Token of WONDER DAO, one of the Node Council Partners of WEMIX.\nWONDER Token is a utility token that can be used to issue Governance tokens, g.WONDER.",
+        "ko": "WONDER는 위믹스 생태계를 유지하는 노드 카운슬 파트너 중 하나인 WONDER DAO의 다오토큰입니다.\nWONDER 보유자는 DAO의 일원임을 증명하며, WONDER를 스테이킹해 거버넌스토큰 g.WONDER를 획득할 수 있습니다."
+      },
+      "whitepaper": "https://wonder-dao.gitbook.io/whitepaper-en/",
+      "channels": {
+        "site": "https://www.nile.io/dao/wonder/home",
+        "medium": "https://medium.com/nile-official",
+        "twitter": "https://twitter.com/NILE_WM",
+        "discord": "https://discord.gg/78wzkvrsbj"
+      }
+    },
+    {
+      "name": "dWEMIX",
+      "display_name": "DELTAFi Delta WEMIX",
+      "display_fullname": "DELTAFi Delta WEMIX",
+      "symbol": "dWEMIX",
+      "decimal": 18,
+      "address": "0xe7E6B6f681283e2DEb3b6293e45754986aBC7CCd",
+      "required": false,
+      "listing": true,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_dWEMIX.png",
+      "description": {
+        "en": "dWEMIX is the first dETP launched by DELTAFi on the WEMIX3.0 blockchain. It operates on a Leveraged Staking strategy using WEMIX.Fi Lend & Borrow and Liquid Staking to establish a leveraged position of stWEMIX. The Vault is expected to earn 1.5x more than the average WEMIX staker by maintaining this position. Wonder Staking is the main source of yield, but profitability depends on keeping borrowing costs lower than the yield earned from Wonder Staking, which can vary based on market conditions.",
+        "ko": "dWEMIX는 델타파이에서 WEMIX3.0 블록체인 기반으로 출시한 최초의 dETP입니다. dWEMIX 볼트는 위믹스파이 렌딩마켓과 리퀴드 스테이킹을 활용하여 레버리지된 stWEMIX 포지션을 구축하는 레버리지 스테이킹 단일 전략으로 운용됩니다. 레버리지 stWEMIX 포지션을 구축하는 dWEMIX는 일반 원더 스테이킹 참여자보다 약 1.5배에 더 많은 수익을 기대할 수 있습니다. dWEMIX 볼트의 주요 수익원은 원더 스테이킹으로부터 발생합니다. 볼트의 수익성은 대출 비용(대출 받은 위믹스의 이자)이 원더 스테이킹 리워드보다 낮은 것에 의존하며, 이는 시장 상황에 따라 달라질 수 있습니다."
+      },
+      "whitepaper": "https://deltafi.gitbook.io/deltafi-docs/en/products/dwemix",
+      "channels": {
+        "site": "https://deltafi.xyz",
+        "medium": "https://medium.com/@deltafixyz",
+        "telegram": "https://t.me/deltafiofficial",
+        "twitter": "https://twitter.com/deltafixyz"
+      },
     },
     {
       "name": "mUSDC",
@@ -156,72 +242,32 @@
       }
     },
     {
-      "name": "REFLECT",
-      "display_name": "REFLECT",
-      "display_fullname": "REFLECT",
-      "symbol": "REFLECT",
-      "decimal": 18,
-      "address": "0xd3e77E0Ef0CCe092F659a66e82dFfe72aA44Db90",
+      "name": "oUSDC",
+      "display_name": "USD Coin",
+      "display_fullname": "Orbit Bridge USD Coin",
+      "bridge": "orbitchain",
+      "symbol": "oUSDC",
+      "decimal": 6,
+      "address": "0x3eFc2e351b64912168F15074a1e444E3272d64be",
       "required": false,
       "listing": true,
-      "icon": "https://wallet.test.wemix.com/app/images/icon_rft.png",
+      "icon": "https://wallet.test.wemix.com/app/images/logo_oUSDC.png",
       "description": {
-        "en": "REFLECT is a synthetic token designed with the clear purpose of unifying individual game tokens to facilitate an inter-game economy within the WEMIX PLAY gaming ecosystem.\nREFLECT functions as a catalyst that influences the trade volume for all REFLECT Alliance game tokens by implementing a unique REFLECT minting procedure which requires an equivalent number of game tokens to be deposited into the Fusion Center, a process also known as Fusion.\nIn addition, REFLECT is a new form of game token Airdrop, where holders of REFLECT automatically become eligible to claim brand new tokens of games that onboard WEMIX PLAY in the future.\nREFLECT fuses elements of Gaming and Finance to create a brand new GameFi utility token devised to impact the macroeconomy of the gaming ecosystem by merging the microeconomy of individual games on WEMIX PLAY.\nREFLECT will become the foundation in the evolution of tokenomics for future games by demonstrating the importance of interconnected game economy and its influence towards collective growth.",
-        "ko": "REFLECT(REFLECT)는 위믹스플레이 생태계 내 인터게임 이코노미 활성화를 위해 개별 게임 토큰의 통합을 목적으로 설계된 합성 토큰입니다.\nREFLECT는 Fusion이라는 프로세스를 통해 Fusion Center에 각 게임에 대한 동일한 수의 게임 토큰이 예치되어야 하는 고유한 민팅 절차를 구현함으로써 REFLECT Alliance 게임 토큰의 거래를 촉진시킵니다.\nREFLECT는 위믹스 플레이에 온보딩하는 새로운 게임의 토큰을 홀더들이 자동적으로 얻을 수 있는 자격을 부여하는 형태의 게임 토큰 에어드롭인 동시에 게임과 경제적 요소의 융합을 통해 위믹스플레이 내 게임들의 경제를 통합하여 게이밍 생태계 전반에 영향을 미칠 수 있도록 고안된 새로운 GameFi 유틸리티 토큰입니다."
+        "en": "Launched in 2018 by Circle, USDC is a stablecoin with its value pegged to the US dollar at the ratio of 1:1, and the price peg between USDC and USD is maintained by Circle's reserve which consists of cash and short-dated treasuries.\nAs Circle's financial statements are audited by the Securities and Exchange Commission, Circle/USDC abides by and is strictly under the financial regulations of the United States government.",
+        "ko": "USDC는 2018년 Circle이 출시한 스테이블코인으로, 코인의 가치가 미국 달러와 1:1 비율로 연동되어 있으며, USDC와 미국 달러의 가치연동은 Circle이 보유한 현금과 단기 미국 국채를 포함하는 준비금에 의해 유지됩니다.\nCircle의 재무재표는 미국 증권의원회의 감사를 받는 등 USDC는 미국 금융법을 준수하며 운영되고 있습니다."
       },
-      "whitepaper": "https://wemixplay.com/en/gamefi/reflect/playbook",
+      "whitepaper": "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf",
       "channels": {
-        "site": "https://wemixplay.com/reflect/fusion",
-        "medium": "https://medium.com/wemix-play",
-        "telegram": "https://t.me/WEMIX_ANNouncement",
-        "twitter": "https://twitter.com/WemixNetwork",
-        "youtube" : "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA",
-        "facebook": "https://www.facebook.com/WEMIXBlockchain/"
-      }
-    },
-    {
-      "name": "WDR",
-      "display_name": "WONDER",
-      "display_fullname": "WONDER",
-      "symbol": "WDR",
-      "decimal": 18,
-      "address": "0x34c53CdA2f1bdFc98db669C576C48B20EbA6f140",
-      "required": false,
-      "listing": true,
-      "icon": "https://wallet.test.wemix.com/app/images/icon_wonder.png",
-      "description": {
-        "en": "WONDER is a DAO Token of WONDER DAO, one of the Node Council Partners of WEMIX.\nWONDER Token is a utility token that can be used to issue Governance tokens, g.WONDER.",
-        "ko": "WONDER는 위믹스 생태계를 유지하는 노드 카운슬 파트너 중 하나인 WONDER DAO의 다오토큰입니다.\nWONDER 보유자는 DAO의 일원임을 증명하며, WONDER를 스테이킹해 거버넌스토큰 g.WONDER를 획득할 수 있습니다."
+        "site": "https://www.circle.com/en/usdc",
+        "twitter": "https://twitter.com/circle",
+        "youtube" : "https://www.youtube.com/c/Circlecryptofinance",
+        "discord": "https://discord.com/invite/buildoncircle"
       },
-      "whitepaper": "https://wonder-dao.gitbook.io/whitepaper-en/",
-      "channels": {
-        "site": "https://www.nile.io/dao/wonder/home",
-        "medium": "https://medium.com/nile-official",
-        "twitter": "https://twitter.com/NILE_WM",
-        "discord": "https://discord.gg/78wzkvrsbj"
-      }
-    },
-    {
-      "name": "g.WDR",
-      "display_name": "g.WONDER",
-      "display_fullname": "g.WONDER",
-      "symbol": "g.WDR",
-      "decimal": 18,
-      "address": "0x52c97655371dAc3c8ba602DcD3B93F71eA0786e6",
-      "required": false,
-      "listing": false,
-      "view_type": "nosend",
-      "icon": "https://wallet.test.wemix.com/app/images/icon_gwonder.png",
-      "description": {
-        "en": "g.WONDER is a Governance Token of WONDER DAO.\ng.WONDER can be used in making governance proposals or voting on proposals for the WONDER DAO Governance.",
-        "ko": "g.WONDER는 WONDER DAO의 거버넌스토큰입니다.\nWONDER DAO 거버넌스 프로그램을 통해 안건을 상정하거나, 투표하는데에 사용할 수 있습니다."
-      },
-      "whitepaper": "https://wonder-dao.gitbook.io/whitepaper-en/",
-      "channels": {
-        "site": "https://www.nile.io/dao/wonder/home",
-        "medium": "https://medium.com/nile-official",
-        "twitter": "https://twitter.com/NILE_WM",
-        "discord": "https://discord.gg/78wzkvrsbj"
+      "market_info": {
+        "cmc": {
+          "en": "https://coinmarketcap.com/currencies/usd-coin/",
+          "ko": "https://coinmarketcap.com/ko/currencies/usd-coin/"
+        }
       }
     },
     {
@@ -254,50 +300,26 @@
       }
     },
     {
-      "name": "FRC",
-      "display_name": "FORCE",
-      "display_fullname": "FORCE",
-      "symbol": "FRC",
+      "name": "g.WDR",
+      "display_name": "g.WONDER",
+      "display_fullname": "g.WONDER",
+      "symbol": "g.WDR",
       "decimal": 18,
-      "address": "0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE0",
+      "address": "0x52c97655371dAc3c8ba602DcD3B93F71eA0786e6",
       "required": false,
-      "listing": true,
+      "listing": false,
       "view_type": "nosend",
-      "icon": "https://wallet.test.wemix.com/app/images/icon_frc.png",
+      "icon": "https://wallet.test.wemix.com/app/images/icon_gwonder.png",
       "description": {
-        "en": "$FORCE is the utility token of SNKRZ, a blockchain social fitness platform and the first Move-to-Earn service in Korea, where users can earn tokens by walking or running with their own shoe NFTs. User workouts are converted to Workout Points, and users who contribute more to the SNKRZ platform receive more $FORCE tokens. The tokens can be used to level up SNKRZ shoes or purchase various items. Enjoy your preferred workouts such as running, cycling, hiking, and more on the SNKRZ platform. However, it should be noted that it is not only the first Move-to-Earn service in Korea, but rather a blockchain Move-to-Earn service.",
-        "ko": "$FORCE는 국내 최초의 무브 투 언 서비스로 나만의 SNKRZ 를 신고 걷거나 달릴 때 토큰을 얻을 수 있는 블록체인 소셜 피트니스 플랫폼의 유틸리티 토큰입니다. 유저의 운동(workout)은 Workout Point로 환산되어 스니커즈 플랫폼에 높은 기여도를 가질 수록 더 많은 $FORCE를 분배 받습니다. 분배 받은 $FORCE는 스니커즈 신발의 레벨 업, 아이템 구매 등 다양한곳에 필요합니다. 스니커즈 랜드 위에서 러닝, 사이클링, 하이킹 등 내가 원하는 운동을 즐겨보세요."
+        "en": "g.WONDER is a Governance Token of WONDER DAO.\ng.WONDER can be used in making governance proposals or voting on proposals for the WONDER DAO Governance.",
+        "ko": "g.WONDER는 WONDER DAO의 거버넌스토큰입니다.\nWONDER DAO 거버넌스 프로그램을 통해 안건을 상정하거나, 투표하는데에 사용할 수 있습니다."
       },
-      "whitepaper": "https://thesnkrz.gitbook.io/en/tokenomics/usdforce",
+      "whitepaper": "https://wonder-dao.gitbook.io/whitepaper-en/",
       "channels": {
-        "gitbook" : "https://thesnkrz.gitbook.io",
-        "site": "https://www.thesnkrz.com",
-        "medium": "https://medium.com/@thesnkrz",
-        "twitter": "https://twitter.com/theSNKRZ",
-        "youtube": "https://www.youtube.com/@thesnkrz",
-        "discord": "https://discord.com/invite/thesnkrz"
-      }
-    },
-    {
-      "name": "WCD",
-      "display_name": "WEMIX Crypto Dollar",
-      "display_fullname": "WEMIX Crypto Dollar",
-      "symbol": "WCD",
-      "decimal": 18,
-      "address": "0x155Ae12Ff5331ac651FCA0711a9246e7F1A46Dc3",
-      "required": false,
-      "listing": true,
-      "icon": "https://wallet.test.wemix.com/app/images/icon_wcd.png",
-      "description": {
-        "en": "Kurrency is a service where users can mint, deposit and swap WEMIX Crypto Dollar. Collateral-Backed Crypto Dollar, WCD is a cryptocurrency that minimizes price fluctuations and is designed to be used as US Dollar.",
-        "ko": "Kurrency는 크립토 담보 방식으로 WCD(WEMIX Crypto Dollar)를 발행하고 예치 및 교환할 수 있는 서비스입니다. 암호화폐를 담보로 발행되는 크립토달러, WCD는 가격 변동을 최소화한 암호화폐이며, 달러와 같은 역할을 하는 것을 목표로 합니다."
-      },
-      "channels": {
-        "gitbook": "https://docs.kurrency.io/v/wcd.en/introduction/intro",
-        "site": "https://kurrency.io",
-        "medium": "https://medium.com/@Kurrency",
-        "twitter": "https://twitter.com/KurrencyFinance",
-        "discord": "https://discord.com/invite/kurrency"
+        "site": "https://www.nile.io/dao/wonder/home",
+        "medium": "https://medium.com/nile-official",
+        "twitter": "https://twitter.com/NILE_WM",
+        "discord": "https://discord.gg/78wzkvrsbj"
       }
     },
     {
