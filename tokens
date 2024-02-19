@@ -355,7 +355,7 @@
       "display_fullname": "WONDER",
       "symbol": "WDR",
       "decimal": 18,
-      "address": "0x0d01107f773a0754a3a4125d7b98e2ff707d7289",
+      "address": "0x0D01107F773A0754a3A4125D7B98E2fF707d7289",
       "required": false,
       "listing": true,
       "icon": "https://walletapi.wemix.com/app/images/icon_wonder.png",
