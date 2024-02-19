@@ -185,7 +185,7 @@
       "display_fullname": "WONDER",
       "symbol": "WDR",
       "decimal": 18,
-      "address": "0x34c53CdA2f1bdFc98db669C576C48B20EbA6f140",
+      "address": "0x34c53cda2f1bdfc98db669c576c48b20eba6f140",
       "required": false,
       "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/icon_wonder.png",
