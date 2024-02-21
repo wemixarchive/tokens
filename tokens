@@ -1,5 +1,5 @@
 {
-  "updated_at": 1705554001,
+  "updated_at": 1708495293,
   "tokens": [
     {
       "name": "WEMIX",
@@ -299,6 +299,28 @@
       }
     },
     {
+      "name": "dWEMIX",
+      "display_name": "DELTAFi Delta WEMIX",
+      "display_fullname": "DELTAFi Delta WEMIX",
+      "symbol": "dWEMIX",
+      "decimal": 18,
+      "address": "0x531e6Abe1ad0c8313ad7c8f7ad96b8e70c56164E",
+      "required": false,
+      "listing": true,
+      "icon": "https://wallet.test.wemix.com/app/images/icon_dWEMIX.png",
+      "description": {
+        "en": "dWEMIX is the first dETP launched by DELTAFi on the WEMIX3.0 blockchain. It operates on a Leveraged Staking strategy using WEMIX.Fi Lend & Borrow and Liquid Staking to establish a leveraged position of stWEMIX. The Vault is expected to earn 1.5x more than the average WEMIX staker by maintaining this position. Wonder Staking is the main source of yield, but profitability depends on keeping borrowing costs lower than the yield earned from Wonder Staking, which can vary based on market conditions.",
+        "ko": "dWEMIX는 델타파이에서 WEMIX3.0 블록체인 기반으로 출시한 최초의 dETP입니다. dWEMIX 볼트는 위믹스파이 렌딩마켓과 리퀴드 스테이킹을 활용하여 레버리지된 stWEMIX 포지션을 구축하는 레버리지 스테이킹 단일 전략으로 운용됩니다. 레버리지 stWEMIX 포지션을 구축하는 dWEMIX는 일반 원더 스테이킹 참여자보다 약 1.5배에 더 많은 수익을 기대할 수 있습니다. dWEMIX 볼트의 주요 수익원은 원더 스테이킹으로부터 발생합니다. 볼트의 수익성은 대출 비용(대출 받은 위믹스의 이자)이 원더 스테이킹 리워드보다 낮은 것에 의존하며, 이는 시장 상황에 따라 달라질 수 있습니다."
+      },
+      "whitepaper": "https://deltafi.gitbook.io/deltafi-docs/en/products/dwemix",
+      "channels": {
+        "site": "https://deltafi.xyz",
+        "medium": "https://medium.com/@deltafixyz",
+        "telegram": "https://t.me/deltafiofficial",
+        "twitter": "https://twitter.com/deltafixyz"
+      }
+    },
+    {
       "name": "wRFT",
       "display_name": "Wrapped REFLECT",
       "display_fullname": "Wrapped REFLECT",
@@ -393,34 +415,6 @@
       }
     },
     {
-      "name": "mUSDT",
-      "display_name": "Tether USD",
-      "display_fullname": "Multichain Bridge Tether USD",
-      "symbol": "mUSDT",
-      "decimal": 6,
-      "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
-      "required": false,
-      "listing": false,
-      "icon": "https://walletapi.wemix.com/app/images/logo_mUSDT.png",
-      "description": {
-        "en": "Tether(USDT) is a fiat-collateralized cryptocurrency stablecoin pegged to the US dollar at a 1:1 ratio; issued by iFinex, a Hong-Kong based company that owns BitFinex crypto exchange. Tether was launched in 2014 as Realcoin, and it was the first stablecoin introduced in the market. Originally, it was issued on the Bitcoin blockchain via Omni Layer protocol and it currently supports Bitcoin, Ethereum, TRON, EOS, Algorand, Solana and OMG Network. As of January 2023, it has a market cap of $66B.",
-        "ko": "테더(Tether, USDT)는 미국 달러에 1:1 비율로 고정된 법정 담보 암호화폐 스테이블 코인으로, 비트파이넥스 암호화폐 거래소를 소유한 홍콩 소재 기업 아이파이넥스가 발행했습니다. 테더는 2014년 리얼코인으로 출시됐으며, 시장에 처음으로 선보인 스테이블코인입니다. 원래 옴니레이어 프로토콜을 통해 비트코인 블록체인에서 발행되었으며 현재 비트코인, 이더리움, TRON, EOS, 알고리즘, 솔라나, OMG 네트워크를 지원합니다."
-      },
-      "whitepaper": "https://assets.ctfassets.net/vyse88cgwfbl/5UWgHMvz071t2Cq5yTw5vi/c9798ea8db99311bf90ebe0810938b01/TetherWhitePaper.pdf",
-      "channels": {
-        "site": "https://tether.to/",
-        "telegram": "https://t.me/OfficialTether",
-        "twitter": "https://twitter.com/tether_to",
-        "facebook": "https://www.facebook.com/tether.to"
-      },
-      "market_info": {
-        "cmc": {
-          "en": "https://coinmarketcap.com/currencies/tether/",
-          "ko": "https://coinmarketcap.com/ko/currencies/tether/"
-        }
-      }
-    },
-    {
       "name": "mWBTC",
       "display_name": "Wrapped BTC",
       "display_fullname": "Multichain Bridge Wrapped BTC",
@@ -473,8 +467,6 @@
         }
       }
     },
-
-
     {
       "name": "mBNB",
       "display_name": "Binance",
