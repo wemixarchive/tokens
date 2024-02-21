@@ -307,7 +307,7 @@
       "address": "0x531e6Abe1ad0c8313ad7c8f7ad96b8e70c56164E",
       "required": false,
       "listing": true,
-      "icon": "https://wallet.test.wemix.com/app/images/icon_dWEMIX.png",
+      "icon": "https://walletapi.wemix.com/app/images/icon_dWEMIX.png",
       "description": {
         "en": "dWEMIX is the first dETP launched by DELTAFi on the WEMIX3.0 blockchain. It operates on a Leveraged Staking strategy using WEMIX.Fi Lend & Borrow and Liquid Staking to establish a leveraged position of stWEMIX. The Vault is expected to earn 1.5x more than the average WEMIX staker by maintaining this position. Wonder Staking is the main source of yield, but profitability depends on keeping borrowing costs lower than the yield earned from Wonder Staking, which can vary based on market conditions.",
         "ko": "dWEMIX는 델타파이에서 WEMIX3.0 블록체인 기반으로 출시한 최초의 dETP입니다. dWEMIX 볼트는 위믹스파이 렌딩마켓과 리퀴드 스테이킹을 활용하여 레버리지된 stWEMIX 포지션을 구축하는 레버리지 스테이킹 단일 전략으로 운용됩니다. 레버리지 stWEMIX 포지션을 구축하는 dWEMIX는 일반 원더 스테이킹 참여자보다 약 1.5배에 더 많은 수익을 기대할 수 있습니다. dWEMIX 볼트의 주요 수익원은 원더 스테이킹으로부터 발생합니다. 볼트의 수익성은 대출 비용(대출 받은 위믹스의 이자)이 원더 스테이킹 리워드보다 낮은 것에 의존하며, 이는 시장 상황에 따라 달라질 수 있습니다."
