@@ -1,5 +1,5 @@
 {
-  "updated_at": 1708495293,
+  "updated_at": 1708495294,
   "tokens": [
     {
       "name": "WEMIX",
@@ -394,7 +394,7 @@
       "decimal": 6,
       "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
       "required": false,
-      "listing": true,
+      "listing": false,
       "icon": "https://walletapi.wemix.com/app/images/logo_mUSDT.png",
       "description": {
         "en": "Tether(USDT) is a fiat-collateralized cryptocurrency stablecoin pegged to the US dollar at a 1:1 ratio; issued by iFinex, a Hong-Kong based company that owns BitFinex crypto exchange. Tether was launched in 2014 as Realcoin, and it was the first stablecoin introduced in the market. Originally, it was issued on the Bitcoin blockchain via Omni Layer protocol and it currently supports Bitcoin, Ethereum, TRON, EOS, Algorand, Solana and OMG Network. As of January 2023, it has a market cap of $66B.",
