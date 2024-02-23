@@ -1,5 +1,5 @@
 {
-  "updated_at": 1707885291,
+  "updated_at": 1708677668,
   "tokens": [
     {
       "name": "WEMIX",
@@ -590,6 +590,128 @@
       },
       "channels": {
         "site": "https://www.papyrus.im/communitytoken"
+      }
+    },
+
+
+
+    {
+      "name": "CROW",
+      "display_name": "CROW",
+      "display_fullname": "CROW",
+      "symbol": "CROW",
+      "decimal": 18,
+      "address": "0x3C2a14d0a0aEe8A86F1A7dCF674eB39d2AFaE9c0",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_Crow.png",
+      "description": {
+        "en": "CROW",
+        "ko": "CROW"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "MORION",
+      "display_name": "MORION",
+      "display_fullname": "MORION",
+      "symbol": "MORION",
+      "decimal": 18,
+      "address": "0x1217bC36fd241B346f9618162E35EF77ac85109F",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_Morion.png",
+      "description": {
+        "en": "MORION",
+        "ko": "MORION"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "GEAR",
+      "display_name": "GEAR",
+      "display_fullname": "GEAR",
+      "symbol": "GEAR",
+      "decimal": 18,
+      "address": "0xc335d09E2a5581f6F0A79bD0D3A5e7aa68abF943",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_Gear.png",
+      "description": {
+        "en": "GEAR",
+        "ko": "GEAR"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "PROMOTE",
+      "display_name": "PROMOTE",
+      "display_fullname": "PROMOTE",
+      "symbol": "PROMOTE",
+      "decimal": 18,
+      "address": "0x3A9083fFC4206db00B32eD057Bce0C6bde33144d",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_Remote.png",
+      "description": {
+        "en": "PROMOTE",
+        "ko": "PROMOTE"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "TEAR",
+      "display_name": "TEAR",
+      "display_fullname": "TEAR",
+      "symbol": "TEAR",
+      "decimal": 18,
+      "address": "0x64Fa697DE05e28B66bd3eD9e260AC0A6f105376d",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_Tear.png",
+      "description": {
+        "en": "TEAR",
+        "ko": "TEAR"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "FEATHER",
+      "display_name": "FEATHER",
+      "display_fullname": "FEATHER",
+      "symbol": "FEATHER",
+      "decimal": 18,
+      "address": "0xf19763dCe3069E54f99E54923b5F81D6171DC6A6",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_Feather.png",
+      "description": {
+        "en": "FEATHER",
+        "ko": "FEATHER"
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "PAPYRUS",
+      "display_name": "PAPYRUS",
+      "display_fullname": "PAPYRUS",
+      "symbol": "PAPYRUS",
+      "decimal": 18,
+      "address": "0x67aC974569B1Bb6d274dAcDF623c8b1a6948ebE4",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_Papyrus.png",
+      "description": {
+        "en": "PAPYRUS",
+        "ko": "PAPYRUS"
+      },
+      "channels": {
       }
     }
   ]
