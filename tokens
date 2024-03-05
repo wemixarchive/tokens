@@ -1,5 +1,5 @@
 {
-  "updated_at": 1708677690,
+  "updated_at": 1709633091,
   "tokens": [
     {
       "name": "WEMIX",
@@ -333,10 +333,14 @@
       "listing": false,
       "icon": "https://wallet.test.wemix.com/app/images/logo_Crow.png",
       "description": {
-        "en": "CROW",
-        "ko": "CROW"
+        "en": "$CROW, the key token in the tokenomics of NIGHT CROWS, is the tokenized version of the in-game currency ‘vDIA’ that are obtained through trading from the in-game Exchange and as rewards for carrying out requests. $CROW is used to trade 6 tokens of NIGHT CROW’s tokenomics. The minting of the token is ceased once the price of $CROW drops below $0.75 on WEMIX PLAY GameFi.",
+        "ko": "$CROW는 나이트 크로우 토크노믹스의 기축 토큰으로써 게임 내 거래소에서 거래 결과 또는 의뢰의 수행 보상으로 얻은 ‘vDIA’를 민팅을 통해 토큰화 한 것 입니다. 나이트 크로우의 토크노믹스를 구성하는 6종 토큰의 거래 수단으로 사용됩니다. 위믹스 플레이의 Gamefi 내 시세가 $0.75 미만이 되면 일시적으로 민팅이 중단되며, 시세가 안정화 범위로 복구되면 민팅이 재개됩니다."
       },
+      "whitepaper": "https://nightcrows.com/en/token/playbook",
       "channels": {
+        "site": "https://nightcrows.com",
+        "facebook": "https://www.facebook.com/NightCrowsGlobal",
+        "discord": "https://discord.gg/nightcrowsglobal"
       }
     },
     {
