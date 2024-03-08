@@ -1,5 +1,5 @@
 {
-  "updated_at": 1709873685,
+  "updated_at": 1709873686,
   "tokens": [
     {
       "name": "WEMIX",
@@ -475,7 +475,7 @@
       "display_fullname": "WOT",
       "symbol": "WOT",
       "decimal": 18,
-      "address": "0xF0D951041996F365eb863441DDe8D240331635A1",
+      "address": "0x4BAB44498b746d9D34249B5a7Ece8732fb8dA5ef",
       "required": false,
       "listing": false,
       "icon": "https://wallet.test.wemix.com/app/images/logo_WOT.png",
