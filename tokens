@@ -1,5 +1,5 @@
 {
-  "updated_at": 1709873686,
+  "updated_at": 1709873687,
   "tokens": [
     {
       "name": "WEMIX",
@@ -485,7 +485,6 @@
       },
       "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/wot/index.html",
       "channels": {
-        "site": "https://oilwar.surfguild.io",
         "twitter": "https://twitter.com/oilwar_sg",
         "facebook": "https://www.facebook.com/oilwarsg",
         "discord": "https://discord.com/invite/jDttdsR9TW"
@@ -508,7 +507,6 @@
       "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/gator/index.html",
       "channels": {
         "site": "https://gatorzeroverse.com/pc/index.html",
-        "twitter": "https://twitter.com/GATOR_Zeroverse",
         "discord": "https://discord.com/invite/4RGVPXZtFk"
       }
     },
@@ -611,7 +609,7 @@
       "name": "NCC",
       "display_name": "NCC",
       "display_fullname": "NCC",
-      "symbol": "SOL",
+      "symbol": "NCC",
       "decimal": 18,
       "address": "0x7cd1e13fE6b076Adcc5d6eb77eF6aF3414Ef22Ff",
       "required": false,
