@@ -1,5 +1,5 @@
 {
-  "updated_at": 1709778803,
+  "updated_at": 1709873684,
   "tokens": [
     {
       "name": "WEMIX",
@@ -467,6 +467,308 @@
         "site": "https://nightcrows.com",
         "facebook": "https://www.facebook.com/NightCrowsGlobal",
         "discord": "https://discord.gg/nightcrowsglobal"
+      }
+    },
+    {
+      "name": "WOT",
+      "display_name": "WOT",
+      "display_fullname": "WOT",
+      "symbol": "WOT",
+      "decimal": 18,
+      "address": "0xF0D951041996F365eb863441DDe8D240331635A1",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_WOT.png",
+      "description": {
+        "en": "WOT is the core token, released on WEMIX, totaling 100 million. It can be exchanged for in-game GOLD coins. Players earn in-game convertible currency as OIL coins and convert them from the game to WOT so that they can be used for OTC trading and withdrawals. The exchange rate is 1:1000.",
+        "ko": "WOT는 WEMIX에 출시된 핵심 토큰으로, 총 1억개입니다. Oil War 게임의 GOLD 코인으로 교환할 수 있습니다. 플레이어는 게임 내 전환 가능한 통화를 OIL 코인으로 획득하고 이를 게임에서 WOT로 전환하여 OTC 거래 및 출금에 사용할 수 있습니다. 전환 비율은 1:1000 입니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/wot/index.html",
+      "channels": {
+        "site": "https://oilwar.surfguild.io",
+        "twitter": "https://twitter.com/oilwar_sg",
+        "facebook": "https://www.facebook.com/oilwarsg",
+        "discord": "https://discord.com/invite/jDttdsR9TW"
+      }
+    },
+    {
+      "name": "GATOR",
+      "display_name": "GATOR",
+      "display_fullname": "GATOR",
+      "symbol": "GTR",
+      "decimal": 18,
+      "address": "0xBa0ae1934447594af4cB849a540e6b30EAA55cb9",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_GTR.png",
+      "description": {
+        "en": "GATOR_Zeroverse has a Single-Token Economic System. Its native currency is called GATOR, issued on WEMIX blockchain platform, used to promote the development of GATOR_Zeroverse.",
+        "ko": "GATOR_Zeroverse에는 단일 토큰 경제 시스템이 있습니다. 기본 통화는 GATOR이며, WEMIX 블록체인 플랫폼에서 발행되어 GATOR_Zeroverse의 개발을 촉진하는 데 사용됩니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/gator/index.html",
+      "channels": {
+        "site": "https://gatorzeroverse.com/pc/index.html",
+        "twitter": "https://twitter.com/GATOR_Zeroverse",
+        "facebook": "https://www.facebook.com/oilwarsg",
+        "discord": "https://discord.com/invite/4RGVPXZtFk"
+      }
+    },
+    {
+      "name": "DSB",
+      "display_name": "DSB",
+      "display_fullname": "DSB",
+      "symbol": "DSB",
+      "decimal": 18,
+      "address": "0xe525494b4d2c4935303b43f8B217bE8Fd37D1bB7",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_DSB.png",
+      "description": {
+        "en": "DSB token is a token of AmazingCultivation issued on the WEMIX Platform.which can be obtained by exchanging resources within the game. The value of DragonSoul is maintained by the value of derived in-game resources. It also has an inherent objective value, allowing free exchange, collection, selling, and purchasing outside the game.",
+        "ko": "DSB 토큰은 WEMIX 플랫폼에서 발행된 AmazingCultivation의 토큰으로, 게임 내에서 리소스를 교환하여 획득할 수 있습니다. DragonSoul의 가치는 파생된 게임 내 리소스의 가치에 의해 유지됩니다. 또한 게임 외부에서도 자유로운 교환, 수집, 판매, 구매가 가능하다는 점에서 고유한 객관적 가치를 갖고 있습니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/dsb/index.html",
+      "channels": {
+        "site": "https://ac.souldargongame.com/",
+        "facebook": "https://www.facebook.com/groups/256993187159198/",
+        "discord": "https://discord.com/invite/mKAu9CcMHS"
+      }
+    },
+    {
+      "name": "CAPTO",
+      "display_name": "CAPTO",
+      "display_fullname": "CAPTO",
+      "symbol": "CPT",
+      "decimal": 18,
+      "address": "0x4Fb6957b553BB1Ea8724f44B673136a755c02Cbe",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_CPT.png",
+      "description": {
+        "en": "CAPTO is a utility token for ‘The First Hunter’ within the WEMIX Platform, which allows in-game assets to be traded, stored, sold and purchased externally. The value of this token is guaranteed by a mechanism designed to maintain a constant external circulation of goods produced in the game and a simple ecosystem that consumes tokens when using core content within the game.",
+        "ko": "CAPTO는 위믹스 플랫폼 내 ‘최초의 헌터’의 유틸리티 토큰으로, 게임 내 자산을 외부에서 거래, 저장, 판매 및 구매할 수 있습니다. 이 토큰의 가치는 게임 내에서 생산되는 상품의 지속적인 외부 순환을 유지하도록 설계된 메커니즘과 게임 내 핵심 콘텐츠를 사용할 때 토큰을 소비하는 심플한 생태계시스템에 의해 보장됩니다."
+      },
+      "channels": {
+        "site": "https://www.captains.co.kr/",
+        "discord": "https://https://discord.com/invite/fUuGWkrp77"
+      }
+    },
+    {
+      "name": "ORANGE",
+      "display_name": "ORANGE",
+      "display_fullname": "ORANGE",
+      "symbol": "ORA",
+      "decimal": 18,
+      "address": "0x31f27EA7546dCA71F11daF3FCACc0B0aDC97b595",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_ORA.png",
+      "description": {
+        "en": "ORANGE TOKEN is a novel medium serving as a bridge between games and reality and can be used ORANGE BANANA PUNCH. With this innovative digital asset, you can convert currency earned in games into ORANGE to realize Play&Earn or convert ORANGE into in-game currency to enhance the fun and enjoyment of the games.",
+        "ko": "ORANGE TOKEN은 게임과 현실을 연결해주는 새로운 매체로 ORANGE BANANA PUNCH로 활용이 가능합니다. 이 혁신적인 디지털 자산을 사용하면 게임에서 획득한 화폐를 ORANGE로 변환하여 Play&Earn을 실현하거나 ORANGE를 게임 내 화폐로 변환하여 게임의 재미와 즐거움을 높일 수 있습니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/orange/index.html",
+      "channels": {
+        "site": "https://www.captains.co.kr/",
+        "facebook": "https://www.facebook.com/people/Orange-Banana-Punch-World/100083096694179/"
+      }
+    },
+    {
+      "name": "BYLO",
+      "display_name": "BYLO",
+      "display_fullname": "BYLO",
+      "symbol": "BYLO",
+      "decimal": 18,
+      "address": "0x5640bE81500b7C4494b1fA008C8C620A72FC75Aa",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_BYLO.png",
+      "description": {
+        "en": "BYLO issuance is based on a 100% collateralization of WEMIX$, a secure and transparent stablecoin minted natively on the WEMIX3.0 mainnet.\nBYLO maintains its price stability by constantly pegging its value to WEMIX$ in the on-chain reserve through the DIOS.G protocol.\nThe DIOS.G protocol consists of a Treasury that holds the reserve funds through smart contracts, and a MINT function for minting and burning of BYLO.\nDIOS.G protocol autonomously facilitates depositing & withdrawing, as well as issuing & burning of BYLO, to prevent depegging between BYLO and WEMIX$.\nThis mechanism ensures precise control over the circulating supply of BYLO, aligning it with the expansion and contraction of the ecosystem, thereby mitigating any associated risks related to depegging.",
+        "ko": "BYLO 발행은 WEMIX3.0 메인넷에서 기본적으로 발행되는 안전하고 투명한 스테이블 코인인 WEMIX$의 100% 담보를 기반으로 합니다.\nBYLO는 DIOS.G 프로토콜을 통해 온체인 보유분의 WEMIX$에 지속적으로 가치를 고정함으로써 가격 안정성을 유지합니다.\nDIOS.G 프로토콜은 스마트 계약을 통해 예비 자금을 보유하는 재무부와 BYLO의 발행 및 소각을 위한 MINT 기능으로 구성됩니다.\nDIOS.G 프로토콜은 BYLO의 입출금, 발행 및 소각을 자율적으로 촉진하여 BYLO와 WEMIX$ 간의 디페깅을 방지합니다.\n이 메커니즘은 BYLO의 순환 공급량을 정밀하게 제어하여 생태계의 확장 및 축소에 맞춰 조정함으로써 페깅과 관련된 모든 위험을 완화합니다."
+      },
+      "channels": {
+      }
+    },
+    {
+      "name": "SUMMON",
+      "display_name": "SUMMON",
+      "display_fullname": "SUMMON",
+      "symbol": "SOL",
+      "decimal": 18,
+      "address": "0x4613D5D938A19F27Ea99891885EC87509b66aBb1",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_SOL.png",
+      "description": {
+        "en": "BYLO issuance is based on a 100% collateralization of WEMIX$, a secure and transparent stablecoin minted natively on the WEMIX3.0 mainnet.\nBYLO maintains its price stability by constantly pegging its value to WEMIX$ in the on-chain reserve through the DIOS.G protocol.\nThe DIOS.G protocol consists of a Treasury that holds the reserve funds through smart contracts, and a MINT function for minting and burning of BYLO.\nDIOS.G protocol autonomously facilitates depositing & withdrawing, as well as issuing & burning of BYLO, to prevent depegging between BYLO and WEMIX$.\nThis mechanism ensures precise control over the circulating supply of BYLO, aligning it with the expansion and contraction of the ecosystem, thereby mitigating any associated risks related to depegging.",
+        "ko": "SOL은 WEMIX 플랫폼 내 서머너즈 리그의 유틸리티 토큰입니다.\nSOL은 게임 내 플레이를 통해 획득할 수 있는 게임 화폐인 블루젬을 소비하여 생성할 수 있습니다. 단, 생성할 수 있는 SOL의 양에는 일일 제한이 있습니다.\n블루젬은 게임 내 콘텐츠를 통해 누구나 얻을 수 있습니다. 그러나 보상은 계층 구조로 구성되어 있어 게임을 지속적으로 플레이하면서 노력하는 플레이어가 더 많은 블루젬을 획득할 수 있습니다.\n플레이어들은 이 디지털 자산을 통해 게임 내 화폐를 SOL 토큰으로 변환하여 게임 외부에서도 SOL 토큰을 자유롭게 운영(보관, 교환, 판매 및 구매)할 수 있으며, SOL 토큰을 게임 내 화폐로 변환하여 게임의 즐거움을 더욱 높일 수 있습니다."
+      },
+      "whitepaper": "cache.wemixnetwork.com/wemixnetwork/whitepaper/sol/index.html",
+      "channels": {
+        "site": "https://wemixplay.com/en/tokens/SUMMON"
+      }
+    },
+    {
+      "name": "NCC",
+      "display_name": "NCC",
+      "display_fullname": "NCC",
+      "symbol": "SOL",
+      "decimal": 18,
+      "address": "0x7cd1e13fE6b076Adcc5d6eb77eF6aF3414Ef22Ff",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_NCC.png",
+      "description": {
+        "en": "NCC is a gaming token that players can use to purchase in-game content and items on C9 Golden, and it can be exchanged with in-game currency. It is also a digital asset that is linked to the WEMIX blockchain platform. We plan to form a solid token economy by considering various factors such as the value of the in-game currency, the exchange rate between in-game currency and NCC, the supply and demand of NCC, and the NCC value",
+        "ko": "NCC는 플레이어가 C9 Golden에서 게임 내 콘텐츠와 아이템을 구매하는 데 사용할 수 있는 게임 토큰이며, 게임 내 화폐로 교환할 수 있습니다. WEMIX 블록체인 플랫폼과 연동되는 디지털 자산이기도 합니다. 게임 내 화폐의 가치, 게임 내 화폐와 NCC 간의 환율, NCC의 수급, NCC 가치 등 다양한 요소를 고려하여 견고한 토큰 이코노미를 형성할 계획입니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/ncc/index.html",
+      "channels": {
+        "site": "https://c9-golden.valofe.com/",
+        "facebook": "https://www.facebook.com/C9.Golden.Continent.VFUN",
+        "discord": "https://discord.com/invite/rN4D3wYhgp"
+      }
+    },
+    {
+      "name": "VEL",
+      "display_name": "VEL",
+      "display_fullname": "VEL",
+      "symbol": "VEL",
+      "decimal": 18,
+      "address": "0xE998745b4754a2B832536845d4033874142A3462",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_VEL.png",
+      "description": {
+        "en": "VEL is the game token can be exchanged with in-game currency.\nPlayers can enjoy in-game content and purchase items by consuming on P&E MMORPG ICARUS M: GUILD WAR.\nVEL is a digital asset linked to the WEMIX blockchain platform.",
+        "ko": "VEL은 게임 내 통화로 교환할 수 있는 게임 토큰입니다.\n플레이어는 P&E MMORPG ICARUS M: GUILD WAR에서 게임 내 콘텐츠를 즐기고 아이템을 구매할 수 있습니다.\nVEL은 WEMIX 블록체인 플랫폼과 연결된 디지털 자산입니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/vel/index.html",
+      "channels": {
+        "site": "https://vfun.valofe.com/library?service_code=icarusm-crypto-war&section=home",
+        "facebook": "https://www.facebook.com/IcarusMGuildWar.vfun",
+        "discord": "https://discord.com/invite/uzbGGAESKA"
+      }
+    },
+    {
+      "name": "Soul",
+      "display_name": "Soul",
+      "display_fullname": "Soul",
+      "symbol": "SOU",
+      "decimal": 18,
+      "address": "0x8a0195917B8a3383DA5DDaAC80c1B5F892A21e0e",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_SOU.png",
+      "description": {
+        "en": "As a Soul Seeker Knights token issued on WEMIX Platform, Soul can be acquired in-game by exchanging Soul Shards, which in turn can be obtained by defeating monsters and clearing stages, as well as completing special game quests. The value of Soul is maintained by the value of derivative resources in the game. It also has the objective intrinsic value that it can be freely exchanged, purchased and sold outside the game.",
+        "ko": "소울은 위믹스 플랫폼에서 발행되는 소울시커 나이츠(Soul Seeker Knights) 토큰으로, 게임 내에서 소울샤드(Soul Shard) 교환을 통해 획득할 수 있으며, 소울은 몬스터 처치, 스테이지 클리어, 게임 스페셜 퀘스트 완료 등을 통해 획득할 수 있습니다. Soul의 가치는 게임 내 파생자원의 가치에 의해 유지됩니다. 또한 게임 외부에서 자유롭게 교환, 구매, 판매할 수 있다는 객관적인 내재가치를 갖고 있습니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/sou/index.html",
+      "channels": {
+        "site": "https://www.roti-x.com/soulseekerknights",
+        "twitter": "https://twitter.com/roti_x_inc",
+        "discord": "https://discord.com/invite/FneRjmu7ae"
+      }
+    },
+    {
+      "name": "XQG",
+      "display_name": "XQG",
+      "display_fullname": "XQG",
+      "symbol": "XQG",
+      "decimal": 18,
+      "address": "0x50A3745Ede6278C2f901438F7063695aee2DbFC6",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_XQG.png",
+      "description": {
+        "en": "XQG is a Game utility token issued on the WEMIX3.0 Mainnet, which can be obtained by exchanging Crypston, a currency earned through in-game activities.\nXQG derives its value from the resources and assets available within the game, as well as its intrinsic value as a freely tradable asset which can be freely exchanged, collected, sold, and bought outside the game.",
+        "ko": "XQG는 WEMIX3.0 메인넷에서 발행된 게임 유틸리티 토큰으로, 게임 내 활동을 통해 획득한 화폐인 크립스톤(Crypston)을 교환하여 획득할 수 있습니다.\nXQG는 게임 내에서 사용 가능한 리소스와 자산에서 가치를 창출할 뿐만 아니라 게임 외부에서 자유롭게 교환, 수집, 판매 및 구매할 수 있는 자유롭게 거래 가능한 자산으로서의 내재적 가치를 창출합니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/sou/index.html",
+      "channels": {
+      }
+    },
+    {
+      "name": "TTS",
+      "display_name": "TTS",
+      "display_fullname": "TTS",
+      "symbol": "TTS",
+      "decimal": 18,
+      "address": "0x9813A5EDb7A49a60480E9DE941689F47D1b95Dd5",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_TTS.png",
+      "description": {
+        "en": "TTS(Turtle Shell) is a utility coin of [Taming Master: Pet Guardian] and is the center of the game economy ecosystem. In addition, users can freely store, sell, and purchase Pets in the game by converting them into value through TTS. TTS is required to purchase various goods in-game, and the value inherent in the coin is guaranteed through the value of the resources derived from the game.",
+        "ko": "TTS(Turtle Shell)는 [테이밍 마스터: 펫 가디언]의 유틸리티 코인으로, 게임 경제 생태계의 중심입니다.\n또한, 사용자는 게임 내 펫을 TTS를 통해 가치로 전환하여 자유롭게 보관, 판매, 구매할 수 있습니다.\n게임 내에서 다양한 상품을 구매하기 위해서는 TTS가 필요하며, 게임에서 파생되는 자원의 가치를 통해 코인에 내재된 가치가 보장됩니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/tts/index.html",
+      "channels": {
+      }
+    },
+    {
+      "name": "MET",
+      "display_name": "MET",
+      "display_fullname": "MET",
+      "symbol": "MET",
+      "decimal": 18,
+      "address": "0xaE7B00263e196D0AcD22BF2C798aB983F70a8306",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_MET.png",
+      "description": {
+        "en": "MET is a game utility token issued on the WEMIX3.0 mainnet that can be acquired by exchanging the in-game currency GEM.\nMET not only has value as an asset that can be used within the game, but it is also an asset that can be freely exchanged, collected, sold, and purchased outside the game.",
+        "ko": "MET는 WEMIX3.0 메인넷에서 발행된 게임 유틸리티 토큰으로, 게임 내 화폐 GEM을 교환하여 획득할 수 있습니다.\nMET는 게임 내에서 사용할 수 있는 자산으로서의 가치를 가질 뿐만 아니라, 게임 외부에서도 자유롭게 교환, 수집, 판매, 구매할 수 있는 자산이기도 합니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/met/index.html",
+      "channels": {
+        "twitter": "https://twitter.com/MeltingEarth_T",
+        "discord": "https://discord.com/invite/2YzrdhXMXG"
+      }
+    },
+    {
+      "name": "Valkyreum",
+      "display_name": "Valkyreum",
+      "display_fullname": "Valkyreum",
+      "symbol": "VKY",
+      "decimal": 18,
+      "address": "0xb6Fe348CC8Cdcb59ff2e94D445d55110f3BeFde7",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_VKY.png",
+      "description": {
+        "en": "Valkyreum is an utility game token that oversees the blockchain ecosystem of Valkyrious. It is a digital asset with distinct utility and value that can be exchanged for ‘Zent’, a crucial currency of the game, which could be used to purchase in-game items. We plan to further develop the ecosystem of Valkyreum by solidifying the tokenomics of Valkyrious through preserving the value of Valkyreum with a balance of its supply and consumption.",
+        "ko": "Valkyreum은 Valkyrious의 블록체인 생태계를 관장하는 유틸리티 게임 토큰입니다. 게임 내 아이템을 구매하는 데 사용할 수 있는 게임의 주요 화폐인 '젠트'로 교환할 수 있는 뚜렷한 효용성과 가치를 지닌 디지털 자산입니다. 발키리움의 가치를 공급과 소비의 균형으로 보존하여 발키리어스의 토큰노믹스를 공고히 하여 발키리움 생태계를 더욱 발전시킬 계획입니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/valkyreum/index.html",
+      "channels": {
+        "site": "https://valkyrious.net/",
+        "medium": "https://medium.com/@valkyrious_cm",
+        "discord": "https://discord.com/invite/R5pKxrBkf6"
+      }
+    },
+    {
+      "name": "MYRTLE",
+      "display_name": "MYRTLE",
+      "display_fullname": "MYRTLE",
+      "symbol": "MYR",
+      "decimal": 18,
+      "address": "0x88FB908560BF49FCDa2Cc3fDc3fB2816947FC7f0",
+      "required": false,
+      "listing": false,
+      "icon": "https://wallet.test.wemix.com/app/images/logo_MYR.png",
+      "description": {
+        "en": "Myrtle Sarrosa is a Filipina actress, cosplayer, singer, songwriter, and gamer with 6 million followers across Facebook, Instagram, TikTok, and other social networking services. Since the start of her career in 2012, Sarrosa has gained a considerable fan base in the Philippines and South-East Asia and has become a renowned celebrity.",
+        "ko": "Myrtle Sarrosa는 Facebook, Instagram, TikTok 및 기타 소셜 네트워킹 서비스에서 600만 명의 팔로워를 보유한 필리핀 여배우, 코스플레이어, 가수, 작곡가 및 게이머입니다. 2012년 경력을 시작한 이후 Sarrosa는 필리핀과 동남아시아에서 상당한 팬층을 확보한 유명 인사가 되었습니다."
+      },
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/myrtle/index.html",
+      "channels": {
+        "site": "https://wemixplay.com/ko/fan-token/MYRTLE/overview",
+        "twitter": "https://twitter.com/MyrtleGail",
+        "youtube": "https://www.youtube.com/@MyrtleSarrosa",
+        "facebook": "https://www.facebook.com/myrt.gail"
       }
     },
     {
