@@ -1,5 +1,5 @@
 {
-  "updated_at": 1709873684,
+  "updated_at": 1709873685,
   "tokens": [
     {
       "name": "WEMIX",
@@ -330,7 +330,7 @@
       "decimal": 18,
       "address": "0x3C2a14d0a0aEe8A86F1A7dCF674eB39d2AFaE9c0",
       "required": false,
-      "listing": false,
+      "listing": true,
       "icon": "https://wallet.test.wemix.com/app/images/logo_Crow.png",
       "description": {
         "en": "CROW, the key token in the tokenomics of NIGHT CROWS, is the tokenized version of the in-game currency ‘vDIA’ that are obtained through trading from the in-game Exchange and as rewards for carrying out requests. CROW is used to trade 6 tokens of NIGHT CROW’s tokenomics. The minting of the token is ceased once the price of CROW drops below $0.75 on WEMIX PLAY GameFi.",
@@ -509,7 +509,6 @@
       "channels": {
         "site": "https://gatorzeroverse.com/pc/index.html",
         "twitter": "https://twitter.com/GATOR_Zeroverse",
-        "facebook": "https://www.facebook.com/oilwarsg",
         "discord": "https://discord.com/invite/4RGVPXZtFk"
       }
     },
@@ -550,7 +549,7 @@
       },
       "channels": {
         "site": "https://www.captains.co.kr/",
-        "discord": "https://https://discord.com/invite/fUuGWkrp77"
+        "discord": "https://discord.com/invite/fUuGWkrp77"
       }
     },
     {
@@ -569,7 +568,6 @@
       },
       "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/orange/index.html",
       "channels": {
-        "site": "https://www.captains.co.kr/",
         "facebook": "https://www.facebook.com/people/Orange-Banana-Punch-World/100083096694179/"
       }
     },
@@ -604,7 +602,7 @@
         "en": "BYLO issuance is based on a 100% collateralization of WEMIX$, a secure and transparent stablecoin minted natively on the WEMIX3.0 mainnet.\nBYLO maintains its price stability by constantly pegging its value to WEMIX$ in the on-chain reserve through the DIOS.G protocol.\nThe DIOS.G protocol consists of a Treasury that holds the reserve funds through smart contracts, and a MINT function for minting and burning of BYLO.\nDIOS.G protocol autonomously facilitates depositing & withdrawing, as well as issuing & burning of BYLO, to prevent depegging between BYLO and WEMIX$.\nThis mechanism ensures precise control over the circulating supply of BYLO, aligning it with the expansion and contraction of the ecosystem, thereby mitigating any associated risks related to depegging.",
         "ko": "SOL은 WEMIX 플랫폼 내 서머너즈 리그의 유틸리티 토큰입니다.\nSOL은 게임 내 플레이를 통해 획득할 수 있는 게임 화폐인 블루젬을 소비하여 생성할 수 있습니다. 단, 생성할 수 있는 SOL의 양에는 일일 제한이 있습니다.\n블루젬은 게임 내 콘텐츠를 통해 누구나 얻을 수 있습니다. 그러나 보상은 계층 구조로 구성되어 있어 게임을 지속적으로 플레이하면서 노력하는 플레이어가 더 많은 블루젬을 획득할 수 있습니다.\n플레이어들은 이 디지털 자산을 통해 게임 내 화폐를 SOL 토큰으로 변환하여 게임 외부에서도 SOL 토큰을 자유롭게 운영(보관, 교환, 판매 및 구매)할 수 있으며, SOL 토큰을 게임 내 화폐로 변환하여 게임의 즐거움을 더욱 높일 수 있습니다."
       },
-      "whitepaper": "cache.wemixnetwork.com/wemixnetwork/whitepaper/sol/index.html",
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/sol/index.html",
       "channels": {
         "site": "https://wemixplay.com/en/tokens/SUMMON"
       }
@@ -686,7 +684,7 @@
         "en": "XQG is a Game utility token issued on the WEMIX3.0 Mainnet, which can be obtained by exchanging Crypston, a currency earned through in-game activities.\nXQG derives its value from the resources and assets available within the game, as well as its intrinsic value as a freely tradable asset which can be freely exchanged, collected, sold, and bought outside the game.",
         "ko": "XQG는 WEMIX3.0 메인넷에서 발행된 게임 유틸리티 토큰으로, 게임 내 활동을 통해 획득한 화폐인 크립스톤(Crypston)을 교환하여 획득할 수 있습니다.\nXQG는 게임 내에서 사용 가능한 리소스와 자산에서 가치를 창출할 뿐만 아니라 게임 외부에서 자유롭게 교환, 수집, 판매 및 구매할 수 있는 자유롭게 거래 가능한 자산으로서의 내재적 가치를 창출합니다."
       },
-      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/sou/index.html",
+      "whitepaper": "https://cache.wemixnetwork.com/wemixnetwork/whitepaper/xqg/index.html",
       "channels": {
       }
     },
