@@ -1,5 +1,5 @@
 {
-  "updated_at": 1709890285,
+  "updated_at": 1710121368,
   "tokens": [
     {
       "name": "WEMIX",
@@ -318,6 +318,153 @@
         "medium": "https://medium.com/@deltafixyz",
         "telegram": "https://t.me/deltafiofficial",
         "twitter": "https://twitter.com/deltafixyz"
+      }
+    },
+    {
+      "name": "CROW",
+      "display_name": "CROW",
+      "display_fullname": "CROW",
+      "symbol": "CROW",
+      "decimal": 18,
+      "address": "0x770D9D14C4AE2f78dCa810958C1D9b7Ea4620289",
+      "required": false,
+      "listing": true,
+      "icon": "https://walletapi.wemix.com/app/images/logo_Crow.png",
+      "description": {
+        "en": "CROW, the key token in the tokenomics of NIGHT CROWS, is the tokenized version of the in-game currency ‘vDIA’ that are obtained through trading from the in-game Exchange and as rewards for carrying out requests. CROW is used to trade 6 tokens of NIGHT CROW’s tokenomics. The minting of the token is ceased once the price of CROW drops below $0.75 on WEMIX PLAY GameFi.",
+        "ko": "CROW는 나이트 크로우 토크노믹스의 기축 토큰으로써 게임 내 거래소에서 거래 결과 또는 의뢰의 수행 보상으로 얻은 ‘vDIA’를 민팅을 통해 토큰화 한 것 입니다. 나이트 크로우의 토크노믹스를 구성하는 6종 토큰의 거래 수단으로 사용됩니다. 위믹스 플레이의 Gamefi 내 시세가 $0.75 미만이 되면 일시적으로 민팅이 중단되며, 시세가 안정화 범위로 복구되면 민팅이 재개됩니다."
+      },
+      "whitepaper": "https://nightcrows.com/en/token/playbook",
+      "channels": {
+        "site": "https://nightcrows.com",
+        "facebook": "https://www.facebook.com/NightCrowsGlobal",
+        "discord": "https://discord.gg/nightcrowsglobal"
+      }
+    },
+    {
+      "name": "MORION",
+      "display_name": "MORION",
+      "display_fullname": "MORION",
+      "symbol": "MORION",
+      "decimal": 18,
+      "address": "0x732e6973595136976173AF4a56Eac99F52beCc6E",
+      "required": false,
+      "listing": false,
+      "icon": "https://walletapi.wemix.com/app/images/logo_Morion.png",
+      "description": {
+        "en": "MORION is a utility token minted by tokenizing the in-game item ‘Morion’ that can be mined exclusively in New Trieste and used for crafting various items and for your character. Once the supply of a token reaches its Max Supply, minting is ceased for a while and it is resumed when some of the token is burned and its supply drops below its Max Supply.",
+        "ko": "MORION은 신 트리에스테 에서만 채굴되고 다양한 제작 및 캐릭터의 성장에 필요한 마력이 담긴 특별한 광석 '모리온'을 민팅을 통해 토큰화 한 유틸리티 토큰입니다. 토큰의 최대 공급량에 도달한 경우 해당 토큰의 민팅이 일시적으로 중단되며, 토큰의 소각을 통해 최대 공급량에 여유가 생기는 경우 민팅이 재개됩니다."
+      },
+      "whitepaper": "https://nightcrows.com/en/token/playbook",
+      "channels": {
+        "site": "https://nightcrows.com",
+        "facebook": "https://www.facebook.com/NightCrowsGlobal",
+        "discord": "https://discord.gg/nightcrowsglobal"
+      }
+    },
+    {
+      "name": "GEAR",
+      "display_name": "GEAR",
+      "display_fullname": "GEAR",
+      "symbol": "GEAR",
+      "decimal": 18,
+      "address": "0x17133c3B231eb73aceece547933E05648ef1C027",
+      "required": false,
+      "listing": false,
+      "icon": "https://walletapi.wemix.com/app/images/logo_Gear.png",
+      "description": {
+        "en": "GEAR is a utility token minted by tokenizing the in-game item ‘Meticulous Aircraft Component’ that is used to craft the high grade Aircraft Toolbox. Once the supply of a token reaches its Max Supply, minting is ceased for a while and it is resumed when some of the token is burned and its supply drops below its Max Supply.",
+        "ko": "GEAR는 상위 등급 비행 공구 제작에 쓰이는 재료인 인게임 아이템 '초정밀 비행 부품'을 민팅을 통해 토큰화 한 유틸리티 토큰입니다. 토큰의 최대 공급량에 도달한 경우 해당 토큰의 민팅이 일시적으로 중단되며, 토큰의 소각을 통해 최대 공급량에 여유가 생기는 경우 민팅이 재개됩니다."
+      },
+      "whitepaper": "https://nightcrows.com/en/token/playbook",
+      "channels": {
+        "site": "https://nightcrows.com",
+        "facebook": "https://www.facebook.com/NightCrowsGlobal",
+        "discord": "https://discord.gg/nightcrowsglobal"
+      }
+    },
+    {
+      "name": "PROMOTE",
+      "display_name": "PROMOTE",
+      "display_fullname": "PROMOTE",
+      "symbol": "PROMOTE",
+      "decimal": 18,
+      "address": "0xd1445BcbE14cE5eDf7ae887e3F3F82f7bDa12aF3",
+      "required": false,
+      "listing": false,
+      "icon": "https://walletapi.wemix.com/app/images/logo_Remote.png",
+      "description": {
+        "en": "PROMOTE is a utility token minted by tokenizing the valuable in-game item ‘Higher Seal of Advancement’ that is used to craft the Scroll of Advancement. Once the supply of a token reaches its Max Supply, minting is ceased for a while and it is resumed when some of the token is burned and its supply drops below its Max Supply.",
+        "ko": "PROMOTE는 전직의 서 제작에 쓰이는 가치 높은 재료인 인게임 아이템 '상급 전직의 증표'를 민팅을 통해 토큰화 한 유틸리티 토큰입니다. 토큰의 최대 공급량에 도달한 경우 해당 토큰의 민팅이 일시적으로 중단되며, 토큰의 소각을 통해 최대 공급량에 여유가 생기는 경우 민팅이 재개됩니다."
+      },
+      "whitepaper": "https://nightcrows.com/en/token/playbook",
+      "channels": {
+        "site": "https://nightcrows.com",
+        "facebook": "https://www.facebook.com/NightCrowsGlobal",
+        "discord": "https://discord.gg/nightcrowsglobal"
+      }
+    },
+    {
+      "name": "TEAR",
+      "display_name": "TEAR",
+      "display_fullname": "TEAR",
+      "symbol": "TEAR",
+      "decimal": 18,
+      "address": "0xB91D37ABc99B9bbc3041e0B7646588F347aa6320",
+      "required": false,
+      "listing": false,
+      "icon": "https://walletapi.wemix.com/app/images/logo_Tear.png",
+      "description": {
+        "en": "TEAR is a utility token minted by tokenizing the in-game item ‘Frozen Tear’ that is used to craft the Epic grade Arcane Scroll and materials for awakening Artifact. Once the supply of a token reaches its Max Supply, minting is ceased for a while and it is resumed when some of the token is burned and its supply drops below its Max Supply.",
+        "ko": "TEAR는 영웅 등급의 비전서 및 아티팩트 각성 재료 제작에 쓰이는 인게임 아이템 '얼어붙은 눈물'을 민팅을 통해 토큰화 한 유틸리티 토큰입니다. 토큰의 최대 공급량에 도달한 경우 해당 토큰의 민팅이 일시적으로 중단되며, 토큰의 소각을 통해 최대 공급량에 여유가 생기는 경우 민팅이 재개됩니다."
+      },
+      "whitepaper": "https://nightcrows.com/en/token/playbook",
+      "channels": {
+        "site": "https://nightcrows.com",
+        "facebook": "https://www.facebook.com/NightCrowsGlobal",
+        "discord": "https://discord.gg/nightcrowsglobal"
+      }
+    },
+    {
+      "name": "FEATHER",
+      "display_name": "FEATHER",
+      "display_fullname": "FEATHER",
+      "symbol": "FEATHER",
+      "decimal": 18,
+      "address": "0x99618512fCE498Bebe0447C5f8BB8ea7Ad32de76",
+      "required": false,
+      "listing": false,
+      "icon": "https://walletapi.wemix.com/app/images/logo_Feather.png",
+      "description": {
+        "en": "FEATHER is a utility token minted by tokenizing the in-game item ‘Piece of the Sky’ that is used to craft the Aircraft Toolbox. Once the supply of a token reaches its Max Supply, minting is ceased for a while and it is resumed when some of the token is burned and its supply drops below its Max Supply.",
+        "ko": "FEATHER는 비행 공구 제작에 쓰이는 재료인 인게임 아이템 '창공의 조각'을 민팅을 통해 토큰화 한 유틸리티 토큰입니다. 토큰의 최대 공급량에 도달한 경우 해당 토큰의 민팅이 일시적으로 중단되며, 토큰의 소각을 통해 최대 공급량에 여유가 생기는 경우 민팅이 재개됩니다."
+      },
+      "whitepaper": "https://nightcrows.com/en/token/playbook",
+      "channels": {
+        "site": "https://nightcrows.com",
+        "facebook": "https://www.facebook.com/NightCrowsGlobal",
+        "discord": "https://discord.gg/nightcrowsglobal"
+      }
+    },
+    {
+      "name": "PAPYRUS",
+      "display_name": "PAPYRUS",
+      "display_fullname": "PAPYRUS",
+      "symbol": "PAPYRUS",
+      "decimal": 18,
+      "address": "0xc50a55cA9d4B7804471de1E44f3C3CE8216D8Ea0",
+      "required": false,
+      "listing": false,
+      "icon": "https://walletapi.wemix.com/app/images/logo_Papyrus.png",
+      "description": {
+        "en": "PAPYRUS is a utility token minted by tokenizing the in-game item ‘Ancient Papyrus’ that is used to craft the Arcane Scroll and rare grade gears. Once the supply of a token reaches its Max Supply, minting is ceased for a while and it is resumed when some of the token is burned and its supply drops below its Max Supply.",
+        "ko": "PAPYRUS는 희귀 등급의 장비 및 비전서 제작에 쓰이는 전용 재료인 인게임 아이템 '고대 파피루스'를 민팅을 통해 토큰화 한 유틸리티 토큰입니다. 토큰의 최대 공급량에 도달한 경우 해당 토큰의 민팅이 일시적으로 중단되며, 토큰의 소각을 통해 최대 공급량에 여유가 생기는 경우 민팅이 재개됩니다."
+      },
+      "whitepaper": "https://nightcrows.com/en/token/playbook",
+      "channels": {
+        "site": "https://nightcrows.com",
+        "facebook": "https://www.facebook.com/NightCrowsGlobal",
+        "discord": "https://discord.gg/nightcrowsglobal"
       }
     },
     {
