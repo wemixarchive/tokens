@@ -2,61 +2,79 @@
   "tokens": {
     "WEMIX": {
       "networks": {
-        "Polygon": {
+        "Arbitrum": {
+          "bridges": ["una Swap"]
+        },
+        "Avalanche": {
+          "bridges": ["una Swap"]
+        },
+        "BNB": {
+          "bridges": ["una Swap"]
+        },
+        "Ethereum": {
+          "bridges": ["una Swap"]
+        },
+        "Kroma": {
           "bridges": []
+        },
+        "Optimism": {
+          "bridges": ["una Swap"]
+        },
+        "Polygon": {
+          "bridges": ["una Swap"]
         },
         "Play Chain": {
           "bridges": ["WEMIX PLAY"]
-        },
-        "Klaytn": {
-          "bridges": []
-        },
-        "TON": {
-          "bridges": []
         }
       }
     },
     "WEMIX$": {
       "networks": {
-        "BNB Chain": {
-          "bridges": []
-        },
-        "TON": {
-          "bridges": []
-        },
         "Play Chain": {
           "bridges": ["WEMIX PLAY"]
         }
       }
     },
-    "oUSDC": {
+    "una.USDC": {
       "networks": {
         "Ethereum": {
-          "bridges": []
+          "bridges": ["una Swap"]
+        }
+      }
+    },
+    "CROW": {
+      "networks": {
+        "Avalanche": {
+          "bridges": ["una Swap"]
         },
-        "TON": {
+        "BNB": {
+          "bridges": ["una Swap"]
+        },
+        "Ethereum": {
+          "bridges": ["una Swap"]
+        },
+        "Kroma": {
           "bridges": []
         },
         "Polygon": {
-          "bridges": []
-        },
-        "Klaytn": {
-          "bridges": []
+          "bridges": ["una Swap"]
         }
       }
     }
   },
-  "symbol_rename": {
-    "Multichain": {
-      "BNB Chain": {
-        "WBTC": "BTCB"
-      }
-    }
-  },
+  "symbol_rename": {},
   "chain": {
     "Klaytn": 8217,
     "Ethereum": 1,
     "BNB Chain": 56,
     "Polygon": 137
+  },
+  "bridges": {
+    "una Swap": {
+      "url": "https://unaswap.io/swap"
+    },
+    "WEMIX PLAY": {
+      "url": "https://wemixplay.com/gamefi/bridge"
+    }
   }
 }
