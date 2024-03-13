@@ -1,5 +1,5 @@
 {
-  "updated_at": 1710374142,
+  "updated_at": 1710374143,
   "tokens": [
     {
       "name": "WEMIX",
@@ -338,7 +338,6 @@
       },
       "whitepaper": "https://wallet.test.wemix.com/app/images/logo_unaUSDC.png",
       "channels": {
-        "site": "https://deltafi.xyz",
         "medium": "https://t.me/WEMIX_ANNouncement",
         "twitter": "https://twitter.com/unagi_omnichain",
         "youtube": "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA"
