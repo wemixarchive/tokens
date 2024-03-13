@@ -1,5 +1,5 @@
 {
-  "updated_at": 1709873688,
+  "updated_at": 1710374142,
   "tokens": [
     {
       "name": "WEMIX",
@@ -320,6 +320,28 @@
         "medium": "https://medium.com/@deltafixyz",
         "telegram": "https://t.me/deltafiofficial",
         "twitter": "https://twitter.com/deltafixyz"
+      }
+    },
+    {
+      "name": "una USDC",
+      "display_name": "una USDC",
+      "display_fullname": "una USDC",
+      "symbol": "una.USDC",
+      "decimal": 18,
+      "address": "0xB12bDb7721Bb6B2e3A979aF8E9b44172E5EBc33E",
+      "required": false,
+      "listing": true,
+      "icon": "https://wallet.test.wemix.com/app/images/icon_dWEMIX.png",
+      "description": {
+        "en": "una.USDC is a stablecoin issued at a 1:1 ratio by depositing USDC into UnaStations deployed on Ethereum. Subsequently, una.USDC is transferred to Wemix3.0 via UnaBridge using the Burn&Mint process. In the Wemix ecosystem, it functions as a medium of exchange for tokens.",
+        "ko": "una.USDC는 이더리움에 배포되어있는 우나스테이션에 USDC를 예치하여 1:1 비율로 발행하는 스테이블코인입니다. 이더리움에서 발행된 una.USDC는 우나브릿지를 통해 번앤민트(Burn&Mint) 방식으로 위믹스3.0에 재발행되어 위믹스 생태계에서 토큰 교환의 매개체로 사용됩니다."
+      },
+      "whitepaper": "https://wallet.test.wemix.com/app/images/logo_unaUSDC.png",
+      "channels": {
+        "site": "https://deltafi.xyz",
+        "medium": "https://t.me/WEMIX_ANNouncement",
+        "twitter": "https://twitter.com/unagi_omnichain",
+        "youtube": "https://www.youtube.com/channel/UCm7NfySSdy2ljrnh64cUJXA"
       }
     },
     {
