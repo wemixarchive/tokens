@@ -6,22 +6,22 @@
           "bridges": ["una Swap"]
         },
         "Avalanche": {
-          "bridges": ["una Swap"]
+          "bridges": ["una Swap", "WEMIX PLAY"]
         },
         "BNB": {
-          "bridges": ["una Swap"]
+          "bridges": ["una Swap", "WEMIX PLAY"]
         },
         "Ethereum": {
-          "bridges": ["una Swap"]
+          "bridges": ["una Swap", "WEMIX PLAY"]
         },
         "Kroma": {
-          "bridges": []
+          "bridges": ["WEMIX PLAY"]
         },
         "Optimism": {
           "bridges": ["una Swap"]
         },
         "Polygon": {
-          "bridges": ["una Swap"]
+          "bridges": ["una Swap", "WEMIX PLAY"]
         },
         "Play Chain": {
           "bridges": ["WEMIX PLAY"]
@@ -38,26 +38,26 @@
     "una.USDC": {
       "networks": {
         "Ethereum": {
-          "bridges": ["una Swap"]
+          "bridges": ["una Swap", "WEMIX PLAY"]
         }
       }
     },
     "CROW": {
       "networks": {
         "Avalanche": {
-          "bridges": ["una Swap"]
+          "bridges": ["una Swap", "WEMIX PLAY"]
         },
         "BNB": {
-          "bridges": ["una Swap"]
+          "bridges": ["una Swap", "WEMIX PLAY"]
         },
         "Ethereum": {
-          "bridges": ["una Swap"]
+          "bridges": ["una Swap", "WEMIX PLAY"]
         },
         "Kroma": {
-          "bridges": []
+          "bridges": ["WEMIX PLAY"]
         },
         "Polygon": {
-          "bridges": ["una Swap"]
+          "bridges": ["una Swap", "WEMIX PLAY"]
         }
       }
     }
