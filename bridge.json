@@ -66,8 +66,12 @@
   "chain": {
     "Klaytn": 8217,
     "Ethereum": 1,
-    "BNB Chain": 56,
-    "Polygon": 137
+    "BNB": 56,
+    "Polygon": 137,
+    "Arbitrum": 42161,
+    "Avalanche": 43114,
+    "Kroma": 255,
+    "Optimism": 10
   },
   "bridges": {
     "una Swap": {
