@@ -62,7 +62,28 @@
       }
     }
   },
-  "symbol_rename": {},
+  "symbol_rename": {
+    "una Swap": {
+      "Arbitrum": {
+        "WEMIX": "unaWEMIX"
+      },
+      "Avalanche": {
+        "WEMIX": "unaWEMIX"
+      },
+      "BNB": {
+        "WEMIX": "unaWEMIX"
+      },
+      "Ethereum": {
+        "WEMIX": "unaWEMIX"
+      },
+      "Optimism": {
+        "WEMIX": "unaWEMIX"
+      },
+      "Polygon": {
+        "WEMIX": "unaWEMIX"
+      }
+    }
+  },
   "chain": {
     "Klaytn": 8217,
     "Ethereum": 1,
